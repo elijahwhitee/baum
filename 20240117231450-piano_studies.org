@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       dbcd045a-1872-44f8-a085-f0f2d3d83adc
+:END:
+#+title: piano-studies
+* Books
+1. Dohnanyi's Essential Finger Exercises.
+2. Hannon.

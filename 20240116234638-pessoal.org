@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID: 5ca24bbf-c554-4106-8230-495491ea09e0
+:END:
+#+title: pessoal
+* Dados
+** celulares
+*** Motorola one perdido.
+- IMEI ::
+1. IMEI: 354174102635997

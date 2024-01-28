@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       0a3ba6d6-664f-45ed-8679-818cdeb27491
+:END:
+#+title: economics:sectors:defense:companies
+* Raytheon :publiclisted:
+* Lockheed martin :publiclisted:
+* Anduril
