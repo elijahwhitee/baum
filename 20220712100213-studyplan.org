@@ -1,0 +1,16 @@
+#+title: 20220712100213 Studyplan
+#+title: StudyPlan
+* Sources
+** Publishers
+    [[https://www.wiley.com/en-br][Wiley]]
+    [[https://link.springer.com/][Springer]]
+** Books Sources
+** Paper Sources
+** Scientific publishers
+[[https://www.scaruffi.com/mind/publ.html][List of scientific publishers]]
+* Universities
+** FIAP
+** Usp
+*** Simulados
+[[https://vestibular.brasilescola.uol.com.br/downloads/universidade-sao-paulo.htm][Simulados]]
+** Unicamp

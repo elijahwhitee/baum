@@ -1,0 +1,353 @@
+:PROPERTIES:
+:ID:       1efae5bb-051c-4d4a-892f-8c8453bd3890
+:END:
+#+title: it:setup/tooling
+#+roam_tags: m
+* Networking
+** Tcpdump
+:PROPERTIES:
+:ID:       86bb6826-1f46-4513-abc3-cad6ef6ec359
+:END:
+** ssh
+#+begin_src bash
+ssh-keygen -t rsa -b 4096 -C "myemail@domain.com"
+#+end_src
+Copy key to remote server
+#+begin_src bash
+ssh-copy-id remote_username@server.com
+#+end_src
+** HTTPS requests
+#+begin_src bash
+curl -v https://urlexample.com
+#+end_src
+*** Test Rest api
+Json POST body request.
+#+begin_src json
+{
+	"nome":"Matheus",
+	"cpf":"4444.4444.4444-44",
+	"idade":20,
+	"senha":"Teste",
+	"data_nasc":"2020-03-09T22:18:26.625Z",
+	"cargo":"limpador",
+	"root":true
+}
+#+end_src
+
+Sending request to the URL test server.
+
+#+begin_src
+curl -d @request.json -H 'Content-Type: application/json' -X POST http://localhost:3000/url/
+#+end_src
+* Version Control
+** Git config
+Show git config
+#+begin_src bash
+git config --list
+#+end_src
+Show git config and origin
+#+begin_src bash
+git config --list --show-origin
+#+end_src
+Show git global config and origin
+#+begin_src bash
+git config --list --global --show-origin
+#+end_src
+*** Git bare repos
+Git fix fetch issue in git bare repo
+#+begin_src bash
+git config remote.origin.fetch 'refs/heads/*:refs/heads/*'
+#+end_src
+** Git worktree
+Fixing issue of not being able to pull from remote repo when using
+a git bare repo.
+#+begin_src bash
+git config remote.origin.fetch "+refs/heads/*:refs/remotes/origin/*"
+#+end_src
+* Devops
+** Docker
+*** Create docker image for gpg
+[[https://nixaid.com/using-gpg-inside-a-docker-container/][Tutorial]]
+** SSH
+** Cron
+Execute task every reboot
+#+begin_src bash
+@reboot #every reboot
+#+end_src
+
+Add tasks easly to cron
+
+#+begin_src bash
+echo "@reboot echo hi" | crontab
+#+end_src
+
+*** Cheatsheet
+[[https://crontab.guru/examples.html][CrontabGuru]]
+[[https://devhints.io/cron][CronCheatSheet]]
+* Virtualization :devops:qemu:qemu:
+*** Libvirt
+*Installing virtual machines with libvirt*
+#+begin_src bash
+virt-install --name archlinux  --memory 4000 --vcpus 6 --disk size=20 --cdrom ~/isos/archlinux-2022.07.01-x86_64.iso
+#+end_src
+*** Virsh :devops:
+Virsh *shutdown* *forcefully* virtual machine
+#+begin_src bash
+virsh destroy virtual_machine_name
+#+end_src
+*** Qemu :qemu:
+- Documentation ::
+  1. [[https://qemu-project.gitlab.io/qemu/system/quickstart.html][qemu-project.gitlab.io]]
+**** Create virtual machine
+The main program that we use to interact with
+qemu is *qemu-system-x86_64*
+
+That way we can specify a process with all virtualized hardwares needed
+
+*Example 1*
+
+#+begin_src bash
+qemu-system-x86_64 \
+-enable-kvm \
+-m 2048 \
+-smp 2 \
+-cpu host \
+-serial mon:stdio \
+-boot menu=on \
+-net nic \
+-net user,hostfwd=tcp::5555-:22 \
+-display gtk,gl=on \
+-hda ./arch.img \
+-cdrom ~/iso/arch.iso
+#+end_src
+
+*Example 2*
+
+#+begin_src bash
+qemu-system-x86_64 \
+-enable-kvm \
+-m 2048 \
+-smp 2 \
+-cpu host \
+-boot menu=on \
+-display gtk,gl=on \
+-drive format=img,file=./arch.img \
+-cdrom ~/iso/arch.iso
+#+end_src
+
+#+begin_src bash
+qemu-img create -f qcow2 ~/work/lab/Virtualization/ 7G
+#+end_src
+
+
+**** Boot kernel from binary
+This is the command to run a programm on bare metal setup with qemu
+#+begin_src bash
+qemu-system-x86_64 -kernel /boot/vmlinuz-`uname -r`
+#+end_src
+**** Android emulation
+***** Create virtual image
+#+begin_src bash
+qemu-img create -f qcow2 ~/lab/IT/Virtualization/nacci_lineageOS.img 7G
+#+end_src
+
+#+RESULTS:
+
+***** Run virtual machine
+#+begin_src bash
+qemu-system-x86_64 \
+-enable-kvm \
+-m 2048 \
+-smp 2 \
+-cpu host \
+-serial mon:stdio \
+-boot menu=on \
+-net nic \
+-net user,hostfwd=tcp::5555-:22 \
+-display gtk,gl=on \
+-hda /home/fforelle/lab/IT/Virtualization/nacci_android.img \
+ -cdrom ~/isos/android-x86_64-9.0-r2.iso
+#+end_src
+
+* Vim tooling
+** Coc
+  [[https:https://github.com/rstacruz/vim-coc-settings][Coc-keybindings]]
+** Regex refactoring
+** Regex tricks with vim
+#+begin_src vim
+Convert pixels to rem
+
+s#\v([0-9]+)rem#\=str2float(submatch(1))/16#
+
+Convert rem to pixels
+
+s#\v([0-9]+)rem#\=str2float(submatch(1))*16#
+
+s#\v([0-9]+.[0-9]+)rem#\=str2float(submatch(1))*16#
+#+end_src
+** Vim tips
+[[https://www.youtube.com/watch?v=qZO9A5F6BZs&t=63s][BLAZINGLY FAST Vim]]
+* Emacs
+** Magit
+[[https://magit.vc/manual/magit/Diffing.html][Magit  diff]]
+[[https://magit.vc/manual/magit/Branch-Commands.html][Magit Branch]]
+[[https://magit.vc/manual/magit/Reverting.html][Magit Revert]]
+** Org mode
+[[https://orgmode.org/worg/][Worg!]]
+** Org agenda
+[[https://www.youtube.com/watch?v=Ea_-TaEGa7Y&t=140s][Org agenda dt video]]
+** Shells in emacs
+[[https://www.youtube.com/watch?v=2LzDgaen1cQ][Dt's videio]]
+** Org babel
+[[https://orgmode.org/worg/org-contrib/babel/intro.html][Introducing babel]]
+** Eww
+** Image preview
+* Shell
+** Hardware monitoring
+Get display  of cpu temperature
+#+begin_src bash
+sensors
+#+end_src
+Get display of nvidia card temperature
+#+begin_src bash
+nvidia-smi
+#+end_src
+** Shell aliases
+** Shell tricks
+*** Commands
+**** Debug web server
+#+begin_src bash
+ab -n 500 site.example.com
+#+end_src
+*** Shell
+**** Change priority of a list of process
+#+begin_src bash
+for pid in $(pidof ffmpeg); do renice  19 $pid; done
+#+end_src
+**** archlinux managenment :awk:
+*Show total of installed packages size*
+#+begin_src bash
+awk '{sum+=$4} END {print sum}' <(pacman -Qi | grep Size)
+#+end_src
+
+#+RESULTS:
+** Rsync
+Keep files from different dirs in sync.
+** Aliases
+#+begin_src bash :tangle ~/.zshaliases
+#aliases
+alias t='tmux'
+alias h='history'
+alias l='lsd -l'
+alias rr='ranger'
+alias dir='dir --color=auto'
+alias vdir='vdir --color=auto'
+alias grep='grep --color=auto'
+alias fgrep='fgrep --color=auto'
+alias egrep='egrep --color=auto'
+alias es="emacsclient -nw -c -a 'emacs'"
+alias e="emacs -nw"
+# Git
+alias xn='xrandr -o normal'
+alias xr='xrandr -o right'
+alias p="pacman"
+alias gl="git log --oneline"
+alias s="systemd"
+alias j="journalctl"
+
+#+end_src
+
+* Display and video
+**** Xrandr
+*rotate display*
+#+begin_src bash
+xrandr --output display_name --rotate inverted
+#+end_src
+*Change resolution*
+#+begin_src bash
+xrandr -s  1440x900
+#+end_src
+* Browsers
+** Vim like browsers
+https://reversed.top/2016-08-13/big-list-of-vim-like-software/#browsers
+* Security
+
+** Encryption
+*** GPG
+[[https://rtcamp.com/tutorials/linux/gpg-keys/][GPG Cheatsheet]]
+**** Generate key without password
+[[https://shawngrover.medium.com/generate-gpg-key-without-passphrase-6dec71caecf8][Tutorial]]
+#+begin_src bash
+gpg --batch --passphrase '' --quick-gen-key USER_ID default default
+#+end_src
+**** Encrypt files
+#+begin_src bash
+gpg -r "keyid or email" -e file
+#+end_src
+
+*** Age
+[[https://nixfaq.org/2021/01/age-the-modern-alternative-to-gpg.html][Age:the modern alternative to gpg]]
+** Secret generation
+#+begin_src bash
+node -e "console.log(require('crypto').randomBytes(256).toString('base64'));"
+#+end_src
+* Text processing
+** Regex tricks
+*Select any number*
+#+begin_src regex
+[0-9]+
+#+end_src
+** Awk
+[[https://www.gnu.org/software/gawk/manual/gawk.html][Awk documentation]]
+* Fzf
+** Wrappers
+#+begin_src bash
+fzf | awk -F "/" 'NF{NF-=1};1'
+#+end_src
+* Rendering
+** Tools for rendering
+[[https://poly.cam/][Polycam]]
+* System manengenment
+** Storage managenment
+*** Searching for heavy files
+#+begin_src bash
+du -h | grep '[0-9\.]\+G'
+#Don't show directories and files smaller than 1Gb
+du -h | grep '^\s[0-9\.]\+G'
+#Show dirs with depth one
+sudo du -h -d 1 ~/ | grep '[0-9]G\>'
+# Show files bigger than 100M
+sudo find . -xdev -type f -size +1G
+# Ducks!
+alias ducks='du -chks * | sort -rn | head'
+# Sudo find
+sudo find / -xdev -type f -size +100M
+#Find heaviest files
+sudo du -aBm / 2>/dev/null | sort -nr | head -n 10
+#+end_src
+
+**** List heaviest directories in linux :du:
+#+begin_src bash
+du -hs * | sort -rh | head -5
+#+end_src
+*** Syncing two folders
+**** Remotely
+
+Sync files through network between two
+linux machines.
+#+begin_src bash
+rsync -a dir1/ dir2
+#+end_src
+
+Sync remotely with google drive folder
+#+begin_src bash
+rclone mount --daemon remote: ~/mount
+#+end_src
+** Archlinux
+*** Pacman
+#+begin_src shell
+#Update system
+pacman -Syu
+#Update package lists
+pacman -Syyu
+#+end_src

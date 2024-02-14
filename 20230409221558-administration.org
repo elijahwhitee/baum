@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       6d6564e5-43e0-4a4b-aa5a-40df6f11ee28
+:END:
+#+title: 20230409221558 Administration
+#+title: administration
+* Corporative governance
+** What is corporate governance
+De acordo com *Aroldo Cedraz*
+" governança de TI é o conjunto estruturado de políticas, normas, métodos e procedimentos destinados a permitir à alta administração e aos executivos o planejamento, a direção e o controle da utilização atual e futura de tecnologia da informação, de modo a assegurar, a um nível aceitável de risco, eficiente utilização de recursos, apoio aos processos da organização e alinhamento estratégico com objetivos desta última. Seu objetivo, pois, é garantir que o uso da TI agregue valor ao negócio da organização. "

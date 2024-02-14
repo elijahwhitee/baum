@@ -1,0 +1,64 @@
+:PROPERTIES:
+:ID:       15b65f54-3f77-4170-b03b-0041aefbd8c6
+:END:
+#+title: work/projeto/imoviz
+* Objetivo
+Desenvolver um web app gimmick onde o usuario possa
+visualizar facilmente o mercado imobioliário de SP
+facilmente através de gráficos.
+* Sites de anúncio de imóveis
+** List de sites
+1. zapimovies.
+   1. [[https://anuncie.zapimoveis.com.br/][https://anuncie.zapimoveis.com.br/]]
+2. imovelweb.
+   1. [[https://www.imovelweb.com.br/anuncie-seu-imovel][https://www.imovelweb.com.br/anuncie-seu-imovel]]
+3. Vivareal
+   1. [[https://www.vivareal.com.br/][https://www.vivareal.com.br/]]
+** Fontes
+*** Artigos sobre melhores sites para anunciar imóveis
+- [[https://praedium.com.br/blog/melhores-sites-para-anunciar-imoveis/][21 melhores  sites para anunciar imóveis em 2023]] ::
+  1. Artigo da Praedium
+- [[https://imoveis.estadao.com.br/aluguel/7-melhores-sites-para-alugar-imovel/][7 melhores sites para alugar imóvel]] ::
+  1. Estadão
+- [[https://valorinveste.globo.com/produtos/imoveis/noticia/2019/10/26/veja-4-plataformas-para-quem-quer-vender-ou-comprar-imoveis.ghtml][Veja 4 plataformas para quem vender ou comprar imóveis]]
+  1. Valor investe globlo
+
+* arquitetura
+** Schema
+
+#+begin_src text
+Imóveis:
+    Nome
+    Preço
+    Endereço
+    Latitude
+    Longitude
+    Link
+#+end_src
+
+#+begin_src text
+Endereço:
+    Bairro
+    Zona
+#+end_src
+
+** REST
+fastAPI
+** data engineering
+*scrapy* for scrapping data from URL pool, single *spide* for each domain to be
+scrapped.
+*** Data pipeline
+1. Check for dupplicate data.
+2. Save to database
+* Tools
+* Dev log
+** <2023-07-26 Wed>Extraindo dados com xpath
+** TODO <2023-07-27 Thu>Configurar pipeline
+- [ ] Configurar pipeline para verificar dados duplicados.
+- [ ] Salvar dados no banco.
+
+** TODO <2024-02-07 Wed> Testando o scrapy shell
+#+begin_src bash
+scrapy shell -s USER_AGENT='imovizcrawler (+http://www.yourdomain.com)' 'https://www.zapimoveis.com.br/venda/imoveis/sp+sao-paulo/?transacao=venda&onde=,S%C3%A3o%20Paulo,S%C3%A3o%2
+0Paulo,,,,,city,BR%3ESao%20Paulo%3ENULL%3ESao%20Paulo,-23.555771,-46.639557,&itl_id=1000072&itl_name=zap_-_botao-cta_buscar_to_zap_resultado-pesquisa'
+#+end_src

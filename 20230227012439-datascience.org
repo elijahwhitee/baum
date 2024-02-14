@@ -1,0 +1,11 @@
+#+title: 20230227012439 Datascience
+#+title: DataScience
+
+* Studies and analisys
+** Countries based datas
+*** Brasil
+**** Alex Atala sobre a agropecuária
+[[https://youtu.be/5qmKeof3Z0k?t=4306][Alex Atala sobre agro pecuária]]
+** Financial analysis
+*** Sources
+[[https://site.financialmodelingprep.com/how-to/how-to-pull-cash-flow-ratios-using-python][Financial modelling-cash flow-python]]

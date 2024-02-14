@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       713757d0-9700-46ef-988d-0c9a0a0ac3ed
+:END:
+#+title: 20230524123549 Polytics_brasil_fundos
+#+title: polytics/brasil/fundos/
+* Fundos da educação
+** Fundeb
+- (Financiamento de ações de manutenção de desenvolvimento da educação básica pública)

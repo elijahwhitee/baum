@@ -1,0 +1,57 @@
+#+title: fitness
+* Calisthenics routine.
+
+30 min run everyday.
+
+- 1. Monday ::
+  *upper body*
+  1. planck 1 minute
+  2. diamond push ups
+
+- 2. Tuesday ::
+  *core training*
+  1.
+
+- 3. Wednessday ::
+  *lower body*
+  1.
+
+-  Thuesday ::
+  *Rest*
+
+- 4. Friday ::
+  *Upper body*
+  1.
+
+- 5. Saturday ::
+  1.
+
+- Sunday ::
+  *Rest*
+
+* Diet.
+** Gasto calórico
+
+proteina = 1.8*kilo corporal.
+
+gordura = 1.0*kilo corporal.
+
+carbohidrato = resto do saldo calórico.
+
+*** GET(Gasto Energético total).
+*** Gasto calórico basal.
+O gasto calórico basal é definido por efeitos gerais em 2000kcal.
+* TODOS
+* Plans
+[[https://whitecoattrainer.com/blog/bodyweight-training#1][Calisthenics execises listed by muscle group]]
+* Calisthenics Planing
+Every calisthenics workout should be classified into six categories
+these categories can be broken down into the movement that they make and which
+muscles are involved in those movements.
+1. Upper body pushing.
+2. upper body pulling.
+3. Knee flexion exercises.
+4. Single leg exercises.
+5. Hip extension exercises.
+6. Core stabilizing exercises.
+* Sources and readings

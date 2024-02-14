@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID:       b0f19030-5dda-49c6-a386-9921e4b311e4
+:END:
+#+title: 20230415150039 It_datascience_brazil_data
+#+title: it/datascience/brasil data
+** Dados e indices
+*** Ideb
+:PROPERTIES:
+:ID:       bb88c996-0013-47b4-aa91-a35855494e4d
+:END:
+[[https://www.gov.br/inep/pt-br/areas-de-atuacao/pesquisas-estatisticas-e-indicadores/ideb][Indíce de desenvolvimento da educação básica]]
+** Instituicoes
+*** ICMBio :meioambiente:
+Instituto Chico Menders de conservacoes da Biodisversidade.

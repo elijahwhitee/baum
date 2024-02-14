@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       e70f1790-6d7b-4130-8040-e9ffadde2926
+:END:
+#+title: it/ia
+* Computer vision
+** Facial recognition
+*** Societal impacts
+#+transclude: [[file:20230304194631-humanities_sociology.org::*Evidências][Evidências]] :level 4

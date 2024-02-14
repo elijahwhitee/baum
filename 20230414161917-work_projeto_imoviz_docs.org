@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       6e1416bf-21b3-424d-b20f-920035bee546
+:END:
+#+title: work/projeto/imoviz-docs
+* Arquitetura
+** Engenharia de dados
+*** Crawler
+ O crawler deve recorrer a uma lista de
+sites e verificar periodicamente  nesta lista
+se os sites foram verificados em um dado período de
+tempo.

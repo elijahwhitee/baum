@@ -1,0 +1,27 @@
+#+title: humanities
+* Intelectuais
+** Sociology
+*** Bachelard
+*** Foucault
+*** Adilson Moreira
+*** Lilia Schwarcz
+*** Silvio Almeida
+*** G. Canguilhem.
+*** M. Serres.
+*** M. Guerolt
+*** Walter L. Williams.
+*** Okari Fujimoto.
+*** Rita Segato.
+*** AurynnShaw.
+*** W.E.B Du Dubois
+** Historians
+*** Fernand Brodel
+* Sources
+** Palestras
+*** Silivio Almeida
+[[https://www.youtube.com/watch?v=rEnnL4lNyZs][Historia da discrminicao racial na educao brasileira]]
+** Books
+*** Contempt Culture :AurynnShaw:
+*** Archaeology_of_Knowledge :Foccault:
+** Sites
+ [[https://libcom.org/][Libcom]]

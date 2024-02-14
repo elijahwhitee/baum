@@ -1,0 +1,12 @@
+#+title: 20221129083016 Uidesign
+#+title: UIDesign
+* Ui design fundamentals
+** Visual hierarchy.
+** Whitespace.
+** Color & contrast.
+** Alignment.
+** Typograhy.
+** Scale.
+* Strategies for creating a UI design
+** What is the project communicating?
+** Which information is the project trying to communicate?

@@ -1,0 +1,8 @@
+#+title: agenda
+<2023-01-23 Mon> Segunda feira 1 de 2023
+* TODO Ajustar github
+* TODO Trabalhar no site do Studio
+* TODO Marcar dentista
+* TODO Marcar cabeleleiro
+* DONE Marcar médico
+** TODO <2023-09-25 Mon>Pegar ingressos Stephen Hough

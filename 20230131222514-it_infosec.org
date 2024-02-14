@@ -1,0 +1,110 @@
+#+title: it/infosec💻
+#+begin_quote
+"Memory forensics is arguably the most fruitful, interesting, and provocative realm of digital forensics. Each function performed by an operating system or applica- tion results in specific modifications to the computer’s memory (RAM), which can often persist a long time after the action, essentially preserving them. Additionally, memory forensics provides unprecedented visibility into the runtime state of the system, such as which processes were running, open network connections, and recently executed com- mands. You can extract these artifacts in a manner that is completely independent of the system you are investigating, reducing the chance that malware or rootkits can interfere with your results. Critical data often exists exclusively in memory, such as disk encryp- tion keys, memory-resident injected code fragments, off-the-record chat messages, unen-crypted e‑mail messages, and non-cacheable Internet history records."
+The art of memory forensics
+Introduction.
+#+end_quote
+* Authentication
+** Authentication protocols
+*** SAML
+*** OpenID
+* Threat modelling
+   [[https://capec.mitre.org/][CAPEC]]
+* Hardware
+** Hardware tools
+*** Wifi cactus
+** Hardware hacking
+[[https://www.youtube.com/watch?v=zjafMP7EgEA][Flashback Team hacking Tp-Link router]]
+** Hardware backed security
+*** HSM
+Hardware security module
+**** Examples
+***** Yubikey
+***** Google's TI
+
+* Network
+** Iptables
+1. List iptables
+*iptables* -L
+
+2. List rules
+*iptables* -S /Chain/
+** Setup with to monitor network
+** Anonimity :project:
+*** Route traffic through tor network
+Identify you network interfaces.
+#+begin_src bash :results drawer replace
+ip l
+#+end_src
+
+#+RESULTS:
+:results:
+1: lo: <LOOPBACK,UP,LOWER_UP> mtu 65536 qdisc noqueue state UNKNOWN mode DEFAULT group default qlen 1000
+    link/loopback 00:00:00:00:00:00 brd 00:00:00:00:00:00
+2: enp3s0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc fq_codel state UP mode DEFAULT group default qlen 1000
+    link/ether 2c:fd:a1:bb:d8:dd brd ff:ff:ff:ff:ff:ff
+3: docker0: <NO-CARRIER,BROADCAST,MULTICAST,UP> mtu 1500 qdisc noqueue state DOWN mode DEFAULT group default
+    link/ether 02:42:7c:f8:63:c6 brd ff:ff:ff:ff:ff:ff
+:end:
+*Routing traffic through tor network using iptables*
+[[https://www.linuxquestions.org/questions/linux-security-4/iptables-routing-all-traffic-through-tor-hidden-service-on-a-raspberry-pi-4175599577/][Example 1]]
+*** Proxy chains
+** Deep web diving
+*** Email system
+*** Deep web IRC servers
+[[https://null-byte.wonderhowto.com/how-to/host-deep-web-irc-server-for-more-anonymous-chatting-0180682/][Host a Deep Web IRC Server]]
+** Protocols and standarts
+*** Cryptography
+[[https://en.wikipedia.org/wiki/X.509#Structure_of_a_certificate][X.509]]
+** Cryptography
+[[https://en.wikipedia.org/wiki/Web_of_trust][web of trust]]
+* Malware
+** Malware analysis
+** Malware development
+** Malware list
+*** Pegasus
+* Databases
+[[https://www.interpol.int/en/How-we-work/Databases][Interpol]]
+* Lab
+My ip address:2804:431:cfeb:bc67:80e0:d98:10a1:6fd9
+** Anonymity
+*** Infosec home network test
+*** Routing traffic through tor netowrk using iptables.
+** Homelab
+*** Sources
+[[https://www.reddit.com/r/homelab/comments/9no28n/idsips_in_the_homelab/][Reddit post about IDS/IPS homelab]]
+*** Offensive learning
+Test network security.
+**** Evaluating targets and assets.
+**** Evaluating security and vunlerabilities.
+*** Defensive learning
+* Sources
+** Forums
+[[https://owasp.org/][OWASP Foundation]]
+** Book sources
+*** The Art of Cyberwafare :JonDiMaggio:
+*** The Art of Memory Forensics
+** Papers
+** Videos
+*** Wi-fi attacks
+[[https://www.youtube.com/watch?v=9SXPQ5W6ytU][Half handshake attack]]
+[[https://www.youtube.com/watch?v=1x31YZ7DVCM&t=1826s][Wireshark basics for wifi hacking]]
+** Readings
+*** The art of memory forensics
+* Security policy
+[[https://www.youtube.com/watch?v=80vIin4xGp8][let's hack your home network]]
+** Customizable firmware for routers
+[[https://dd-wrt.com/][dd-wrt]]
+** VLANS
+** Encryption keys
+** IDS Systems
+Learning about specific IDS Systems.
+[[https://www.softwaretestinghelp.com/intrusion-detection-systems/][List of the most common IDSs system]]
+** IPS Systems
+Learning about specific IPS Systems.
+** PKI
+Multiple keys system, to achieve decryption on
+a file used by me, is necessary to use keys stored in at
+least 3 different machines located separately.
+*** Yubikey
+*** Android keystore

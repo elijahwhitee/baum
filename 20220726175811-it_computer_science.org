@@ -1,0 +1,17 @@
+#+title: it/computer_science
+* Readings
+** Journals
+*** Communications of the  Association for computing  machinery.
+*** Journal of the Association for  computing machinery.
+*** The computer journal.
+*** Mathematics of computation.
+*** American Mathematical monthly.
+*** SIAM journal on computing.
+*** IEEE Symposium on foundations of  computer science.
+*** ACM-SIAM symposium on Discrete algorithms.
+*** ACM Symposium on Discrete Algorithms.
+*** ACM Symposium on Theory of Computing.
+*** Journal fur  die  reine und angewandte Mathematik.
+* Watch list
+[[https://www.youtube.com/watch?v=GiDsjIBOVoA][The hardest problem in computerscience]]
+* Main concepts

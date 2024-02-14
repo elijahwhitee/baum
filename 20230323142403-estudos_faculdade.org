@@ -1,0 +1,1068 @@
+#+title: estudos/faculdade
+* Fatec
+** Quinto Semestre
+*** Empreendedorismo
+**** Plano de negócio
+
+2.5.1 *Adminstração*
+A empresa oferece como produto um software da modalidade ERP para estacionamentos que
+visa centralizar a gestão de um estacionamento, a empresa disponibiliza o software em um
+canal de venda o aplicativo para ser baixado e instalado pelo usuário, após
+baixar e instalar, o usuário pode realizar o seu cadastro inicial, o primeiro cadastro
+é o do administrador. Após realizar este cadastro, o usuário pode começar a utilizar o software
+para gerenciar o seu estacionamento, registrando funcinários que podem ter acesso ao sistema, e
+registrando clientes e vagas e a sua vacância.
+
+A empresa também oferece suporte ao usuário para elucidar eventuais dúvidas, e resolver problemas que
+o usuário possa ter com o seu software. Fora a relação direta com o cliente, a empresa atualiza
+constamente o software e usa o feedback produzido pelos usuários para adicionar novas funcionalidades,
+consertar erros e aprimorar o aplicativo no geral.
+
+A empresa aborda a questão da administração com uma
+equipe enxuta e realiza um processo decisório simples, a auditoria
+técnica realizada pelo setor técnico,junção do setor de back end e front end,
+avalia junto com o setor financeiro o risco de operções e atente
+a necessidade de reparação de recursos e implementação de funcionalidades.
+A instalação da aplicação faz com que a maior parte da
+interação com o usuário seja automática, a curva de aprendizado
+do nosso produto é a mesma de um aplicativo simples, onde
+o individuo deposita suas informações cadastrais e faz
+uso da interface simplista, desta maneira, não é necessário contatar a empresa para
+realizar a contração dor serviço.
+ Os relatórios de performance periódicos do aplicativo gerados automaticamente pelo usuário servem de
+insumo para alimentar o processo de decisório e ajudar a definir o que deve ser implementado ou corrigido.
+feito para melhorar o aplicativo e atender as necessidades do usuário.
+2.5.2 *Comercial*
+Os canais comerciais se sumarizam no uso de anúncios
+em plataformas digitais para
+alcançar os clientes, e a contração do nosso serviço
+é automático, pois como o software funciona como um
+serviço, após cadastrar
+os dados de pagamento, assim que o usuário utilizar o
+aplicativo, as devidas taxas serão debitadas.
+2.5.3 *Sistemas de qualidades*
+Para atestar a qualidade do software é necessário manter
+um canal de suporte para atender necessidades específicas rapidamente,
+obter feedback através de forums de reviews do
+produto que o própio canal de venda tradicional oferece.
+O time de desenvolvimento também deve realizar
+testagens recorrentes e um desenvolvimento responsável
+e bem documentado para garantir o funcionamento do principal
+ativo da empresa.
+2.5.4  *Terceirização*
+Há poucas perspectivas de terceirização, apenas a contração
+de serviços de infraestrutura e essenciais
+*Ferramentas de desenvolvimento e infraestrutura:* Ferramentas de agregação do
+time ou a hospedagem da página web principal, estas atividade são efetuadas
+por serviços ou empresas terceirizadas que cuidaram de
+questões como infreaestrutura e hospedagem dos dados da empresa. Um exemplo
+seria o Azure Devops, ferramenta que possibilita automação da entrega do aplicativo,
+possibilita integrar e gerenciar o time e fornece hospegdagem da página principal
+da empresa.
+*Atividades jurídicas:* serão realizadas com a contratação de um escritório
+especializado no direito digital moderno, para que a empresa esteja dentro
+das diretrizes da lei de proteção de dados e possa estar a par dos seus
+deveres legais, o escritório contratado também atua na validação do modelo contratual
+oferecido pelo aplicativo.
+*Contabilidade*: a contabilidade também será realizada por um escritório terceirizado com
+especialização em tributação de startups e software houses.
+2.5.5 *Sistema de informação*
+A ferramenta de desenvolvimento utilizada para integrar o
+time e providenciar o ambiente de trabalho que os programadores
+iram utilizar e a plataforma de hospedagem do site da empresa.
+Uma ferramenta de admnistração propietária da própia empresa que
+permite ver os cadastros dos clientes no aplicativo.
+***** Plane de negócio correção
+**** Plano de marketing
+3.1 *Distribuição*
+O aplicativo é fornecido nas principais lojas de aplicativos dos
+dispositivos como: AppStore e a Google Play, líderes
+no mercado de aplicativos e principais canais de venda no ramo de aplicativos.
+3.2 *Promoção e propaganda*
+A contratação de serviços modernos de propaganda como os serviços do: Facebook, youtube, reddit, twitter, etc, são exemplos de sucesso que
+permitem serviços modernos terem uma alta taxa de retorno sobre investimento em propaganda.
+A estratégia principal utilizada é apresentar a solução de estacionamentos de forma concisa e rápida através do google ads visando
+uma alta taxa de CPC(Custo Por Click) almejando um ROAS de 300% sobre cada real investido.
+O estilo do serviço faz com que a taxa de conversão seja alcançável, pois é um serviço específico, e o retorno principal esperado é oriundo
+do marketing por indicação
+3.3 *Serviços ao cliente*
+O produto em si funciona como um serviço, fora o serviço principal, o
+usuário também terá acesso ao suporte de uso do aplicativo e poderá
+usufruir de módulos adicionais adicionados ao longo do desenvolvimento,
+como por exemplo uma dashboard contendo dados performáticos do estacionamento.
+3.4 *Relacionamento com o cliente*
+O relacionamento se da com o suporte e contato através dos canais da loja em que o aplicativo está disponível, além disso é possível contatar o suporte pelo aplicativo.
+A estratégia da empresa de relacionamento com cliente é manter a relação com o usuário com cards com dicas e notas de atualização, e manter uma newsletter
+a respeito dos acontecimentos dentro da compania como perspectivas para o futuro do app, estado atual do app e outros temas que podem surgir dos questionamentos dos usuários.
+**** Plane financeiro
+
+*** Tópicos espiciais em informática
+**** Artigo
+
+#+begin_src latex :tangle ~/lab/faculdade/Artigo-Iot.tex
+\documentclass[
+	article,			% indica que é um artigo acadêmico
+	11pt,				% tamanho da fonte
+ oneside,			% para impressão apenas no recto. Oposto a twoside
+ a4paper,			% tamanho do papel.
+	english,			% idioma adicional para hifenização
+	brazil,				% o último idioma é o principal do documento
+	sumario=tradicional
+	]{abntex2}
+
+\usepackage{lmodern}			% Usa a fonte Latin Modern
+\usepackage[T1]{fontenc}		% Selecao de codigos de fonte.
+\usepackage[utf8]{inputenc}		% Codificacao do documento (conversão automática dos acentos)
+\usepackage{indentfirst}		% Indenta o primeiro parágrafo de cada seção.
+\usepackage{nomencl} 			% Lista de simbolos
+\usepackage{color}				% Controle das cores
+\usepackage{graphicx}			% Inclusão de gráficos
+\usepackage{microtype} 			% para melhorias de justificação
+
+\usepackage{lipsum}				% para geração de dummy text
+\usepackage[brazilian,hyperpageref]{backref}	 % Paginas com as citações na bibl
+\usepackage[alf]{abntex2cite}	% Citações padrão ABNT
+
+\renewcommand{\backrefpagesname}{Citado na(s) página(s):~}
+\renewcommand{\backref}{}
+\renewcommand*{\backrefalt}[4]{
+	\ifcase #1 %
+		Nenhuma citação no texto.%
+	\or
+		Citado na página #2.%
+	\else
+		Citado #1 vezes nas páginas #2.%
+	\fi}%
+% ---
+
+% --- Informações de dados para CAPA e FOLHA DE ROSTO ---
+\titulo{Modelo Canônico de Artigo científico com \abnTeX}
+\tituloestrangeiro{Canonical article template in \abnTeX: optional foreign title}
+
+\autor{
+Equipe \abnTeX\thanks{``Recomenda-se que os dados de vinculação e
+endereço constem em nota, com sistema de chamada próprio, diferente do sistema
+adotado para citações no texto.'' \url{http://www.abntex.net.br/}}
+\\[0.5cm]
+Lauro César Araujo\thanks{``Constar currículo sucinto de cada autor, com
+vinculação corporativa e endereço de contato.''} }
+
+\local{Brasil}
+\data{2018, v-1.9.7}
+
+% alterando o aspecto da cor azul
+\definecolor{blue}{RGB}{41,5,195}
+
+% informações do PDF
+\makeatletter
+\hypersetup{
+     	%pagebackref=true,
+		pdftitle={\@title},
+		pdfauthor={\@author},
+    	pdfsubject={Modelo de artigo científico com abnTeX2},
+	    pdfcreator={LaTeX with abnTeX2},
+		pdfkeywords={abnt}{latex}{abntex}{abntex2}{atigo científico},
+		colorlinks=true,       		% false: boxed links; true: colored links
+    	linkcolor=blue,          	% color of internal links
+    	citecolor=blue,        		% color of links to bibliography
+    	filecolor=magenta,      		% color of file links
+		urlcolor=blue,
+		bookmarksdepth=4
+}
+\makeatother
+
+\makeindex
+
+\setlrmarginsandblock{3cm}{3cm}{*}
+\setulmarginsandblock{3cm}{3cm}{*}
+\checkandfixthelayout
+
+\setlength{\parindent}{1.3cm}
+% Controle do espaçamento entre um parágrafo e outro:
+\setlength{\parskip}{0.2cm}  % tente também \onelineskip
+
+\SingleSpacing
+
+\begin{document}
+
+\selectlanguage{brazil}
+
+\frenchspacing
+
+% Se desejar escrever o artigo em duas colunas, descomente a linha abaixo
+% \twocolumn[    		% INICIO DE ARTIGO EM DUAS COLUNAS
+
+\maketitle
+
+
+
+
+
+% resumo em português
+\begin{resumoumacoluna}
+ Conforme a ABNT NBR 6022:2018, o resumo no idioma do documento é elemento obrigatório.
+ Constituído de uma sequência de frases concisas e objetivas e não de uma
+ simples enumeração de tópicos, não ultrapassando 250 palavras, seguido, logo
+ abaixo, das palavras representativas do conteúdo do trabalho, isto é,
+ palavras-chave e/ou descritores, conforme a NBR 6028. (\ldots) As
+ palavras-chave devem figurar logo abaixo do resumo, antecedidas da expressão
+ Palavras-chave:, separadas entre si por ponto e finalizadas também por ponto.
+
+ \vspace{\onelineskip}
+
+ \noindent
+ \textbf{Palavras-chave}: latex. abntex. editoração de texto.
+\end{resumoumacoluna}
+
+
+% resumo em inglês
+\renewcommand{\resumoname}{Abstract}
+\begin{resumoumacoluna}
+ \begin{otherlanguage*}{english}
+   According to ABNT NBR 6022:2018, an abstract in foreign language is optional.
+
+   \vspace{\onelineskip}
+
+   \noindent
+   \textbf{Keywords}: latex. abntex.
+ \end{otherlanguage*}
+\end{resumoumacoluna}
+
+% ]  				% FIM DE ARTIGO EM DUAS COLUNAS
+% ---
+
+\begin{center}\smaller
+\textbf{Data de submissão e aprovação}: elemento obrigatório. Indicar dia, mês e ano
+
+\textbf{Identificação e disponibilidade}: elemento opcional. Pode ser indicado
+o endereço eletrônico, DOI, suportes e outras informações relativas ao acesso.
+\end{center}
+
+% ----------------------------------------------------------
+% ELEMENTOS TEXTUAIS
+% ----------------------------------------------------------
+\textual
+
+% ----------------------------------------------------------
+% Introdução
+% ----------------------------------------------------------
+\section{Introdução}
+A importância de se tornar um cidadão digital é da mesma altura de ser alguém alfabetizado, e para este processo de emancipação é necessário fazer uso de técnicas de aprendizado que façam uso da tecnologia, como por exemplo o conceito de IOT, internet of things.
+Particularmente o conceito de internet das coisas permite ensinar aspectos fundamentais do dia a dia que frequentemente ficam omissos no estudo convencional atual de tecnologia da informação, como por exemplo, como funcionam os sistemas embarcados de máquinas de cartão de crédito ou as urnas eletrônicas? Inúmeras questões surgem todos os dias a respeito de computação que são falsamente respondidas devido a falta de conhecimento na cultura brasileira, hoje em dia computadores funcionam  na cabeça das pessoas como os criadores do UNIX abstraiam os nomes dos processos do sistema clássico, daemons, demônios ou entidades por trás da máquina que agem fantasmagoricamente.
+    Para mudar esta realidade e aprender computação e os conceitos abstratos envolvidos na área atividades como o ensino de lógica de programação através da internet e navegadores, ou o trabalho com a circuitaria encontrada em dispositivos do dia a dia para criar brinquedos lúdicos, podem trazer esses daemons do mundo do obscurantismo para o mundo da racionalidade, -citação-. Harari cita em uma entrevista e palestra que os dados se tornaram o novo petróleo, este conceito é interessante pois demonstra a importância do uso consciente dos programas para não se tornar mercadoria nos novos mercados emergentes, os dados, são aqueles produzidos pelos usuários, e nestes dados estão expressados a identidade e o que o ser humano terá de mais valioso no futuro.
+Neste trabalho exploraremos estes conceitos através da pesquisa da literatura desenvolvida na área de educação.
+
+% ----------------------------------------------------------
+% Seção de explicações
+% ----------------------------------------------------------
+\section{Exemplos de comandos}
+
+\subsection{Margens}
+
+A norma ABNT NBR 6022:2018 não estabelece uma margem específica a ser utilizada
+no artigo científico. Dessa maneira, caso deseje alterar as margens, utilize os
+comandos abaixo:
+
+\begin{verbatim}
+   \setlrmarginsandblock{3cm}{3cm}{*}
+   \setulmarginsandblock{3cm}{3cm}{*}
+   \checkandfixthelayout
+\end{verbatim}
+
+\subsection{Duas colunas}
+
+É comum que artigos científicos sejam escritos em duas colunas. Para isso,
+adicione a opção \texttt{twocolumn} à classe do documento, como no exemplo:
+
+\begin{verbatim}
+   \documentclass[article,11pt,oneside,a4paper,twocolumn]{abntex2}
+\end{verbatim}
+
+É possível indicar pontos do texto que se deseja manter em apenas uma coluna,
+geralmente o título e os resumos. Os resumos em única coluna em documentos com
+a opção \texttt{twocolumn} devem ser escritos no ambiente
+\texttt{resumoumacoluna}:
+
+\begin{verbatim}
+   \twocolumn[              % INICIO DE ARTIGO EM DUAS COLUNAS
+
+     \maketitle             % pagina de titulo
+
+     \renewcommand{\resumoname}{Nome do resumo}
+     \begin{resumoumacoluna}
+        Texto do resumo.
+
+        \vspace{\onelineskip}
+
+        \noindent
+        \textbf{Palavras-chave}: latex. abntex. editoração de texto.
+     \end{resumoumacoluna}
+
+   ]                        % FIM DE ARTIGO EM DUAS COLUNAS
+\end{verbatim}
+
+\subsection{Recuo do ambiente \texttt{citacao}}
+
+Na produção de artigos (opção \texttt{article}), pode ser útil alterar o recuo
+do ambiente \texttt{citacao}. Nesse caso, utilize o comando:
+
+\begin{verbatim}
+   \setlength{\ABNTEXcitacaorecuo}{1.8cm}
+\end{verbatim}
+
+Quando um documento é produzido com a opção \texttt{twocolumn}, a classe
+\textsf{abntex2} automaticamente altera o recuo padrão de 4 cm, definido pela
+ABNT NBR 10520:2002 seção 5.3, para 1.8 cm.
+
+\section{Cabeçalhos e rodapés customizados}
+
+Diferentes estilos de cabeçalhos e rodapés podem ser criados usando os
+recursos padrões do \textsf{memoir}.
+
+Um estilo próprio de cabeçalhos e rodapés pode ser diferente para páginas pares
+e ímpares. Observe que a diferenciação entre páginas pares e ímpares só é
+utilizada se a opção \texttt{twoside} da classe \textsf{abntex2} for utilizado.
+Caso contrário, apenas o cabeçalho padrão da página par (\emph{even}) é usado.
+
+Veja o exemplo abaixo cria um estilo chamado \texttt{meuestilo}. O código deve
+ser inserido no preâmbulo do documento.
+
+\begin{verbatim}
+%%criar um novo estilo de cabeçalhos e rodapés
+\makepagestyle{meuestilo}
+  %%cabeçalhos
+  \makeevenhead{meuestilo} %%pagina par
+     {topo par à esquerda}
+     {centro \thepage}
+     {direita}
+  \makeoddhead{meuestilo} %%pagina ímpar ou com oneside
+     {topo ímpar/oneside à esquerda}
+     {centro\thepage}
+     {direita}
+  \makeheadrule{meuestilo}{\textwidth}{\normalrulethickness} %linha
+  %% rodapé
+  \makeevenfoot{meuestilo}
+     {rodapé par à esquerda} %%pagina par
+     {centro \thepage}
+     {direita}
+  \makeoddfoot{meuestilo} %%pagina ímpar ou com oneside
+     {rodapé ímpar/onside à esquerda}
+     {centro \thepage}
+     {direita}
+\end{verbatim}
+
+Para usar o estilo criado, use o comando abaixo imediatamente após um dos
+comandos de divisão do documento. Por exemplo:
+
+\begin{verbatim}
+   \begin{document}
+     %%usar o estilo criado na primeira página do artigo:
+     \pretextual
+     \pagestyle{meuestilo}
+
+     \maketitle
+     ...
+
+     %%usar o estilo criado nas páginas textuais
+     \textual
+     \pagestyle{meuestilo}
+
+     \chapter{Novo capítulo}
+     ...
+   \end{document}
+\end{verbatim}
+
+Outras informações sobre cabeçalhos e rodapés estão disponíveis na seção 7.3 do
+manual do \textsf{memoir} \cite{memoir}.
+
+\section{Mais exemplos no Modelo Canônico de Trabalhos Acadêmicos}
+
+Este modelo de artigo é limitado em número de exemplos de comandos, pois são
+apresentados exclusivamente comandos diretamente relacionados com a produção de
+artigos.
+
+Para exemplos adicionais de \abnTeX\ e \LaTeX, como inclusão de figuras,
+fórmulas matemáticas, citações, e outros, consulte o documento
+\citeonline{abntex2modelo}.
+
+\section{Consulte o manual da classe \textsf{abntex2}}
+
+Consulte o manual da classe \textsf{abntex2} \cite{abntex2classe} para uma
+referência completa das macros e ambientes disponíveis.
+
+% ---
+% Finaliza a parte no bookmark do PDF, para que se inicie o bookmark na raiz
+% ---
+\bookmarksetup{startatroot}%
+% ---
+
+% ---
+% Conclusão
+% ---
+\section{Considerações finais}
+
+\lipsum[1]
+
+\begin{citacao}
+\lipsum[2]
+\end{citacao}
+
+\lipsum[3]
+
+% ----------------------------------------------------------
+% ELEMENTOS PÓS-TEXTUAIS
+% ----------------------------------------------------------
+\postextual
+
+% ----------------------------------------------------------
+% Referências bibliográficas
+% ----------------------------------------------------------
+\bibliography{abntex2-modelo-references}
+
+% ----------------------------------------------------------
+% Glossário
+% ----------------------------------------------------------
+%
+% Há diversas soluções prontas para glossário em LaTeX.
+% Consulte o manual do abnTeX2 para obter sugestões.
+%
+%\glossary
+
+% ----------------------------------------------------------
+% Apêndices
+% ----------------------------------------------------------
+
+% ---
+% Inicia os apêndices
+% ---
+\begin{apendicesenv}
+
+% ----------------------------------------------------------
+\chapter{Nullam elementum urna vel imperdiet sodales elit ipsum pharetra ligula
+ac pretium ante justo a nulla curabitur tristique arcu eu metus}
+% ----------------------------------------------------------
+\lipsum[55-56]
+
+\end{apendicesenv}
+% ---
+
+% ----------------------------------------------------------
+% Anexos
+% ----------------------------------------------------------
+\cftinserthook{toc}{AAA}
+% ---
+% Inicia os anexos
+% ---
+%\anexos
+\begin{anexosenv}
+
+% ---
+\chapter{Cras non urna sed feugiat cum sociis natoque penatibus et magnis dis
+parturient montes nascetur ridiculus mus}
+% ---
+
+\lipsum[31]
+
+\end{anexosenv}
+
+% ----------------------------------------------------------
+% Agradecimentos
+% ----------------------------------------------------------
+
+\section*{Agradecimentos}
+Texto sucinto aprovado pelo periódico em que será publicado. Último
+elemento pós-textual.
+
+\end{document}
+#+end_src
+
+#+RESULTS:
+#+begin_export latex
+\documentclass[
+	article,			% indica que é um artigo acadêmico
+	11pt,				% tamanho da fonte
+ oneside,			% para impressão apenas no recto. Oposto a twoside
+ a4paper,			% tamanho do papel.
+	english,			% idioma adicional para hifenização
+	brazil,				% o último idioma é o principal do documento
+	sumario=tradicional
+	]{abntex2}
+
+\usepackage{lmodern}			% Usa a fonte Latin Modern
+\usepackage[T1]{fontenc}		% Selecao de codigos de fonte.
+\usepackage[utf8]{inputenc}		% Codificacao do documento (conversão automática dos acentos)
+\usepackage{indentfirst}		% Indenta o primeiro parágrafo de cada seção.
+\usepackage{nomencl} 			% Lista de simbolos
+\usepackage{color}				% Controle das cores
+\usepackage{graphicx}			% Inclusão de gráficos
+\usepackage{microtype} 			% para melhorias de justificação
+
+\usepackage{lipsum}				% para geração de dummy text
+\usepackage[brazilian,hyperpageref]{backref}	 % Paginas com as citações na bibl
+\usepackage[alf]{abntex2cite}	% Citações padrão ABNT
+
+\renewcommand{\backrefpagesname}{Citado na(s) página(s):~}
+\renewcommand{\backref}{}
+\renewcommand*{\backrefalt}[4]{
+	\ifcase #1 %
+		Nenhuma citação no texto.%
+	\or
+		Citado na página #2.%
+	\else
+		Citado #1 vezes nas páginas #2.%
+	\fi}%
+% ---
+
+% --- Informações de dados para CAPA e FOLHA DE ROSTO ---
+\titulo{Modelo Canônico de Artigo científico com \abnTeX}
+\tituloestrangeiro{Canonical article template in \abnTeX: optional foreign title}
+
+\autor{
+Equipe \abnTeX\thanks{``Recomenda-se que os dados de vinculação e
+endereço constem em nota, com sistema de chamada próprio, diferente do sistema
+adotado para citações no texto.'' \url{http://www.abntex.net.br/}}
+\\[0.5cm]
+Lauro César Araujo\thanks{``Constar currículo sucinto de cada autor, com
+vinculação corporativa e endereço de contato.''} }
+
+\local{Brasil}
+\data{2018, v-1.9.7}
+
+% alterando o aspecto da cor azul
+\definecolor{blue}{RGB}{41,5,195}
+
+% informações do PDF
+\makeatletter
+\hypersetup{
+     	%pagebackref=true,
+		pdftitle={\@title},
+		pdfauthor={\@author},
+    	pdfsubject={Modelo de artigo científico com abnTeX2},
+	    pdfcreator={LaTeX with abnTeX2},
+		pdfkeywords={abnt}{latex}{abntex}{abntex2}{atigo científico},
+		colorlinks=true,       		% false: boxed links; true: colored links
+    	linkcolor=blue,          	% color of internal links
+    	citecolor=blue,        		% color of links to bibliography
+    	filecolor=magenta,      		% color of file links
+		urlcolor=blue,
+		bookmarksdepth=4
+}
+\makeatother
+
+\makeindex
+
+\setlrmarginsandblock{3cm}{3cm}{*}
+\setulmarginsandblock{3cm}{3cm}{*}
+\checkandfixthelayout
+
+\setlength{\parindent}{1.3cm}
+% Controle do espaçamento entre um parágrafo e outro:
+\setlength{\parskip}{0.2cm}  % tente também \onelineskip
+
+\SingleSpacing
+
+\begin{document}
+
+\selectlanguage{brazil}
+
+\frenchspacing
+
+% Se desejar escrever o artigo em duas colunas, descomente a linha abaixo
+% \twocolumn[    		% INICIO DE ARTIGO EM DUAS COLUNAS
+
+\maketitle
+
+
+
+
+
+% resumo em português
+\begin{resumoumacoluna}
+ Conforme a ABNT NBR 6022:2018, o resumo no idioma do documento é elemento obrigatório.
+ Constituído de uma sequência de frases concisas e objetivas e não de uma
+ simples enumeração de tópicos, não ultrapassando 250 palavras, seguido, logo
+ abaixo, das palavras representativas do conteúdo do trabalho, isto é,
+ palavras-chave e/ou descritores, conforme a NBR 6028. (\ldots) As
+ palavras-chave devem figurar logo abaixo do resumo, antecedidas da expressão
+ Palavras-chave:, separadas entre si por ponto e finalizadas também por ponto.
+
+ \vspace{\onelineskip}
+
+ \noindent
+ \textbf{Palavras-chave}: latex. abntex. editoração de texto.
+\end{resumoumacoluna}
+
+
+% resumo em inglês
+\renewcommand{\resumoname}{Abstract}
+\begin{resumoumacoluna}
+ \begin{otherlanguage*}{english}
+   According to ABNT NBR 6022:2018, an abstract in foreign language is optional.
+
+   \vspace{\onelineskip}
+
+   \noindent
+   \textbf{Keywords}: latex. abntex.
+ \end{otherlanguage*}
+\end{resumoumacoluna}
+
+% ]  				% FIM DE ARTIGO EM DUAS COLUNAS
+% ---
+
+\begin{center}\smaller
+\textbf{Data de submissão e aprovação}: elemento obrigatório. Indicar dia, mês e ano
+
+\textbf{Identificação e disponibilidade}: elemento opcional. Pode ser indicado
+o endereço eletrônico, DOI, suportes e outras informações relativas ao acesso.
+\end{center}
+
+% ----------------------------------------------------------
+% ELEMENTOS TEXTUAIS
+% ----------------------------------------------------------
+\textual
+
+% ----------------------------------------------------------
+% Introdução
+% ----------------------------------------------------------
+\section{Introdução}
+
+Este documento e seu código-fonte são exemplos de referência de uso da classe
+\textsf{abntex2} e do pacote \textsf{abntex2cite}. O documento exemplifica a
+elaboração de publicação periódica científica impressa produzida conforme a ABNT
+NBR 6022:2018 \emph{Informação e documentação - Artigo em publicação periódica
+científica - Apresentação}.
+
+A expressão ``Modelo canônico'' é utilizada para indicar que \abnTeX\ não é
+modelo específico de nenhuma universidade ou instituição, mas que implementa tão
+somente os requisitos das normas da ABNT. Uma lista completa das normas
+observadas pelo \abnTeX\ é apresentada em \citeonline{abntex2classe}.
+
+Sinta-se convidado a participar do projeto \abnTeX! Acesse o site do projeto em
+\url{http://www.abntex.net.br/}. Também fique livre para conhecer,
+estudar, alterar e redistribuir o trabalho do \abnTeX, desde que os arquivos
+modificados tenham seus nomes alterados e que os créditos sejam dados aos
+autores originais, nos termos da ``The \LaTeX\ Project Public
+License''\footnote{\url{http://www.latex-project.org/lppl.txt}}.
+
+Encorajamos que sejam realizadas customizações específicas deste documento.
+Porém, recomendamos que ao invés de se alterar diretamente os arquivos do
+\abnTeX, distribua-se arquivos com as respectivas customizações. Isso permite
+que futuras versões do \abnTeX~não se tornem automaticamente incompatíveis com
+as customizações promovidas. Consulte \citeonline{abntex2-wiki-como-customizar}
+para mais informações.
+
+Este exemplo deve ser utilizado como complemento do manual da classe
+\textsf{abntex2} \cite{abntex2classe}, dos manuais do pacote
+\textsf{abntex2cite} \cite{abntex2cite,abntex2cite-alf} e do manual da classe
+\textsf{memoir} \cite{memoir}. Consulte o \citeonline{abntex2modelo} para obter
+exemplos e informações adicionais de uso de \abnTeX\ e de \LaTeX.
+
+% ----------------------------------------------------------
+% Seção de explicações
+% ----------------------------------------------------------
+\section{Exemplos de comandos}
+
+\subsection{Margens}
+
+A norma ABNT NBR 6022:2018 não estabelece uma margem específica a ser utilizada
+no artigo científico. Dessa maneira, caso deseje alterar as margens, utilize os
+comandos abaixo:
+
+\begin{verbatim}
+   \setlrmarginsandblock{3cm}{3cm}{*}
+   \setulmarginsandblock{3cm}{3cm}{*}
+   \checkandfixthelayout
+\end{verbatim}
+
+\subsection{Duas colunas}
+
+É comum que artigos científicos sejam escritos em duas colunas. Para isso,
+adicione a opção \texttt{twocolumn} à classe do documento, como no exemplo:
+
+\begin{verbatim}
+   \documentclass[article,11pt,oneside,a4paper,twocolumn]{abntex2}
+\end{verbatim}
+
+É possível indicar pontos do texto que se deseja manter em apenas uma coluna,
+geralmente o título e os resumos. Os resumos em única coluna em documentos com
+a opção \texttt{twocolumn} devem ser escritos no ambiente
+\texttt{resumoumacoluna}:
+
+\begin{verbatim}
+   \twocolumn[              % INICIO DE ARTIGO EM DUAS COLUNAS
+
+     \maketitle             % pagina de titulo
+
+     \renewcommand{\resumoname}{Nome do resumo}
+     \begin{resumoumacoluna}
+        Texto do resumo.
+
+        \vspace{\onelineskip}
+
+        \noindent
+        \textbf{Palavras-chave}: latex. abntex. editoração de texto.
+     \end{resumoumacoluna}
+
+   ]                        % FIM DE ARTIGO EM DUAS COLUNAS
+\end{verbatim}
+
+\subsection{Recuo do ambiente \texttt{citacao}}
+
+Na produção de artigos (opção \texttt{article}), pode ser útil alterar o recuo
+do ambiente \texttt{citacao}. Nesse caso, utilize o comando:
+
+\begin{verbatim}
+   \setlength{\ABNTEXcitacaorecuo}{1.8cm}
+\end{verbatim}
+
+Quando um documento é produzido com a opção \texttt{twocolumn}, a classe
+\textsf{abntex2} automaticamente altera o recuo padrão de 4 cm, definido pela
+ABNT NBR 10520:2002 seção 5.3, para 1.8 cm.
+
+\section{Cabeçalhos e rodapés customizados}
+
+Diferentes estilos de cabeçalhos e rodapés podem ser criados usando os
+recursos padrões do \textsf{memoir}.
+
+Um estilo próprio de cabeçalhos e rodapés pode ser diferente para páginas pares
+e ímpares. Observe que a diferenciação entre páginas pares e ímpares só é
+utilizada se a opção \texttt{twoside} da classe \textsf{abntex2} for utilizado.
+Caso contrário, apenas o cabeçalho padrão da página par (\emph{even}) é usado.
+
+Veja o exemplo abaixo cria um estilo chamado \texttt{meuestilo}. O código deve
+ser inserido no preâmbulo do documento.
+
+\begin{verbatim}
+%%criar um novo estilo de cabeçalhos e rodapés
+\makepagestyle{meuestilo}
+  %%cabeçalhos
+  \makeevenhead{meuestilo} %%pagina par
+     {topo par à esquerda}
+     {centro \thepage}
+     {direita}
+  \makeoddhead{meuestilo} %%pagina ímpar ou com oneside
+     {topo ímpar/oneside à esquerda}
+     {centro\thepage}
+     {direita}
+  \makeheadrule{meuestilo}{\textwidth}{\normalrulethickness} %linha
+  %% rodapé
+  \makeevenfoot{meuestilo}
+     {rodapé par à esquerda} %%pagina par
+     {centro \thepage}
+     {direita}
+  \makeoddfoot{meuestilo} %%pagina ímpar ou com oneside
+     {rodapé ímpar/onside à esquerda}
+     {centro \thepage}
+     {direita}
+\end{verbatim}
+
+Para usar o estilo criado, use o comando abaixo imediatamente após um dos
+comandos de divisão do documento. Por exemplo:
+
+\begin{verbatim}
+   \begin{document}
+     %%usar o estilo criado na primeira página do artigo:
+     \pretextual
+     \pagestyle{meuestilo}
+
+     \maketitle
+     ...
+
+     %%usar o estilo criado nas páginas textuais
+     \textual
+     \pagestyle{meuestilo}
+
+     \chapter{Novo capítulo}
+     ...
+   \end{document}
+\end{verbatim}
+
+Outras informações sobre cabeçalhos e rodapés estão disponíveis na seção 7.3 do
+manual do \textsf{memoir} \cite{memoir}.
+
+\section{Mais exemplos no Modelo Canônico de Trabalhos Acadêmicos}
+
+Este modelo de artigo é limitado em número de exemplos de comandos, pois são
+apresentados exclusivamente comandos diretamente relacionados com a produção de
+artigos.
+
+Para exemplos adicionais de \abnTeX\ e \LaTeX, como inclusão de figuras,
+fórmulas matemáticas, citações, e outros, consulte o documento
+\citeonline{abntex2modelo}.
+
+\section{Consulte o manual da classe \textsf{abntex2}}
+
+Consulte o manual da classe \textsf{abntex2} \cite{abntex2classe} para uma
+referência completa das macros e ambientes disponíveis.
+
+% ---
+% Finaliza a parte no bookmark do PDF, para que se inicie o bookmark na raiz
+% ---
+\bookmarksetup{startatroot}%
+% ---
+
+% ---
+% Conclusão
+% ---
+\section{Considerações finais}
+
+\lipsum[1]
+
+\begin{citacao}
+\lipsum[2]
+\end{citacao}
+
+\lipsum[3]
+
+% ----------------------------------------------------------
+% ELEMENTOS PÓS-TEXTUAIS
+% ----------------------------------------------------------
+\postextual
+
+% ----------------------------------------------------------
+% Referências bibliográficas
+% ----------------------------------------------------------
+\bibliography{abntex2-modelo-references}
+
+% ----------------------------------------------------------
+% Glossário
+% ----------------------------------------------------------
+%
+% Há diversas soluções prontas para glossário em LaTeX.
+% Consulte o manual do abnTeX2 para obter sugestões.
+%
+%\glossary
+
+% ----------------------------------------------------------
+% Apêndices
+% ----------------------------------------------------------
+
+% ---
+% Inicia os apêndices
+% ---
+\begin{apendicesenv}
+
+% ----------------------------------------------------------
+\chapter{Nullam elementum urna vel imperdiet sodales elit ipsum pharetra ligula
+ac pretium ante justo a nulla curabitur tristique arcu eu metus}
+% ----------------------------------------------------------
+\lipsum[55-56]
+
+\end{apendicesenv}
+% ---
+
+% ----------------------------------------------------------
+% Anexos
+% ----------------------------------------------------------
+\cftinserthook{toc}{AAA}
+% ---
+% Inicia os anexos
+% ---
+%\anexos
+\begin{anexosenv}
+
+% ---
+\chapter{Cras non urna sed feugiat cum sociis natoque penatibus et magnis dis
+parturient montes nascetur ridiculus mus}
+% ---
+
+\lipsum[31]
+
+\end{anexosenv}
+
+% ----------------------------------------------------------
+% Agradecimentos
+% ----------------------------------------------------------
+
+\section*{Agradecimentos}
+Texto sucinto aprovado pelo periódico em que será publicado. Último
+elemento pós-textual.
+
+\end{document}
+#+end_export
+**** Pesquisa
+***** Palestras
+[[https://www.youtube.com/watch?v=zBqPg80l7xA][Ensinar programação é a nova alfabetização]]
+
+*** Artigo
+#+begin_src latex
+\documentclass [a4paper,12pt]{article}
+\usepackage[top=2cm,bottom=2cm,left=2.5cm,right=2.5cm]{geometry}
+\usepackage[utf8]{inputenc}
+\usepackage{amsmath,amsfonts,amssymb}
+\usepackage{float}
+\usepackage{graphicx}
+\usepackage[portuguese]{babel}
+\title{Aqui vem o titulo do trabalho.}
+\author{Ícaro Onofre Silva, Maria Isabel Salim Mariotti, Daniel Antunes Vieira, Tailli Rocha}
+\date{2015}
+
+\begin{document}
+\maketitle
+    Texto
+\end
+#+end_src
+*** Artigo em texto bruto
+1. Introdução A importância de se tornar um cidadão digital hoje em dia é de
+    mesma importância que ser alfabetizado, e para este processo de emancipação
+    é necessário fazer uso de técnicas de ensino que utilizem tecnologia, para
+    que aluno consiga assimilar os inúmeros conceitos envolvidos nos processos
+    de computação, introduzir os alunos a estes conceitos fará que eles possam
+    gradativamente assimilar a vasta cultura da era da informação,  que em sua
+    complexidade máxima ultrapassa a possibilidade de se compreender totalmente,
+    em vez disso, constroi-se uma postura em relação ao conhecimento. Esta
+    postura em relação ao conhecimento é o que faz que o indivíduo possa
+    participar de forma ativa dos debates sobre tecnologia, e possa buscar
+    informações que sirvam de insumo no seu julgamento crítico do mundo em que
+    vive, a atual postura do cidadão brasileiro em relação a tecnologia é
+    passiva, onde ele tem a sua vida ditada pela tecnologia que não compreende.
+    O principal objetivo de introduzir estes conceitos no ensino seria tornar o
+    aluno capaz de abstrair os conceitos de maneira computacional, ou seja,
+    conseguir demonstrar os processos e atividades que ele realiza em um modelo
+    computacional rudimentar, para [Blikstein 2008] o pensamento computacional
+    (PC), conceito criado por [Wing 2006] não se resume a utilização de
+    processadores de texto, um navegador de internet, ou uso superficial de um
+    computador. Para elaborar os conceitos apresentados a exploração da
+    literatura disponível na área será feito.
+2. Metodologia
+    No processo de ensino, é possível lecionar as questões de maneira direta, ou
+incentivar o uso da ferramentas digitais para a solução de atividades executadas
+pelo aluno, estudando diretamente os conceitos, os professores poderiam abordar
+diretamente questões da atualidade, e incentivar projetos de pesquisa, um
+exemplo de um conceito emergente na área da computação é o conceito de internet
+da coisas.  Particularmente o conceito de internet das coisas permite ensinar
+aspectos fundamentais do dia a dia que frequentemente ficam omissos no estudo
+convencional atual de tecnologia da informação, como por exemplo, como funcionam
+os sistemas embarcados de máquinas de cartão de crédito ou as urnas eletrônicas?
+Inúmeras questões surgem todos os dias a respeito de computação que são
+falsamente respondidas devido a falta de conhecimento na cultura brasileira,
+hoje em dia computadores funcionam  na cabeça das pessoas como os criadores do
+UNIX abstraiam os processos do sistema clássico, daemons, demônios ou entidades
+por trás da máquina que agem de maneira fantasmagórica.  Outras implementações
+no ensino de computação e os conceitos abstratos envolvidos na área, atividades
+como o ensino de lógica de programação através da internet e navegadores, ou o
+trabalho com a circuitaria encontrada em dispositivos do dia a dia para criar
+brinquedos lúdicos, podem trazer esses daemons do mundo do obscurantismo para o
+mundo da racionalidade. Segundo Kenski as organizações sociais e culturais são
+influenciadas pela tecnologia, um exemplo disso é a alfabetização de crinças,
+onde a tecnologia da escrita e da comunicação através da escrita, transformou a
+vida humana profundamente.
+        -Na verdade, desde o inicio da civilização, o predomonio de um determinado tipo de tecnologia transforma o comportamento pessoal e social de todo o grupo. Não é por acaso que todas as eras foram, cada uma à sua maneira,"eras tecnológicas". Assim tivemas a Idade da Pedra, do Bronze, até chegarmos ao momento tecnológico atual, da Sociedade da Informação ou Sociedade Digital. (KENSKI,2003,p.48).-
+    Nesta era da informação não será diferente, novas estruturas sociais estão
+surgindo por causa da tecnologia, e com isso novos impasses e dilemas sociais,
+dilemas esses que muitos brasileiros não estão preparados ainda para lidar. Casos
+recentes como: o incidente da Cambridge Analytica que ocorreu no periodo de 2014 até 2018 quando o caso começou a ser investigado, onde uma empresa privada fez
+uso de algoritmos de mineração de dados e análise de dados para realizar
+raspagem(scrapping), termo usado quando um algoritmo obtém dados através de
+sites, para interferir na política dos Estados Unidos através de campanhas de
+políticos. A Cambridge Analytica coletou de milhões de usuários
+com o intuito de perfilar modelos psicológicos dos usuários com o intuito de
+criar campanhas políticas mais direcionadas a certos públicos. O jornal The New
+York Times informou que o senador Ted Cruz estava os dados deste sistema para
+ganho eleitoral, com este caso ficou claro a possibilidade de empresas privadas
+trabalharem em cima dos dados dos usuários de redes sociais, violando os valores da privacidade, para interferir nos processos eleitorais de países.
+
+Harari cita em uma entrevista e palestra que
+os dados se tornaram o novo petróleo, este conceito é interessante pois
+demonstra a importância do uso consciente dos programas para não se tornar a
+mercadoria nos novos mercados emergentes, os dados, são aqueles produzidos pelos
+usuários, e nestes dados estão expressados a identidade e o que o ser humano
+terá de mais valioso no futuro.
+
+BIBLIOGRAFIA
+1. Kenski
+2.
+
+** Sexto  semestre
+*** GTI
+**** Avaliações
+***** P1
+Data:13/04
+***** TODO P2 DEADLINE:<2023-05-22>
+Tema: ISO 38.500.
+Entrega: 22/05.
+Grupo: Fábio e eu.
+**** Aulas
+***** Aula 1
+***** Aula 2
+****** O que é gestão
+****** O que é administração
+****** GTI frameworks
+******* Cobit
+******* ITIL
+**** Atividades
+    Gerir os recursos de ti para que estejam em sintonia com a vontade e o
+objetivo dos stakeholders não é uma questão simples, não é novo no mundo de TI o
+comum descompasso entre a parte técnica  de um negócio com a parte mais
+tradicional do negócio, afinal frequentemente essas duas partes não falam
+linguagens diferentes, para solucionar essa questão e entre outras é o porquê
+existe governança de TI.
+
+    A governança de TI visa providenciar atividades e processos de TI com um propósito
+útil a lucratividade da empresa, gerir a gestão para que a TI desempenhe um
+papel estratégico na geração de valor  são alguns dos novos conceitos
+implementados pela governança de TI, compreendendo a função vital que a TI
+desempenha numa empresa, é possível entender as razões do porquê se avalia a
+performance e se realiza o controle dos processos de ti, tudo com o foco
+de alinhar a TI com os deveres legais da empresa e com o objetivo dos stakeholder.
+
+
+*** Ética
+*** IA
+*** Programação Linear
+*** Banco de dados
+*** Economia e finanças
+** Tcc
+*** Tema
+*** Brainstorm
+**** Aplicativo
+***** Mapa interativo/guia historico.
+Pontos turisticos.
+Record de pontos turisticos.
+***** Wanderer/pontos turisticos/bonitos.
+App auto alimentavel por usuarios.
+Onde.
+
+***** IOT
+[[https://nodered.org/][NodeRed]]
+Alimentador de pets.
+****** IA que identifica placa de veiculos.
+Notificar que um veiculo chegou em um destino.
+*** Sexto semestre
+1. O que precisará ser feito
+   Desenvolver o sistema.
+   Revisar a documentação.
+   - Criar manual do sistema(colocar como anexo).
+     Conter imagens e explicação textual de cada tela
+   - Ver se a documentação bate.
+2. Cronograma
+   Estar em contato com o orientador constantemente.
+3. Término
+   Entregar a documentação, sistema e o manual como anexo
+**** Cronograma
+    1. Primeira verificacao do sistema 15/04/2023 Apresentar ao orientador as
+       funcionalidades do sistema.
+
+       - Revisar a documentação.
+       - Não gastar muito tempo parado num problema.
+       - Começar a analisar plágio(Copy spider,) Muito comum na parte das
+         descrições técnicas.  Muito comum em citações em citações.
+
+    2. Segunda verificação do desenvolvimento 13/05
+
+       - Começar a desenvolver o manual e as considerações finais.
+       - Enviar relatório de plágio
+
+    3. Última entrega 25/05
+
+       www.fatecjd.edu.br/tcc
+
+       - Entregar trabalho escrito.
+       - Relatório de plágio.
+       - 15 min de apresentação(tolerância de 2 min).
+       - Apresentar o sistema funcionando na hora
+
+    4. Semana de apresentação 19/06 a 24/06
+
+       - Levar termo do RIC-CPS
+       - Titulo: ADS-TGII-Nome do sistema

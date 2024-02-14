@@ -1,0 +1,289 @@
+#+title: 20230113061704 Investing
+#+title: Investing
+* Carteira
+*Meta de investimentos*
+A meta da minha carteira é conseguir sair de casa com 25 anos,
+- 50%* acoes/dividentos ::
+  1. KLAB4.
+- 35% FIIS ::
+  1. FCFL11?
+* Estratégia
+Atualmente não irei comprar renda fixa por não saber avaliar a
+performance desses investimentos. Quero investir em empresas
+de qualidade com bons indicadores e avaliar possibilidade de
+crescimento.
+* Contas
+Minhas *contas* fixas mensais.
+| Titulo         | Valor |
+|----------------+-------|
+| Dentista       |   100 |
+| Transporte     |   180 |
+| Mubi           |    33 |
+| I.P            |   400 |
+| Gastos mensais |   200 |
+|----------------+-------|
+| Total          |   713 |
+|----------------+-------|
+| Liquido        |   487 |
+|----------------+-------|
+#+TBLFM: @7$2=@2$2+@3$2+@4$2+@5$2
+#+TBLFM: @8$2=1200-@7$2
+* Corretoras
+** XP
+Codigo-Cliente:9050811
+* Investimento
+** Corretoras
+*** Verificar corretora na CVM
+[[https://sistemas.cvm.gov.br/][Site da CVM]]
+** Metodos
+*** Value Investing
+*** Carteiras
+*Criar carteira de investimentos*
+**** ARCA
+Diversificando acoes
+A -> Acoes.
+R -> Real State.
+C -> Caixa.
+A -> Ativos internacionais.
+*** BEST
+** Mercados/Setores/Investimos
+*** FIIs
+Fundos imobiolioarios.
+*** Cripto
+*** Stocks
+*** Renda fixa
+*benchmark de renda fixa*
+Titulos pos fixados: Corrigido por uma taxa.
+Titulos pre fixados: Taxas ao ano.
+Indexados pela inflacao: Corrigido pela variacao de um ativo.
+**** Tesouro direto
+***** Tesouro Selic
+***** Tesouro IPCA
+**** CDI
+**** LCA/LCI
+**** Debentures
+**** CRI/CRA
+ Certificado de recebiveis imobiliarios e certificados de recebiveis agricolas.
+** Analises
+*** Avaliacao de empresas
+E possivel avaliar uma empresa atraves de avaliacao de suas demonstracoes contabeis .
+**** DFP
+Demonstracoes financeiras padronizadas.
+**** Balanço patrimonial
+**** Demonstração do resultado do exercício
+**** Demonstração do fluxo de caixa
+
+*** Relatorios diarios
+*** Sources
+[[https://pitchbook.com/][PitchBook]]
+*** Fundamentalista
+**** Divident yield investment
+*** Tecnica
+** Benchmarks
+*** Renda fixa
+**** IPCA
+**** CDI
+*** Renda variavel
+**** Ibovespa
+**** Ibrx 100
+**** IFIX
+**** Petax
+* Estudos
+
+** Dicionario
+*** Termos
+- Investiment Portifolio ::
+  1. A group of investiments owned by someone.
+  2. All the invested capital of someone.
+- IDIV ::
+  1. Indice de dividentos.
+- Payout ::
+  1. Percentagem do lucro liquido destribuido em dividendos.
+- L/P ::
+  1. Inversao do preco lucro.
+- EBITDA ::
+  1. Lucros antes de juros, impostos, depreciacao e amortizacao.
+*** Ativos
+**** Renda fixa
+- CRI/CRA ::
+  1. Certificado de recebíveis.
+- LCI/LCA ::
+  1. Letra de credito imobialiario e letra de credito agronegocio.
+**** Renda variavel
+*** Indices
+[[https://portalibre.fgv.br/incc][Indice Nacional de Custo da Construção]]
+*** Associações
+[[https://abac.org.br/][ABAC(Associação brasileira administratodra de consorsócios)]]
+** Matematica financeira
+*** Formulas
+- D.Y ::
+  1. Divident yield
+  #+begin_src formula
+  a/p = dy
+  a: Stock price.
+  p: dy in percentage wanted.
+  #+end_src
+- Formula de rentabilidade ::
+  1. J = C * i * t
+     J = Rentabilidade.
+     C = Capital iniciamento.
+     i = taxa de juros.
+     t = tempo de aplicacao.
+** Certificações
+[[https://www.modalmais.com.br/blog/certificacoes-do-mercado-financeiro/][Lista de certificações do mercado financeiro]]
+** Conceitos
+*** Headge accounting
+"Hedge accounting is a method of accounting in which entries to adjust the fair value of a security and its opposing hedge are treated as one. " - Investopedia.
+* Graficos
+** Personal tickers
+Projeto para criar visualizações automáticas própias para
+eu conseguir me manter atualizado com informações relevantes.
+* Sources
+** Institutos
+ - COPOM ::
+   1. Comitê de política monetária.
+
+** Fontes
+[[https://www.investidor.gov.br/menu/Menu_Academico/Comite_educacao/Participantes/APIMEC/ProgramaCertificacao.html][CVM site]]
+[[https://www.investopedia.com/][Investopedia]]
+[[https://www.infomoney.com.br/][Infomoney]]
+[[https://www.b3.com.br/pt_br/][B3]]
+[[https://academy.binance.com/en/start-here#trading][Binance]]
+[[https://www.allbrands.markets/][AllBrands]]
+[[https://www.fundamentus.com.br/][Fundamentus]]
+[[https://www.fundsexplorer.com.br/][Fundexplorer]]
+[[https://finance.yahoo.com/][YahooFinance]]
+[[https://www.google.com/finance/][GoogleFinancas]]
+[[https://economia.uol.com.br/][UolEconomia]]
+[[https://www.infomoney.com.br/][InfoMoney]]
+[[https://pt.wallmine.com/][WallTime]]
+[[https://www.clubefii.com.br/fundos_imobiliarios_ranking/2022][CLUBEFii]]
+[[https://fiis.com.br/][Fiis]]
+[[https://finviz.com/][Finviz]]
+** Videos
+*** Analises
+[[https://www.youtube.com/watch?v=YA4-dIqTEXs][Quais são os verdadeiros riscos dos fundos imobiliários]]
+*** Finances with R
+[[https://www.youtube.com/watch?v=3sroV_RltQA][Brandon Farr | 15 years of R in quantitative Finance]]
+** Papers
+[[https://en.wikipedia.org/wiki/The_Superinvestors_of_Graham-and-Doddsville][The superinvestors of Graham and Doddsvillt:wikipedia:]]
+** Books
+*** Benjamin Graham
+  Security analysis.
+** Relatorios
+[[https://www.bcb.gov.br/publicacoes/focus][Relatorio focus]]
+[[https://www.imf.org/en/Publications/GFSR][Global finantial report:imf]]
+* Ferramentas
+[[https://www.tradingview.com/chart/goQM4axy/][TradingView]]
+** DataAnalysis
+* Lab
+** Ledger :ledger:
+*** Reiniciando o ledger
+Atualmente eu devo redefinir um valor inicial para rastrear
+minhas financas atraves de transacoes
+|----------------+--------+------------------|
+| Montante atual |  Valor | Data             |
+|----------------+--------+------------------|
+| Cartao         | 477.20 | <2022-07-18 Mon> |
+| Especie        |    250 | <2022-07-18 Mon> |
+| Total          |  727.2 | <2022-07-18 Mon> |
+|----------------+--------+------------------|
+#+TBLFM: @4$2=@2$2+@3$2
+Falta receber o meu salario deste mes, para finalizar o montante,
+mas a projecao deve ficar da seguinte maneira
+ |------------------------+---------+------------------------------|
+ | Montante atual         |   Valor | Obs                          |
+ |------------------------+---------+------------------------------|
+ | Cartao                 |  477.20 | Valor que estava no cartao   |
+ | Especie                |     250 | Valor em especie             |
+ | Salario                |    1200 | O que eu recebi esse mes     |
+ | Total                  |  1927.2 | Total da soma                |
+ |------------------------+---------+------------------------------|
+ | Despesas               |   Valor |                              |
+ |------------------------+---------+------------------------------|
+ | Credito passado        |  351.38 | O que eu acumulei de credito |
+ | Fone de ouvido quitado |  375.46 | Valor do headset             |
+ |------------------------+---------+------------------------------|
+ | Total                  | 1200.36 |                              |
+ |------------------------+---------+------------------------------|
+ | Montante do mes        |  920.36 | Montante do mes menos contas |
+ |------------------------+---------+------------------------------|
+ |                        |         |                              |
+ #+TBLFM: @5$2=@2$2+@3$2+@4$2
+ #+TBLFM: @9$2=@5$2-@7$2-@8$2
+ #+TBLFM: @10$2=@9$2-280
+
+ A partir deste valor total, iniciaria a contagem do novo ledger.
+*** Script de extracao :scripts:
+Script para a geracao do arquivo de transacoes.
+#+begin_src bash :dir ~/documents/Icaro/financas/extratos :output csv
+ sed 's/Data//g' <(awk '{print $2,$3}' <(diff <(awk -F "," '{print $1" "$2}' ledger.csv) <(awk -F "," '{print $1" "$2} ' extrato.csv)))
+#+end_src
+*** Ledger
+Ledger principal que rastreia todos os gastos e movimentacoes das minhas contas.
+#+begin_src csv :tangle ~/documents/Icaro/financas/extratos/ledger.csv
+20/07/2022 1200.36
+20/07/2022 -280.00
+24/07/2022 -42.00
+24/07/2022 -91.40
+24/07/2022 -20.00
+#+end_src
+*Aquire ledger balance script*
+#+begin_src awk
+awk '{sum+=$2;} END{print sum;}' ledger.csv
+#+end_src
+** Analises
+*** Renda variavel
+**** Ações
+***** KLAB4
+*** Renda fixa
+**** Tesouro direto
+
+** Baixando acoes com python
+#+begin_src python
+import numpy as  np
+
+import pandas as pd
+from pandas_dataeader import data as web
+
+import matplotlib.pyploy as plt
+import matplotlib.dates  as mdates %matplotlib inline
+import datetime as dt
+import mplfinance as mpf
+import time
+
+import os
+from os import listdir
+from os.patch import isfile,join
+
+stocks_not_downloaded = []
+missing_stocks = []
+
+def save_to_csv_from_yahoo(folder,ticker,syear,smonth,sday,eyear,emonth,eday):
+    start=dt.datetime(syear,smonth,sday)
+    end=dt.datetime(eyear,emonth,eday)
+#+end_src
+** Stock portifolio with python
+O projeto consiste em fazer inumeras analises
+e escrever analises novas de forma modular a despeito de ativos,
+e retornar isto em um relatorio conciso todo dia de revisão.
+
+A arquitetura consiste em modulos, onde
+cada modulo implementa uma nova funcionalidade em cima de um ativo.
+
+ativo -> module -> output.
+
+*ativo* = {ticker,quantidade de ativos, tipo do ativo}
+
+#+begin_src python
+
+#+end_src
+
+#+RESULTS:
+
+** Finance formulas in python
+Here I will create will to do finance visualization with python.
+
+** Pandas para visualizar demonstrações contábeis
+** API da xp investimentos
+[[https://developer.xpinc.com/product/open-banking/][Open Finance site]]

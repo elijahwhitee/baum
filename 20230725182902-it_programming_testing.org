@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       cad44ed0-b57b-4c88-9840-1a581dcc7e7f
+:END:
+#+title: 20230725182902 It_programming_testing
+#+title: it/programming/testing
+* Automating browsers
+** Selenium

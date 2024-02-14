@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       b48e7192-491c-4f8b-b8b2-daae30a2daa3
+:END:
+#+title: finance/analysis/logistica
+* Indices de performance
+- TKU ::
+  1. TKU é uma unidade física que mede esforço. Pode ser entendida como as toneladas úteis (ou seja, apenas o peso da carga, sem considerar a tara dos equipamentos empregados) transportadas por quilômetro.

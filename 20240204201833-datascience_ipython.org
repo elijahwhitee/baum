@@ -1,0 +1,13 @@
+:PROPERTIES:
+:ID:       fd54d00b-837f-42da-9919-877425057aa7
+:END:
+#+title: datascience/ipython
+IPython is an interactive shell that can
+be used to run python commands, it is useful for
+it's nature of running commands in cells
+* Commands
+1. save notebook
+   #+begin_src python
+   %notebook -e notebook.ipynb
+   #+end_src
+* Magic tricks

@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       378b63e7-8e7a-4c58-8f77-9e376b7da0b5
+:END:
+#+title: music/music_theory
+* Musical analysis
+* Nicholas Cook
+About musical elements
+#+begin_quote
+"More specifically, they ask how far these components derive their effect
+from the context they are in."
+#+end_quote
+* Compositional styles
+** Tintinnabuli
+* Conducting
+** Leonard Bernstein
+[[https://www.youtube.com/watch?v=C_Eo0qYrugY][Leonard Bernstein "Art of conducting"]]

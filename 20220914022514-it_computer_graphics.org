@@ -1,0 +1,21 @@
+#+title: it/computer_graphics
+* How graphics cards works
+[[https://www.x.org/wiki/Development/Documentation/HowVideoCardsWork/][HowVideoCardsWork:Xorgfoundation:]]
+[[https://nouveau.freedesktop.org/GraphicStackOverview.html][GraphicsStackOverview]]
+* Tile rendering
+[[https://en.wikipedia.org/wiki/Tiled_rendering][Tile rendering-wikipedia]]
+"Tiled rendering is the process of subdividing a computer graphics image by a regular grid in optical space and rendering each section of the grid, or tile, separately. The advantage to this design is that the amount of memory and bandwidth is reduced compared to immediate mode rendering systems that draw the entire frame at once. This has made tile rendering systems particularly common for low-power handheld device use. Tiled rendering is sometimes known as a "sort middle" architecture, because it performs the sorting of the geometry in the middle of the graphics pipeline instead of near the end.[1]"
+
+* Vulkan tutorial
+** Vulkan basic concepts
+*** Verbosity of vulkan api
+"As mentioned before, the Vulkan API has a rather verbose API with many parameters to give you maximum control over the graphics hardware. This causes basic operations like creating a texture to take a lot of steps that have to be repeated every time. Therefore we'll be creating our own collection of helper functions throughout the tutorial."
+*** Shaders problem
+Os shaders são executados de forma idissincrática conforme as fabricantes
+de placas de video, uma das propostas do Vulkan é abstrair esse problema.
+*** Vulkan advantages
+"Vulkan solves these problems by being designed from scratch for modern graphics architectures. It reduces driver overhead by allowing programmers to clearly specify their intent using a more verbose API, and allows multiple threads to create and submit commands in parallel. It reduces inconsistencies in shader compilation by switching to a standardized byte code format with a single compiler. Lastly, it acknowledges the general purpose processing capabilities of modern graphics cards by unifying the graphics and compute functionality into a single API."
+** Rendering graphics
+Vulkan applications starts by creating
+*VKInstances*, the instance describe your application and API extensions,e *VKPhysicalDevice* queries the supported hardware and selects it.
+*VKDevice* Create logical device and describes features from which *VKPhysicalDeviceFeatures* are being used.

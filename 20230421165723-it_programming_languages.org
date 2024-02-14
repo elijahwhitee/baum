@@ -1,0 +1,73 @@
+:PROPERTIES:
+:ID:       c0ab8352-cea7-4bb1-9b86-642576138afc
+:END:
+#+title: it/programming/languages
+* Languages
+:PROPERTIES:
+:ID:       37c1dc80-362f-4ca6-b76d-9f5b1c4e8d62
+:END:
+** Javascript
+*** Frameworks
+**** React/React native
+***** expo
+Run project not in production mode
+#+begin_src bash
+npx expo start --node-dev --minify
+#+end_src
+
+*** Runtimes
+**** Deno
+**** Bun
+**** Node
+[[https://nodejs.org/api/n-api.html][NodeDocumetation]]
+**** NextJS
+[[https://www.youtube.com/watch?v=kdXKz1UWc3E][NextJS SSR & SSG]]
+** React Native :frontend:javascript:react:
+    Plant app:https://www.youtube.com/watch?v=gyiwFcrVRCM
+*** Ignite Lab
+      [[https:https://www.youtube.com/watch?v=KJj70dBgRPo][Ignite Lab Aula3]]
+*** Code for analysis and learning.
+#+begin_src javascript
+props.data.map((perf, index, arr) => (
+    <TouchableOpacity onPress={() => {
+      dispatch(selectTicker(perf.symbol));
+      stackNavigation.navigate('Details', { companyName: findTranslation(perf.symbol), stockName: perf.symbol });
+    }}>
+      <Card key = {perf.symbol} symbol = {perf.symbol} close = {perf.close} changePercent = {perf.changePercent} style={arr.length !== index + 1 ? styles.styleWithMargin : styles.styleWithoutMargin}/>
+    </TouchableOpacity>
+  ))
+#+end_src
+** Lisp :lisp:
+[[https://www.youtube.com/watch?v=-J_xL4IGhJA&list=PLE18841CABEA24090][MIT Courseware]]
+*** Coding
+*** Concepts
+**** Lisp primitive objects
+#+begin_src elisp
+(defun square (lambda (x) (* x x)))
+(square 2)
+#+end_src
+
+#+begin_src scheme
+(define square (lambda (x) (* x x)))
+#+end_src
+
+** Haskell
+#+begin_src haskell
+func x = x * 3
+#+end_src
+** R
+*** Sources
+[[https://www.rdocumentation.org/][RDocumentation]]
+[[https://www.r-project.org/other-docs.html][r-project]]
+** C++
+*** OpenGL
+[[https://github.com/glfw/glfw][glfw source]]
+** Python
+*** Manage virtual environments
+Create virtual environment with python
+#+begin_src python :tanble ~/dev/portifolio-de-ações
+python3 -m venv ~/path/to/environment
+#+end_src
+*** Datascience
+[[https://www.youtube.com/watch?v=eMOA1pPVUc4][Solving real data science tasks with Python Pandas!]]
+

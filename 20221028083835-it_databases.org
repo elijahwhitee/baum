@@ -1,0 +1,39 @@
+#+title: it/databases
+* Databases
+** Mongodb
+No sql database based on BSON documents
+to store data, it can work in clusters
+of processes to keep redundancy and
+maintability.
+*** Replica sets
+Mongodb's replica sets is a mechanic
+in which multiple running replicas
+can work in conjunction to keep
+redundancy, they can act on failure of the *primary node*
+**** Primary node
+The only node in the cluster que accepts write operations, the rest
+of the nodes keep track of the information stored in the primary node.
+*** Schema
+**** Computed pattern
+**** Bucket pattern
+**** Document pattern
+**** Embeeded vs linked
+*** Commands
+**** Tricks
+*Update schema*
+
+#+begin_src bash
+db.document.updateMany({},
+    { $set: {telefone:'99999-99'}
+    })
+#+end_src
+* Spellbook
+** Mongodb
+#+begin_src mongo
+
+db.collectionName.find().pretty();
+
+#+end_src
+
+* Data partitioning
+** Sharding

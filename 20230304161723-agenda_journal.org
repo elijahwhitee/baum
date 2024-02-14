@@ -1,0 +1,130 @@
+#+title: agenda/journal
+* Plans
+** Finance
+** Haus organisieren
+** TODO Küchen [0/1]
+- [ ] Timers.
+*** TODO Schlafzimmer
+- [ ] Arrumar calha.
+*** TODO Toalete
+*** TODO Büreau
+- [ ]
+** Metas pessoais
+*** Estudar na USP
+Minha meta de estudar na USP ainda existe, talvez isso
+afunile minhas metas para a vida.
+Desejo fazer isso para iniciar minha carreira cientifica, quero ser
+pesquisador.
+**** Carreira cientifica e tese/Motivacao
+Eu gosto muito da tese de automocao industrial com drones e sistemas embarcados,
+me envolver num projeto que eu considere interessante. Tem uma tese em particular
+que eu gosto muito, *computadores biologicos*.
+Entao os temas que eu estudaria seria ciencias da computacao e alguma area de
+biologicas.
+**** Faculdades possiveis
+A unica faculdade que eu considero essencial para mim e *ciencias da computacao*
+***** Bioquimica
+Tenho vontade de estudar bioquimica para casar a minha tese de *computadores biologicos* e por geral simpatia com a area de biologicas e *quimica*.
+***** Engenharia de sistemas
+Cogito estudar engenharia de sistemas um dia para lidar com sistemas complexos
+e projetos elaborados, mas n sei se conseguiria montar carreira nessa area vide
+as experiencias que eu acumulo, considerando que eu vou cursar e ciencias da
+computacao e bioquimica, provavelmente n conseguiria estudar engenharia de
+sistemas.
+***** Conclusao
+Provavel que eu n estude tanto tempo assim nas faculdades, e sim faca os
+projetos eu mesmo, com um *laboratorio pessoal*, mas e fato que eu orbito a vontade de ser um pesquisador, talvez eu devesse comecar a estudar pra isso :kissing_smiling_eyes: , afinal eu ja tenho 20 anos.
+* Journal
+** <2023-05-03 Wed>
+*** Dev
+**** Todos
+***** Studio de idiomas [0/0]
+****** DONE Criar mood board para o projeto
+******* Reavaliar fonts.
+****** TODO Aprimorar desenvolvimento da UI [2/3]
+- [X] Desenvolver SVGS.
+- [X] Desenvolver seções.
+- [ ] Desenvolver mapa customizável.
+****** TODO Enviar a Valéria o atual design da UI
+- [X] Enviar print a Valéria
+***** Okonocimus [2/3]
+- [X] Criar crud com prisma.
+- [ ] Configurar graphql
+- [X] Configurar mongodb com replicas.
+****** Arquitetura
+*******  banco de dados
+- Realizar deploy do banco no mongodb atlas ou aws? Seria
+  possível integrar as duas stacks?
+- O banco será hospedado no mongodb atlas, o escalomanento automático funcionará por hora, avaliar alternativas como
+  planetscale e outros ainda precisam ser feitas.
+******* Desenvolver ui
+Desenvolver fluxo de navegação do usuário dentro da plataforma,
+***** Portifólio
+****** TODO Desenvolver UI.
+****** TODO Testar deploy de site React na AWS.
+****** todo dev
+- [ ] Implementar jotai.
+- [X] Implementar randomizador de design.
+- [ ] Animação com scroll.
+- [ ] Implementar framer motion
+***** SGVG | TCC [9/9]
+1. [X] Terminar crud de API com banco de dados.
+2. [X] Configurar prettier
+3. [X] Configurar tailwind.
+4. [X] Configurar componente padrão para ajudar a Tailli.
+5. [X] Configurar dark mode.
+6. [X] Criar componente NavBar.
+7. [X] Conectar tela de vagas com o banco.
+8. [X] Configurar jotai.
+9. [X] Configurar menu colpsável.
+10. [ ] Remodelar banco de dados
+    1. Adicionar email ao funcionário *documentação*.
+    2. Adicionar tempo as vagas
+****** Mongodb schema redesign
+O banco deve suportar mais de um négócio
+logo deveria ser possível haverem vários
+donos com suas respectivas listas de funcionários, pra diferentes tipos de estacionamento.
+***** Imoviz [2/6]
+1. [ ] Fork repo.
+2. [ ] Setup project.
+3. [ ] Test plotting libraries.
+4. [ ] Test crawler algorithm.
+5. [X] +Vue router config+.
+6. [X] Migrate to react + typescript.
+7. [ ] Implementar mapa com open layers.
+****** UI
+******* DONE Desenvolver UI
+É necessário desenvolver um conceito
+de UI para este projeto, um que almeje
+usabilidade e baixa curva de aprendizado,
+implementando o conceito de *fun sites*
+******* Funcionalidades e elementos UI
+******** Esfera de atuação do usuário
+1. Alterar filtro dos mapas.
+2. Alterar zoom e área de visualização.
+
+****** Arquitetura
+*** Life
+**** Todos life
+***** Linkedin
+- [ ] Tirar fotos.
+- [ ] Terminar personalização do perfil.
+***** Currículos
+- [X] Atualizar currículo.
+***** Consertar instrumentos
+- [ ] Piano.
+- [ ] Violão.
+- [ ] Violino.
+**** Setup
+****** Neovim [1/3]
+- [X] Configurar prettier.
+- [ ] Configurar dap-mode.
+- [ ] Definir estratégia de refatoração.
+- [ ] Arrumar formatação do código.
+- [ ] Adicionar Snippets personalizados.
+****** Baum/dotfiles
+- [ ] Sync files with Rsync.
+- [ ] Update baum&dotfiles on shutdown.
+****** PKI
+- [ ] Buy safe hardware to store secrets. - [X] Teste alternatives forms of OTP.
+- [ ] Degoogle phone & manage keys with android keystore.

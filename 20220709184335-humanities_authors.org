@@ -1,0 +1,6 @@
+#+title: humanities/authors
+* Humanas :sociologie:
+** Pierre Chaunu :sociologie:history:
+** Richard J Evans :sociologie:history:
+** Foccault :sociologie:history:
+** George Lakoff :linguistics:

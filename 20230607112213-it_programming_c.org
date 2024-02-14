@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       b184407d-1427-4ad4-bc9f-68a3d56590d5
+:END:
+#+title: it/programming/c++
+* Kernel dev
+** Hello world
+** docs
+[[https://jasonblog.github.io/note/arm_emulation/hello_world_for_bare_metal_arm_using_qemu.html][jason blog]]
+[[https://wiki.osdev.org/Expanded_Main_Page][OSdev wiki]]
+* Engine dev
+** Voxel engine
+*** John Lin voxel engine
+[[https://voxely.net/blog/the-perfect-voxel-engine/][The perfect voxel engine]]
+*** Vulkan
+[[https://vulkan-tutorial.com/Overview][Vulkan tutorial]]

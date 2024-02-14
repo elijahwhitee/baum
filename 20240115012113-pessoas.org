@@ -1,0 +1,13 @@
+:PROPERTIES:
+:ID:       0f8130a3-5a66-492d-ad1b-7f5d9b88060b
+:END:
+#+title: pessoas
+* Aniversarios
+Anthony <3: 3 de Julho
+Antônia <3: 4 de Julho
+Mariana <3: 21 de setembro.
+Marina <3: 6 de maio.
+Pedro <3: 4 de feveiro.
+Xênia <3: 5 de março.
+Mãe <3: 6 de Janeiro.
+Pai <3 : 7 de setembro.

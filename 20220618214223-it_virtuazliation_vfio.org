@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       ad7c43a6-82ab-49c0-b913-e18287aa396b
+:END:
+#+title: it/virtuazliation/VFIO
+* Sources
+ [[https:https://www.youtube.com/watch?v=WFkdTFTOTpA&t=280s][An introduction t o PCI device assignment]] 
+ [[https:https://www.youtube.com/watch?v=qhIHu8mFrdg][System archtecture PCI basics]]
+ [[https:https://www.youtube.com/watch?v=NhZ9eIpg2nM][VFIO,OVMF,GPU and you]]

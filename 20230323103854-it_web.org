@@ -1,0 +1,11 @@
+#+title: it/web
+* Architectures
+** ASGI(Asynchronous server gateway interface)
+[[https://asgi.readthedocs.io/en/latest/][ASGI Documentation]]
+** WSGI(Web server gateway interface)
+* Test css cascading logic
+#+begin_src css :tangle ~/work/lab/IT/org-babel/org_detangle_test.css
+html {
+    background-color:black;
+}
+#+end_src

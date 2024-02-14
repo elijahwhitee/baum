@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       6640df34-6b2a-41d2-a791-849f75a06a81
+:END:
+#+title: 20230524121827 Polytics Brasil Indices
+#+title: polytics/brasil/indices
+* Desenvolvimento escolhar
+** CAQi(Custo Aluno-Qualidade Inicial)
+Custo por aluno para alcançar o básico do ensino previsto pela constituição
+** PNAD(Pesquisa nacional por amostra de domicílios)
+[[https://www.ibge.gov.br/estatisticas/sociais/populacao/9127-pesquisa-nacional-por-amostra-de-domicilios.html][PNAD]]

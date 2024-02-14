@@ -1,0 +1,17 @@
+:PROPERTIES:
+:ID:       8c847cac-1b76-4e1e-a73f-572d7d2e564d
+:END:
+#+title: 20230410083259 It_datascience_neonazis_cells_in_brazil
+#+title: it/datascience/neonazis cells in brazil
+* News
+1. [[https://brasil.elpais.com/brasil/2020-06-10/sites-neonazistas-crescem-no-brasil-espelhados-no-discurso-de-bolsonaro-aponta-ong.html#?][El pais-sites neonazistas crescem no Brasil espelhados no discurso de Boslonaro, aponta ONG]]
+
+2. [[https://www.unicamp.br/unicamp/ju/noticias/2018/09/28/um-mergulho-no-universo-neonazista][Um mergulho no universon neonazista]]
+
+3. [[https://www.unicamp.br/unicamp/ju/noticias/2018/09/28/um-mergulho-no-universo-neonazista][Denúncias de discurso de ódio online dispararam no segundo turno das eleições, diz ONG]]
+
+4. [[https://gauchazh.clicrbs.com.br/geral/noticia/2013/04/rs-e-o-segundo-estado-que-mais-baixa-conteudos-neonazistas-na-internet-cjmghjlsb01tf01oen2pnrk7c.html][RS é o segundo estado que mais baixa conteúdos neonazistas na internet]]
+
+5. [[https://www.ihu.unisinos.br/78-noticias/594557-e-preciso-soar-alarme-sobre-a-expansao-do-neonazismo-no-brasil-entrevista-com-a-antropologa-adriana-dias][É preciso soar o alarme sobre a expansão do neonazismo no Brasil. entrevista com antropóloga Adraina Dias]]
+6. [[https://brasil.elpais.com/brasil/2019/02/24/politica/1551033982_835587.html][O caldeirão da internet que agita fantasmas do nazismo no Brasil]]
+7. [[https://noticias.uol.com.br/cotidiano/ultimas-noticias/2020/05/25/neonazistas-aproveitam-pandemia-para-intensificar-acoes-no-brasil.htm][Nazismo e xonofobia "surfam" na pandemia e denúncias triplcam na internet]]

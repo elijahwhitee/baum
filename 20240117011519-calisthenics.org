@@ -2,3 +2,17 @@
 :ID: d98aa1de-3508-4b93-84f8-161fd92f28d8
 :END:
 #+title: calisthenics
+* Calculo de calorias
+** Gasto basal Harris-Benedict
+Formula de Harris-Benedict
+
+*altura em cm*
+*peso em kilos*
+
+66+(13.7*meu_peso)+(5*altura)-(6.8*idade)
+
+meu caso
+
+66+(13.7*63)+(5*170)-(6.8*21)
+
+1636,3 calorias basais

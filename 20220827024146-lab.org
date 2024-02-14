@@ -1,0 +1,10 @@
+#+title: lab
+* Finance
+ ORG document for projections and calculations on finance.
+** Projecoes do primeiro investimentos
+| Ativo | Valor | V.I |  P |
+|-------+-------+-----+----|
+| PETR4 | 33.64 |     | 10 |
+|       |       |     |    |
+|-------+-------+-----+----|
+#+TBLFM: @

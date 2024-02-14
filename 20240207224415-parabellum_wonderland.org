@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       b42d70fc-a9ed-4e38-a07d-5ef9fe360273
+:END:
+#+title: parabellum/wonderland
+
+*Objectives*
+
+1. Anonymous point of cell through a secure channel.
+
+* Anonymity
+** Anonymous messassing throw TOR

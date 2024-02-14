@@ -1,0 +1,40 @@
+#+title: it/software architecture
+* Artigos
+** Medium
+[[https://medium.com/better-programming/architecture-of-modern-startup-abaec235c2eb][The Architecture of a Modern Startup-Medium]]
+* Architectural patterns
+A architetictural pattern can apply to  many
+design contexts in software development and infrastrcuture.
+
+ *Scalling horizontally vs vertically.*
+
+*** Monolith
+Everything inside one machine in one scope.
+
+A monolith can express the idea of a single machine running all
+the code, or a repository containing all the code that will be deployed
+in a single machine or a parted repository where each context and part
+of the project is stored in a differente repository, but it gets deployed to
+a single machine.
+
+Monolithic design can also represent the idea of a single big chunk of
+code that handles every requirement and function of the project. To abstract
+the idea, monolithic is equal unioning responsibility and functionality in a
+single piece of abstraction.
+*** Microservices
+Everything distributed and reponsibilities and functionalities
+are encapsulated per service.
+* Code architecture
+** Schema changes
+Schema changes is when the data modelled
+has to change in order to adequate to new
+logic, but doing this results into breaks
+to the code.
+*** Expand and contract
+- First its adds the new schema to
+  project.
+- Keeps the old schema, so the codebase
+  doesn't break.
+- As the new version is with the right
+  schema is ready, it contracts to
+  the new schema, removing the old one.

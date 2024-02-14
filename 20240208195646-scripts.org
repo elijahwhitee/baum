@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       44a33024-6c09-4f9f-8b4c-8341cd9b1d3f
+:END:
+#+title: scripts
+* System maintenance
+** Archlinux
+Reproduce installation
+#+begin_src bash
+pacman -Qqe > pkglist.txt
+#+end_src

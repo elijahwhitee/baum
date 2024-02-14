@@ -1,0 +1,36 @@
+:PROPERTIES:
+:ID:       c02a2cd3-7f93-448c-9adb-8d32da3ae64e
+:END:
+#+title: 20230526170215 Personal Finance
+#+title: personal/finance
+* Imposto de renda
+** Dados necessários
+- [ ] Notas fiscais de compra.
+  1. CNPJ
+  2. Banco
+- [ ] Média do preço das ações compradas.
+- [ ] Informe de rendimentos da empresa que trabalhava durante a compra.
+- [ ] Quanto que se tinha em conta no momento da compra.
+* Recebimentos
+** 2022
+*** Khanum
+#+begin_src text
+14/06/2022  1218.00
+22/06/2022  1200.00
+20/07/2022  1200.00
+22/08/2022  1200.00
+20/09/2022  1500.00
+20/10/2022  1520.23
+21/11/2022  1200.00
+20/12/2022  1200.00
+#+end_src
+** 2023
+*** Khanum
+#+begin_src text
+20/01/2023  1200.00
+20/02/2023  1200.00
+#+end_src
+*** Union
+#+begin_src text
+
+#+end_src

@@ -1,0 +1,33 @@
+:PROPERTIES:
+:ID:       12af2c4c-5ebf-4aed-aff2-31554f66ce82
+:END:
+#+title: finance/math
+Everything math related to finance
+
+General finantial formulas used and day to day life of
+security anlysis and the theory behind them.
+* Custo de capital própio (CAPM MPAF) :HarryMarkowitz:
+*Capital asset pricing modell*  ou *Modelo de preficição de ativo financeiro*
+
+O CAPM espera avaliar o valor de um ativo contabilizando
+o seu risco e valor de retorno esperado.
+
+#+begin_src latex
+
+   ke =  RF + B(Rm-RF)
+
+   Ke = retorno esperado
+   B = beta do investimento
+   RF = Risk free
+   Rm = Risco médio
+#+end_src
+
+** WACC(Weighted average cost of capital)
+
+*WACC* ou *CMPC(custo médio ponderado de capital)*
+
+#+begin_src latex
+
+        WACC = [(E/V)*Re]+[(D/V)*Rd*(1-Tc)]
+
+#+end_src

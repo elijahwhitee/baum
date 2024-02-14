@@ -1,0 +1,36 @@
+#+title: design
+* History of design
+** Russian construtivism.
+It was focused on fomenting scientific base for constructing
+building to fulfim the demands of communist culture.
+*** Alexander
+* Design studies
+** UI/UX design
+*** Empathy and human relations.
+*** Apple human interface guidelines
+ [[https://developer.apple.com/design/human-interface-guidelines/guidelines/overview][Apple human interface guidelines]]
+** Atomic design
+Atoms -> Molecules  -> Organisms -> Templates -> Pages
+** Materials design
+[[https://material.io/design/foundation-overview][Material Design]]
+** Theory
+*** History
+Ornament and crime by Adolf Loos is the first text about design theory
+Le Corbusier
+**** Bauhaus movement
+*** People
+Mallarme and Rimbaud.
+*** Books
+**** List of books
+[[https://www.canva.com/learn/best-design-books/][must-read-design-books_canva]]
+** Typography
+*** Grids in typography
+*** Most used fonts
+** Grids in design
+[[https://www.youtube.com/watch?v=BQEVqWiD304][Poster grids]]
+* Tools
+** Gimp
+* Analysis
+** Web design
+*** Language school
+1. Common elements

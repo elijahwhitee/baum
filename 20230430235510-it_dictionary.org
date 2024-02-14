@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID:       ee76f682-5c0f-4ddb-b8c2-9085fdfe8e45
+:END:
+#+title: it/dictionary
+* Infosec
+** Authentication
+*** Authentication protocols
+#+transclude: [[file:20230131222514-it_infosec.org::*Authentication protocols][Authentication protocols]]
+*** Authentication pardigms
+*** Concepts
+  - point of authentication ::
+    1.
+*** Identity provider :idp:idstore:
+* Software architecture

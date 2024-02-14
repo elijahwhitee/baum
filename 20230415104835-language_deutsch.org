@@ -1,0 +1,17 @@
+:PROPERTIES:
+:ID:       8aec367d-43ec-4cd8-891f-8e8493723451
+:END:
+#+title: language/deutsch
+* Wörterbuch
+- Stellen ::
+  1. set
+- greifen ::
+   1. grip
+   2. reach
+   3. grasp
+- reichen ::
+- verfassungsgebenden ::
+  1. Constituent.
+- Verfassung ::
+  - Synonyme ::
+    1. (Rechts) Grundsezt

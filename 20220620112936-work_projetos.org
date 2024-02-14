@@ -1,0 +1,623 @@
+:PROPERTIES: :ID:       fe36581-b123-4e28-a335-58a9abf49780 :END:
+#+title: work/projetos
+* Mei
+** Mei Khanum
+Meu CNPJ:46.008.263/0001-48
+NFE-forma:46008263000148
+* Pessoais
+** Solutions
+** Portifolio
+*** Idendidade visual
+A ideia de um escritorio de desenvolvimento, as ideias de escritorios de design me inspiram, contratar um artista, n apenas um programador, Icaro(eu), pode eventualmente se tornar uma marca
+pra projetos diversos de desenvolvimento, se eu um dia pudesse expandir meus trabalhos para
+design industrial e solucoes  mais abrangentes do que software, seria um sunho ter um
+escritorio de design.
+- Primeira impressão ::
+  1. toque intimista de quem eu sou.
+- Design interessante ::
+  1. O usuário deve querer ler
+     o site.
+- Público alvo ::
+  1. Empresas que buscam jovens, soluções especializadas e soluções alternativas.
+*** Informação
+- A página deve comunicar ::
+  1. Quem eu sou.
+  2. Minhas habilidades.
+  3. Minhas experiências.
+*** Marketing
+**** Redes socias
+***** Linkedin.
+***** Instagram.
+***** Twitter.
+
+** Bancos de ideias
+*** Seed market
+- Note taken on [2022-10-03 Mon 18:53] \\
+  A ideia do seed market é criar um ambiente de contração e
+  biding de empresas recém criadas.
+[18:52, 03/10/2022] Ícaro: Sabe uma ideia que até agora eu n vi usarem? Biding de soluções, é comum empresas colocarem desafios, mas poucas colocam desafios reais que elas querem resolver como uma competição pra uma vaga
+[18:52, 03/10/2022] Ícaro: Eu tenho muita noção de quais são os problemas da minha empresa agora que eu to dentro, mas podia ter um preview do que eu teria que resolver antes de entrar, facilitaria estudar pra realmente o que importa no trabalho
+*** Democracia Liquida
+Votos constantes através de uma blockchain.
+*** Acompanhador de performance musical
+Web app que faz a função de dar o contexto artístico ou informações extras durante
+a performance de um artista.
+*** NAS decentralize cloud blockchain
+A cryto currency that uses tor like encryption to provide a decentralized cloud system.
+** Hauptwerks
+List of software created only by me.
+*** ProNo.1 | Imoviz
+Heat map de variação de preços de imóveis na grande São Paulo.
+*** ProNo.2 | Okonomicus
+ Análise fundamentalista com API rest e processamento de dados com Python.
+ A principal ideia é criar uma interface customizável para que o usuário consiga rastrear
+ os seus valores e dados específicos, tem que ser extensível e focada no power user, uma ferramenta
+ com potencial para fornecer os mesmos dados na mesma intensidade que um home broker.
+
+ O maio objetivo do projeto é se tornar um *verbo* na cultura de investimentos, uma
+ ferramenta tão atômica e coesa que é amplamente usada pela comunidade de investidores
+ brasileira.
+**** Arquitetura
+***** Interface :visões:json:
+A interface é customizável, onde o usuário consegue salvar e criar visões, que são
+essencialmente vários grafícos e dados que o usuário escolheu rastrear, essas visões
+podem ser salvas em abas e em uma lista contendo todas as visões, a ideia é representar
+essas visões em *json*.
+
+|------|
+| Viz1 |
+|------|
+
+|------|
+| Viz1 |
+|------|
+****** Endpoints
+******* Live stock data
+Connect to stream of stock price data.
+******* Seasonal data with low granularity
+The idea is to update every document based data
+about a company every hour.
+
+***** Banco de dados
+***** Estrutura dos dados
+****** DFPS
+As dfps são os documentos padronizadas entregues à CVM por parte das empresas
+listadas, o acesso à informação disponibilizada pelo portal de dados é possível
+graças ao incentivo da lei de acesso à informação.
+
+O formato é em CSV.
+****** Grupos das DFPS
+****** Users
+****** Views
+Aqui estruturarei uma forma rudimentar de como as view são expressas dentro do mongodb
+#+begin_src json
+View:{
+    id: string;
+    name: string;
+
+    user: {
+    //user data
+    }
+
+    cards:{
+        card1:{
+            assets: string;
+            assetid: string;
+            texts:{
+
+            }
+            graphs:{
+
+            }
+            modules?: {
+            //modular components containing extra info about the tracked asset
+            //examples: news module, investor mood module, popularity on the platform
+
+            }
+        }
+    }
+}
+
+#+end_src
+**** Analise de negócios
+***** Concorrentes
+Lista de serviços de investimento que visam prover um serviço parecido
+****** Status invest
+- Pros ::
+  1. Bem estabelicida no mercado
+  2. Oferece muitas ferramentas.
+  3. Preço acessível.
+- Cons ::
+  1.
+
+****** Google finance
+- Pros ::
+  1. Gratuito pra primeiro uso.
+  2. Interface simples e amigável.
+
+****** Fundamentei
+[[https://fundamentei.com/][Fundamentei]]
+****** Morningstar
+[[https://www.morningstar.com/][Morningstar]]
+****** The Motley fool
+[[https://www.fool.com/][The Motley fool]]
+****** Guru focus
+[[https://www.gurufocus.com/][GuruFocus]]
+**** Funcionalidades
+***** Graficos e indíces contidos
+1.D.Y divident yield
+2. P/L
+3. P/EBTIDA
+4. P/VP
+5. P/EBIT
+6. P/SR
+7. P/ATIVO
+8. LPA
+9. P/SR
+10. P/CAP. GIRO
+11. P/ATIVO CIRC. LIQ
+
+*** ProNo.3 | Ícaro Onofre Silva | Portifolio
+ Meu portifolio, landing page pessoal e blog.
+**** Design Identity
+Identidade visual relacionada
+com arquitetura moderna e clássica da
+cidade de são paulo.
+Ensaio fotográfico
+*** ProNo.4 | Stocks
+Tratamento de dados da CVM e disponibilizando os dados através de
+uma API rest.
+**** Fontes
+***** Baixando DFPs e ITRs da CVM
+- uri ::
+  1.http://dados.cvm.gov.br/dados/CIA_ABERTA/CAD/DADOS/cad_cia_aberta.
+*** ProNo.5 | Análise de dados amazônia | Boitatá.
+**** Apis e sites para consulta.
+[[https://basedosdados.org/][Base de dados]] | Site do governo para consultar dados.
+*** ProNo.6 | Calculadora de calorias.
+*** PrNo.7 | Ramen Mania :tailored_ux:darkkitchen:
+Custom made ramen with delivery
+system, *darkkitchen* strategy
+**** Turning point
+Point of economical gain on probability of sucess
+
+#+begin_src latex
+
+#+end_src
+***** Pesquisa operacional
+
+*** ProNo.8 | git centric notation web app
+A notion like noting system, where the content of the notes are represented by git repos, allowing commit on change, and syncing with other apps.
+**** Commiting on change.
+*** ProNo.9 | Sisifo network :culture_memology:socioloy:
+[[file:20230329125955-writing_thesis.org][writing/thesis]]
+*** Jogos
+**** Xoiah
+Jogo estilo sandbox survival com foco em um sistema de magia, onde o jogo se desenvolve através do acumulo de experiência própio apenas decorando receitas e processos.
+Estilo de narrativa alternativo,
+**** Mecânicas
+***** Tabula rasa
+O inventário, toolbar  e skill pallet são localizadas no mesmo lugar, uma matriz
+alocável onde o jogador pode associar um elemento e uma maneira de acessa-lo,
+cada nodo na matriz possui uma natureza, itens físicos podem ser alocados conforme os nodos de peso permitem, exemplo: cada quadrado representa um kilo,
+****** UI
+Um grande quadrado com abas e uma ferramenta de pesquisa, cada nodo é
+representado com um quadrado e uma cor que demonstra o tipo do nodo, vermelho
+corresponde a peso, verde corresponde a buffer(livro de magias), ao alocar um elemento de peso, o número de quadrados vermelhos é reduzido conforme o peso consumido(eles mudam de cor e assumem uma cor que represente eles poderem ser alocados com outra coisa que n seja cor)
+Ao clicar com o botão direito em um quadrado, uma aba de opções aparece, interagir com o item diretamente ou usa-lo, ou alocar uma forma de acesso a ele.
+
+** Reflexões
+*** <2023-01-07 Sat> Solitude pós reviêre
+Meses se passaram rapidamente na minha vida, ao mesmo tempo que os recentes
+ocorridos foram tão densos, que um ano ficou parecendo dois, eu derreti
+completamente antigos modos e noções que eu tinha a respeito de quem eu era,
+rompi laços, construi novos e os rompi novamente, tive a sensação de chegar ao
+topo daquilo que eu mais desejava saindo com o Pedro, e logo quando nos
+afastamos, me encontrei em novos dilemas e me senti pressionado a cumprir as
+atividades que eu devo cumprir, me coloquei em posições das quais talvez eu não
+me sinta mais representado ou tenha deseja em realizar as atividades, é sempre
+uma luta pra conseguir achar significado nas coisas, razões pra continuar, mas
+agora que estou sozinho novamente, percebo que talvez esse seja o momento mais
+definidor de quem eu "sou" no sentido que tudo que me resta é refletir e encarar
+os meus própios dilemas que eu mesmo me impus.  Meu ofício como progamador e
+artista, devo trabalhar nessas questões para conseguir alcançar aquilo que eu
+acredito que seja a minha razão ou essência como humano, estudar e criar. É
+engraçado notar que eu me deparei com mais uma situação desafiadora, como as
+situações antigas que eu encontrei trabalhando na LAZco, me sinto muito ansioso
+tendo que lidar com elas, não sei o porquê, essa ansiedade me paralisa e esse é
+o principal problema eu diria, essas questões me deixam extremamente ansioso
+talvez porque elas parecem que me definem e me validam como pessoa, eu me
+associei a esses deveres de tal maneira que falhar significa falhar
+completamente como pessoa, eu me vejo nesses trabalhos como a maior
+representação daquilo que eu sou no mundo, isso simplesmente não é verdade, e
+notar isso me deixa um pouco perdido, pois eu não tenho clareza no que fazer
+para continuar trabalhando naquilo que eu considero ideal, a sensação de
+progredir ou investir em algo que faça sentido, não é diversão, é mais o
+casamento de uma atividade que me satisfaça e atinja as expectativas de uma vida
+numa sociedade capitalista, uma analogia seria um camponês achando propósito e
+felicidade em realizar sua atividade, falhar significa a maior falha que alguém
+poderia ter na vida. Ficar refletindo sobre essas questões me coloca num
+labirinto onde eu não sei pra onde eu vou, e quando eu fico perdido em tudo
+aquilo que eu idealizo pra mim, eu esqueço o que eu deveria fazer e me sobre
+apenas a ansiedade.  Olha, posso tentar inumerar as coisas que se passam na
+minha cabeça por tópicos que eu penso, em primeiro lugar penso na minha carreira
+e em tudo que eu devo criar pra conseguir evoluir como programador, aí penso no
+meu portifolio, nos meus projetos incabados que eu não consigo terminar, penso
+na minha imagem, e em todo skincare e organização que eu devo ter na minha vida
+pessoal pra conseguir ser completo, belo, competente e ideal, penso nas minhas
+obras inacabadas, e em quanto elas teoricamente representam aquilo que eu mais
+quero pra vida.  Obras essas são tipo, as receitas e comidas que eu quero fazer,
+os projetos de química, os projetos de programação, os projetos no trabalho, os
+treinos pra ser saudável e belo, as trilhas, as fotografias, as artes, penso em
+tanta coisa e em tantos objetivos, fico sempre pilhado com um mundo que eu não
+consigo processar.
+
+Uma depressão profunda toma conta de mim nesse começo de 2023, reminiscências de
+um passado recente que fora tão memorável e colorido que tornou a minha vida
+atual um grande mar de cinza, vou me recuperar, em breve, em dois dias
+estarei dando risadas gratuitamente por aí por qualquer motivo, mas ainda assim
+me sinto distante de mim mesmo,  longe do meu propósito que me completa,
+gostaria de conseguir reaver e reconectar com aquilo que importa, na esperança
+disso me deixar feliz por mais tempo. O que poderia curar minha tristeza agora
+seria eu me livrar desses tormentos momentâneos do trabalho e de meus deveres,
+e logo conseguir retomar à música e a produção mais relevante pra mim, preciso
+de arte, preciso produzir arte para criar uma personagem nova que me represente
+de fato eu diria, preciso sangrar as minhas dores através da arte e aos poucos
+me curar dessa tristeza. Será que é possível eu conseguir um refúgio ideal que
+eu posso sempre me sentir bem e a vontade? Um lugar que eu possa fugir pra sempre
+dos meus males, uma casa só pra mim, onde eu possa me isolar e ficar ali fazendo
+minhas coisa, não consigo sentir o amor de mais ninguém por algum motivo, ando
+tão melancólico.
+** Agenda
+<2023-01-23 Mon> Segunda feira 1 de 2023
+*** TODO Ajustar github
+*** TODO Trabalhar no site do Studio
+*** TODO Marcar dentista
+*** TODO Marcar cabeleleiro
+*** TODO Marcar médico
+
+* Formal
+** Khanum
+CPNJ-Khanum:43.723.361/0001-79
+NFE-forma:43723361000179
+Email-institucional:icarosilva@trendhousetech.com
+*** Nacci :khanum:
+***** Team
+****** Frontend team
+******* Arquitetura
+******* Atividades
+     Tela sobre o usuario
+****** Backend team
+***** Development
+****** Daily
+1. Reportar o que foi decidido com o Murilo,
+   e o sobre a lista de prespec da Nacci.
+2. Reportar sobre o Big Idea.
+3. Reportar sobre o Layover.
+
+****** Dev Diary
+******* <2022-11-03 Thu>
+- Sugestão de alteração de UI ::
+  1. Alterar a posição dos botões de like e comentário.
+  2.
+- Informações duplicadas ::
+  1. Não razão para determinar que as informações estão
+     duplicadas, pois isto esteve previsto no design.
+     1.
+******* <2022-11-07 Mon> Diario pra daily  de segunda
+Nacci - Resumo
+1. Erro de crash apos click no botão consertado.
+2. Botões clicáveis na tela perfil do médico funcionando.
+3. Ainda falta ajustar a responsividade.
+Layover - Resumo
+1. Lista de telas corretas.
+   1. Status Voo
+   2. Leilao.
+******* TODO <2022-11-08 Tue>
+1. Implementar nova tela de perfil do usuario.
+2. Implementar pontos no documento de presescp.
+   1. Documento criado pela Bel e pelo Rodrigo
+      contendo todas as melhorias necessárias
+      para terminar o aplicativo.
+******* TODO <2022-11-14 Mon>
+
+1. Falar com o Duarte para criar
+   conta no BigIdea
+2. Avaliar responsividade no BigIdea
+3. Mexer com o Layover
+******* TODO <2022-11-17 Thu>
+1. Adicionar imagem de perfil diferente para teste para
+   representar dois dados diferentes no post.
+2. Terminar de criar tela perfil do usuario.
+****** Debbuging
+- package name:nacci-develop
+******* Crash reports
+******* Android breaks when using big decimal values
+[[https://github.com/vitalets/react-native-extended-stylesheet/issues/124][Multiple rem decilma values cause a crash on Android]]
+******* Adb
+*Debugging with adb log cat*
+
+#+begin_src bash
+adb logcat -s ReactNative:V ReactNativeJS:V > ~/dev/khanum/nacci-worktree/logs/android-logcat.log
+#+end_src
+
+*Debbuging with filter of process pid*
+
+#+begin_src bash
+adb logcat --pid=$(adb shell pidof -s com.example.app)
+#+end_src
+****** Issues
+******* DONE Issue001
+A selecao de item na tela mais sobre o usuario da task203 demonstrava comportamento erratico.
+A selecao desmacava mais de um item alem do selecionado.
+******* DONE Issue002
+O aplicativo n roda no mobile. E preciso refatorar completamente o app.
+******** Refactoring
+All units must be in pixel value, and it must be implemented in a global file.
+I will try to achieve this with REGEX substitution, finding the ocurrence of the unit and the replacing with a math expression and then appending to a different file by selecting the new changed style and inserting it manually.
+
+ 296, 299, 301 e 310.
+******* DONE Issue003
+A working version of the project must be made  in order to show the stakeholders in <2022-08-10 Wed>.
+For that I need all working screens from my
+coworkers and test and compile a branch containing the functional app, at least with
+the currecet routes.
+******* TODO Issue004
+A interface n ocupa 100% da tela disponivel.
+****** Expo Cli
+****** Tools
+Preview properties of shadows
+[[https://ethercreative.github.io/react-native-shadow-generator/][Ethercreative]]
+****** Personal repo
+Snippet for implementing color pallete.
+******* Assets library
+Lista dos assets adiquiridos da nova forma.
+1. Home.svg
+2. Group.svg
+3. Add.svg
+4. Content.svg
+
+******* Calculating percemtage formula
+#+begin_src calc
+   y * 100
+x= -------
+    width
+
+y = component
+x = percentage
+#+end_src
+******* Fonts
+FontFamily:Poppins.
+Title:46.4px.
+Subtile:22.2px.
+h1:20.54px.
+h2:13.2px.
+IconeJornadaTitulo:15px.
+IconeJornadaSubtitulo:10px.
+PerfilFeedNome:18.49px.
+PerfilNome:17.68px
+******* Color pallete snippet
+#+begin_src javascript
+    global.colorPalette = {
+		blue: '#314682',
+		darkGrey: '#353535',
+		darkerGrey: '#202020',
+		green: '#014A15',
+		grey: '#999',
+		lightGrey: '#CCC',
+		orange: '#E86243',
+		red: '#8c2727',
+		yellow: '#C49504'
+	}
+#+end_src
+******* Icon list for task203 and 273
+#+begin_src javascript
+<View
+    style={[
+    styles.IconeContent,
+    ]}
+>
+    {ListaIcones.map((a,index) => {
+    return(
+        <IconeBotao
+            key={index}
+            index={index}
+            texto={a}
+        />
+    )
+    })}
+</View>
+#+end_src
+******* Paciente e Medica colorpallete
+#+begin_src javascript
+const paciente-gradient = ["#D6715F", "#F9AEA2"]
+const medicoGradient=["#9ab2cf", "#b4beca"]
+#+end_src
+******* Style snippet
+******** Shadow snippet
+#+begin_src javascript
+    shadowColor: '#000000',
+    shadowOffset: { width: 0, height: 2 },
+    shadowOpacity: 0.9,
+    shadowRadius: 3,
+    elevation: 3,
+#+end_src
+
+****** Architecture
+******* Architecture Style
+******** Style library
+******* Architecture Logic
+****** Testando responsividade
+******* Moto Edge 30
+  - Resolution ::
+    1. 1080x2400
+
+*** Layover :khanum:
+**** Daily
+**** <2022-11-24 Thu> Reportar QA's
+- texto ::
+  1. A branch dev tem telas feitas sem estarem inclusas na versão principal do projeto.
+  2. Também há presenças de rotas sem
+     tela.
+*****  Dúvidas
+1. Todas as tasks possuem tela?
+2. Devo seguir o Figma ou o devops?
+**** <2022-11-29 Tue> Reportar teste da Nacci
+1. *Nacci*. A questão da faixa branca em baixo da tela do aplicativo ainda não foi solucionada, contudo as hipóteses levantadas foram testadas e descartadas, a principal suspeita é que a build através do expo build:android tenha impactado no funcionamento do estilo do app.
+   *Layover*. Ainda sigo no aguardo para tratar com o Murilo o mapeamento das rotas feitas.
+
+**** QA
+***** QA V 1
+****** Telas que estão corretas
+1. Finalizada valeu
+2. warning layover
+****** Telas corrigidas
+***** QA V 2
+****** Telas faltantes.
+1. Dash cia
+2. Dash full
+3. Disparo layover
+***** QA V 3
+****** Problemas de estilo
+******* Tela de leilão
+1. O footer com botões está muito grande.
+   Está cobrindo a tela.
+******* Tela de resultados de leilão
+1. o estilo não está sendo carregado.
+**** Lista de telas que viraram tasks
+1. Resultado leilão | auction-result
+2. Hospedes.
+3. Relatórios.
+4. Tela de hospedes.
+5. Tela de finalizar valeu.
+6. Termos de uso.
+7. Pagina travel.
+8. Voo cancelado e voo atrasado.
+9. Componente informações do voo.
+10. Inclusão de passageiros no layover.
+11. Localizador de voo.
+12. Voucher componente de alimentação.
+13. Tela de alerta Layover.
+14. Pesquisa de satisfação Layover.
+15. Disparo Layover.
+16. Esqueci minha senha.
+17. Tela executar lance.
+18. Tela de cadastro.
+19. Tela de cadastro de hotel.
+20. Tela de leilão - dash da compania.
+21. Tela  de política de privacidade.
+22. Status voo.
+**** Algumas
+**** Issues :issue:
+***** Issue001
+Algumas telas não estão carregando o estilo corretamente
+
+*** BidIdea
+ Aplicativo que visa organizar toda a empresa em algo
+ análogo a uma rede social com inúmeras mecânicas de
+ gamificação.
+ Visa transformar lógicas corporativas em coisas palatáveis
+ de forma lúdica.
+**** Funcionalidades
+***** Badges
+***** Bcoins
+***** Relatórios
+****** Relatórios dos projetos
+****** Relatórios da loja
+***** Gestões
+****** Eventos
+**** Críticas
+**** Development
+**** Dailies
+***** <2022-12-02 Fri>
+****** Dúvidas
+1. Tratar funcionalidades do banco de dados.
+2. Como rodar o projeto propiamente.
+3. Task clonada para eu me eu me embasar no desenvolvimento.
+****** Refatorar código
+1. Descomentar componentes e rodas.
+2. Atualizar as bibliotecas do
+materials.
+3. <textfield> também usar
+o do materials.
+4. <button variat="contained">
+5. import component from "@mui/material"
+6. importar novo BasePage e apagar o antigo.
+7. Adicionar props do antigo BasePage no BasePageNew
+8. Pegar modal, CustomDialog.
+****** <2022-12-07 Wed>
+******* Explicar as várias tasks feitas em uma.
+  A task 452 que eu fiz engloba as suas outras partes.
+***** <2023-01-18 Wed>
+duvidas
+aprimorando task 472 e 483 e indo pra 499
+**** Devops
+***** API endpoints
+REACT_APP_EVENTS_API_URL=https://dev.bigideapp.com:40004
+*** Agenda
+**** Reuniões
+**** TODO One
+Reunião com os meus chefes para discutir
+coisas que eu ainda não, provavelmente para
+discutir minha posição e conforto na empresa.
+**** Eventos
+*** Code email
+Códigos de validação de segurança
+icarosilva@trendhousetech.com
+ 1. 391n m4dx jul5
+ 2. 7l09 ioz5 9xil
+ 3. u4xl 86fv oehu
+ 4. z8q4 6p4x o5oy
+ 5. rmav sucp xgub
+
+Hora de geração : 19/01/23
+* Freelancer
+** Studio de idiomas
+:PROPERTIES:
+:ID:       03936f08-dfa7-425f-8cb3-d751a78eaf1f
+:END:
+*** DONE Pesquisa
+SCHEDULED:<2022-10-07 Fri>
+[[http://www.studiodeidiomas.com.br/][Studio de idiomas site atual]]
+**** História
+**** Serviços
+Ensino em língua estrangeira com
+professores extremamentes qualificados, as aulas são
+realizadas em pequenos grupos.
+***** Linguas
+Inglês
+Alemão
+Italiano
+**** Profissionais
+  Valéria, propietária e criadora
+  do Studio de Idiomas, é referência
+  no ensino de línguas estrangeiras
+  na região e possui um extenso curriculo.
+**** Informações de contato
+ email:
+ Whats:
+**** O que eu quero comunicar?
+ Um hero site conciso que comunique
+ ideias essenciais com um design que
+ capture o enderece e vontade do visitante.
+[[~/Images/O_triunfo_do_genio_da_destruição.png]]
+*** Pesquisa de exemplos a serem utilizados
+*** Apresentação sobre o design
+1. Design coeso para expressar tudo que é necessário sobre a escola,
+
+2. Ponto de comunicação rápida para redes e para o whatsapp.
+
+3. Acesso rápido à informação da localidade.
+
+*** Design do projeto
+**** Estrutura da informação
+
+** Paineiras
+Projeto do shopping Paineiras organizado
+pela fatec.
+*** Arquitetura
+*** Agenda
+**** DONE Discutir com Fábio
+SCHEDULED:<2022-11-14 Mon>
+Preciso falar com o Fábio o que precisa
+ser feito para iniciar o projeto

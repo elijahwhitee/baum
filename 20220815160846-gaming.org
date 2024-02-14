@@ -1,0 +1,8 @@
+#+title: gaming
+* FPS
+** Apex
+*** settings
+sensitivity:
+* ARPG
+** Path of exile
+*** Builds

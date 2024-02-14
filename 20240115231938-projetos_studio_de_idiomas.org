@@ -1,0 +1,44 @@
+:PROPERTIES:
+:ID:       d5649242-609a-4843-b60c-8e1c78216cd2
+:END:
+#+title: projetos/studio-de-idiomas
+* Studio de idiomas
+:PROPERTIES:
+:ID:       03936f08-dfa7-425f-8cb3-d751a78eaf1f
+:END:
+* DONE Pesquisa
+SCHEDULED:<2022-10-07 Fri>
+[[http://www.studiodeidiomas.com.br/][Studio de idiomas site atual]]
+* História
+* Serviços
+Ensino em língua estrangeira com
+professores extremamentes qualificados, as aulas são
+realizadas em pequenos grupos.
+** Linguas
+Inglês
+Alemão
+Italiano
+* Profissionais
+  Valéria, propietária e criadora
+  do Studio de Idiomas, é referência
+  no ensino de línguas estrangeiras
+  na região e possui um extenso curriculo.
+* Informações de contato
+ email:
+ Whats:
+* O que eu quero comunicar?
+ Um hero site conciso que comunique
+ ideias essenciais com um design que
+ capture o enderece e vontade do visitante.
+[[~/Images/O_triunfo_do_genio_da_destruição.png]]
+* Apresentação sobre o design
+1. Design coeso para expressar tudo que é necessário sobre a escola,
+
+2. Ponto de comunicação rápida para redes e para o whatsapp.
+
+3. Acesso rápido à informação da localidade.
+
+* Design do projeto
+** Estrutura da informação
+** Fontes
+1. Oswald

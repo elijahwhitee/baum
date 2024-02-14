@@ -1,0 +1,17 @@
+#+title: it/artificial inteligence
+* Neural networks
+*** Hopfield network
+Neural network memory.
+[[https://en.wikipedia.org/wiki/Hopfield_network#:~:text=Hopfield%20networks%20are%20recurrent%20neural,be%20either%20discrete%20or%20continuous.][Wikipedia]]
+*** Backpropagation learning algorithm
+*** Recurrent network
+* Computação natural
+** Redes neurais
+*** Neural network architectures
+**** Perceptron
+[[https://en.wikipedia.org/wiki/Perceptron][Perceptron-wikipedia]]
+** Hardware evolucionário
+* Programming languages
+** Lisp
+** Prolog
+* Fuzzy logic

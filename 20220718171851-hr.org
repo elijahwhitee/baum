@@ -1,0 +1,11 @@
+#+title: HR
+* Pessoas
+** Khanum
+*** Enderson
+*** Gustavo
+*** Thiago :chefe:
+*** Tuca
+*** Beel
+*** Giulia
+*** Murilo :chefe:
+*** Lino :CEO:

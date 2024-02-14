@@ -1,0 +1,127 @@
+#+title: it/programming
+* Programming enviroments
+** Python
+*** React native
+*** emacs setup
+[[https://www.reddit.com/r/emacs/comments/bo741n/react_react_native_environment_setup/][reddit post]]
+** Javascript
+**** React
+**** Setup
+***** Neovim
+****** DAP (debugging in neovim)
+
+*install debug adapter* from microsoft([[https://github.com/microsoft/vscode-js-debug][vscode-js-debug]])
+
+#+begin_src bash
+
+git clone https://github.com/microsoft/vscode-js-debug ~/.DAP/vscode-js-debug --depth=1
+
+cd ~/.DAP/vscode-js-debug
+
+npm install --legacy-peer-deps
+
+npm run compile
+
+#+end_src
+**** Stack
+***** Tailwind setup
+
+Create vite app
+
+#+begin_src bash
+npm create vite@latest my-project -- --template react
+cd my-project
+#+end_src
+
+Install tailwind dependencies and init tailwind config file
+
+#+begin_src bash
+npm install -D tailwindcss postcss autoprefixer
+npx tailwindcss init -p
+#+end_src
+
+Tailwind base config file
+#+begin_src javascript
+/** @type {import('tailwindcss').Config} */
+export default {
+  content: [
+    "./index.html",
+    "./src/**/*.{js,ts,jsx,tsx}",
+  ],
+  theme: {
+    extend: {},
+  },
+  plugins: [],
+}
+#+end_src
+
+Change index.css of project
+#+begin_src css
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+#+end_src
+***** Prisma setup
+***** React
+****** Jotai
+***** Typescript
+***** Tooling
+****** Component based javascript frameworks
+******* Storybook
+[[https://www.youtube.com/watch?v=gdlTFPebzAU][Storybook in 100 seconds]]
+****** Swagger
+*** Run time
+[[https://www.youtube.com/watch?v=8aGhZQkoFbQ][javascript event loop]]
+* Learning
+** Docs
+*** Web
+Here is a link to good documentation regarding protocols and specifications
+[[https://www.w3.org/TR/DOM-Level-3-Events/][W3c UI events]]
+**** Web specs
+[[https://www.w3.org/TR/][All standarts and drafts-W3C]]
+**** DOM
+***** DOM Levels docs
+[[https://www.w3.org/TR/1998/REC-DOM-Level-1-19981001/][DOM Level 1 specification]]
+[[https://www.w3.org/TR/DOM-Level-2-Events/][Dom Lelel 2 specification]]
+** Method
+Method for learning a new programming language steps
+*** Read the entire docs
+*** Learn the basics
+Learn the main advantages of the language, how to define
+and use all the basic elements of the language.
+*** Learn a framework with the language.
+Learn a main workflow to work with the language.
+*** Learn datastructures.
+Learn how to use the datastructures in this language.
+*** Conduct a project in 4 months.
+Use the language to solve a problem and create a working project in 4 months.
+
+#+transclude: [[file:daily/2023-05-08.org::*- [ ] Configurar dap-mode.][- [ ] Configurar dap-mode.]]
+
+** RoadMap
+*** Programming language pool
+My level of proficiency in different
+programming languages   ,
++ Python 🌟
++ Javascript 🌟🌟🌟
++ Rust
++ C++ 🌟
+*** 2022
++ [X] Aprender um stack para jobs fullstack.
+**** Aprender uma linguagem tradicional de mercado [0/2]
+ Ja estou desenvolvendo em javascript, posso melhorar
+ nesse ambito para melhorar minha empregabilidade.
+ Contudo gostaria de dominar java ou python para algum
+ contexto comercial, com base nas minhas pesquisas([[file:20220627141246-personal.org][Personal]]) cogito bastante python,
+ + [ ] Aprender java.
+ + [ ] Aprender python.
+**** Aprender C++
+Pretendo aprender C++ para familiarizar com desenvolvimento mais complexo menos voltado ao mercado,
+iniciar o desenvolvimento de uma *voxel engine* ([[id:fe362581-b123-4e28-a335-58a9abf49780][Projetos/Work]]).
+#+transclude: [[file:20230421165723-it_programming_languages.org::*Languages][Languages]]
+* Dictionary
+** Memoization
+1. In computing, memoization or memoisation is an optimization technique used
+   primarily to speed up computer programs by storing the results of expensive
+   function calls and returning the cached result when the same inputs occur
+   again.

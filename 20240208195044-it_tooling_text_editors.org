@@ -1,0 +1,13 @@
+:PROPERTIES:
+:ID:       5c7742c6-989a-4074-b3e9-1287aa3f25ad
+:END:
+#+title: it/tooling/text editors
+* Neovim
+** Plugins
+*** Lsp zero :lsp:
+bundled configurations for lsps
+**** Listing available servers configuratiosn :lsp:
+#+begin_src bash
+:help lspconfig-all
+#+end_src
+This will list all the configuratiosn available in the lsp zero plugin

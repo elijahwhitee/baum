@@ -1,0 +1,749 @@
+#    -*- mode: org -*-
+
+
+Archived entries from file /home/fforelle/baum/baum/20220620112936-projetos_work.org
+
+
+* TODO | Dev log
+:PROPERTIES:
+:ARCHIVE_TIME: 2022-10-14 Fri 14:00
+:ARCHIVE_FILE: ~/baum/baum/20220620112936-projetos_work.org
+:ARCHIVE_OLPATH: Formal/Khanum/Nacci
+:ARCHIVE_CATEGORY: 20220620112936-projetos_work
+:ARCHIVE_TODO: TODO
+:ARCHIVE_ITAGS: khanum
+:END:
+** Segunda <2022-07-04 Mon>
++ [ ] Adicionar fontes no projeto
++ [X] Adicionar SVGS na tela de "mais sobre o usuario"
++ [ ] Fazer PR das telas
+*** Log
+#+begin_src quote
+Erros ocorreram durante a implementacao das telas, ao testar pelo
+expo o aplicativo "/crash/"
+
+ * Duvidas para tirar com o Murilo *
+   - SVG n compila no expo.
+   - Renderizar nome dos javascript objects.
+   - Log de erros ao compilar no expo.
+
+** Terca <2022-07-05 Tue>
+
+*** Log
+** Quarta <2022-07-06 Wed>
++ [ ] Implementar feature de click na tela mais sobre o usuario
++ [ ] Realizar PR das telas
++ [ ] Testar funcionamento pelo aplicativo
+*** Log
+Falta implementar mecaninca de click na tela mais sobre o usuario,
+tambem e necessario testar o aplicativo no expo pelo celular
+. Duvidas [0/2]
+    - [ ] Telas bloqueadas
+    - [ ] Feature de click
+
+** Quinta <2022-07-07 Thu>
++ [X] Terminar implementacao de click na tela mais sobre o usuario
++ [ ] Testando aplicativo no expo
+
+*** Log
+Flata terminar mecanica de click na tela mais sobre o usuario, tambem
+e necessario rodar o app pelo expo. Devo ver com o Murilo o estado das atividades
+bloqueadas.
+** Sexta <2022-07-08 Fri>
++ [ ] Falar com o Murilo sobre as tasks bloqueadas e avisa-lo sobre o PR.
+*** Log
+Hoje  realizarei algumas tarefas mais simples
+
+** Segunda <2022-07-11 Tue>
++ [X] Falar com o Murilo sobre as tarefas
+*** Log
+** Terca  <2022-07-12 Tue>
++ [X] Testar o app no EXPO.
+*** Log
+App ainda n funciona no Expo.
+
+** Quarta  <2022-07-13 Wed>
++ [ ] Testar o app no expo.
++ [ ] Refatorar o codigo  de estilo  para que fique em um arquivo diferente.
++ [X] Consertar erro de click na tela mais sobre usuario
++ [X] Criar branch de desenvolvimento para teste
+*** Log
+Defini um novo workflow com o git para testar algumas das implementacoes que eu desejo fazer.
+Iniciei o processo pra refatorar o estilo em arquivos diferentes.
+
+** Quinta <2022-07-14 Thu>
++ [X] Testar projeto no expo. OBS:Murilo propos uma solucao para isso e ira executa-la
++ [X] Responsividade. OBS: Murilo propos outra solucao para o problema.
++ [ ] SVGS.
++ [X] Cards de termos  de uso e politca de privacidade.
+*** Log
+- Correcoes pra versao mobile
+
+** Sexta <2022-07-15 Fri>
++ [ ] Falar com o Murilo sobre as alteracoes
+*** Log
+
+** Segunda <2022-07-18 Mon>
++ [X] Conversar com o Enderson.
++ [ ] Conversar com o Murilo.
+*** Log
+
+** Terca <2022-07-19 Tue>
++ [ ] Conversar com o Murilo sobre o app.
++ [ ] Refatorar o aplicativo para que funcione no expo.
+*** Log
+** Quarta <2022-07-20 Wed>
++ [ ] Hoje devo conversar com o Murilo.
++ [ ] Refatorar aplicativo para que funcione no mobile.
+*** Log
+** Quinta <2022-07-21 Thu>
++ [ ] Conversar com  o Murilo sobre o projeto
+*** Log
+Nada foi alterado
+** Sexta <2022-07-22 Fri>
++ [ ] Conversar com o Murilo
+*** Log
+Nada foi alterado
+** Segunda <2022-07-25 Mon>
++ [ ] Falar com o Murilo.
++ [X] Estudar a refatoracao do codigo.
+*** Log
+**  Terca <2022-07-26 Tue>
++ [ ] Terminar task208 com base na
+  tela implementada pelo Murilo.
++ [ ] Refatorar telas criadas para
+  a nova branch.
+*** Log
+Daily de amanha, menciona que a task271 n tem mockup.
+O PH precisa de acesso ao azure.
+As tasks de API precisam do aguardo do Murilo.
+** Quarta   <2022-07-27 Wed>
++ [ ] Terminar task208
++ [X] Ajudar o PH a iniciar a task dele
+*** Log
+Terminar task208 e iniciar a task273.
+** Quinta  <2022-07-28 Thu>
++ [ ] Terminar task208 e iniciar task273.
++ [ ] Comecar a compilacao de uma versao apresentavel.
+*** Log
+Hoje eu praticamente terminei a task208, vou revisar amanha de manha, e logo
+iniciarei a task273, vour organizar o projeto pra mexer esse fds. Ver
+em que posicao as coisas estao com os meninos. Consertar a tela do Thiago.
+** Sexta <2022-07-29 Fri>
++ [X] Iniciar task273.
++ [X] Ver a tela do Thiago.
++ [ ] Ajudar o PH na task dele.
++ [ ] Testar merge da task208 para a develop.
++ [ ] Criar branch principal para merge.
+*** Log
+OBS: task298 e task284 ja existem.
+Preciso tes
+
+** Segunda <2022-08-01 Mon>
++ [ ] Compilar uma versao navegavel.
++ [ ] Terminar task 273
+*** Log
+Nada foi realizado hoje 💝
+** Terca <2022-08-02 Tue>
++ [ ] Compilar uma versao navegavel.
++ [ ] Terminar task 273
+*** Log
+** Quarta <2022-08-03 Wed>
++ [ ] Terminar task273.
++ [ ] Compilar uma versao navegavel.
++ [ ] Ajudar os meninos.
+*** Log
+Hoje eu gostaria  de testar os  merges, ver se gera algum  conflito, e
+assim ir compilando uma versao navegavel.
+Iniciar task307 e task308
+** Quinta <2022-08-04 Thu> [0/0]
+  + [X] Iniciar task307
+  + [ ] Ajustar SVGS
+*** Log
+Hoje nada robusto foi realizado.
+** Sexta <2022-08-05 Fri>
++ [ ] Conversar com os  meninos sobre a organizacao do projeto.
++ [ ] Desenvolver task307 e task308.
+*** Log
+Farei as task307 e task308, tambem procurarei pelos svgs para adicionar nas
+telas, e iniciarei o processo para compilar uma versao navegavel do projeto.
+** Sabado :skull_and_crossbones: <2022-08-06 Sat>
++  [ ] Desenvolver task 307 e 308.
++  [ ] Refatorar task do Thiago.
++  [ ] Inserir task do Gustavo.
+*** Log
+Em suma preciso definir a estrutura basica da tela de Feed, assim posso finalizar no resto de domingo, e em breve providenciarei a tela de grupos.
+** Domingo :skull_and_crossbones: <2022-08-07 Sun>
++ [ ] Desenvolver task307 e task308.
++ [ ] Refatorar task do Thiago.
++ [ ] Inserir task do Gustavo.
++ [ ] Inserir SVGS.
+*** Log
+- *Notas da daily de hoje*
+  Duas tasks estao sendo feito conjuntas.
+  Enviar prints do estado.
+  Avisar sobre oq precisa ser feito pra terminar.
+  Alguns svgs podem ser substituidos por icones.
+** Segunda <2022-08-08 Mon>
++ [ ] Terminar task307 e 308.
++ [ ] Compilar versao navegavel.
+*** Log
+Hoje n consegui compilar uma  versaro navegal, o progresso foi lento devido a
+exaustao da ultima sessao de trabalho.
+**  Terca <2022-08-09 Tue>
++ [X] Terminar task307 e 308.
++ [ ] Terminar task306.
++ [ ] Iniciar compilacao de branch funcional.
+*** Log
+Hoje vou terminar a task306 e iniciar a task305.
+Devo indagar a Bell a respeito sobre o relatorio dela a respeito do relato
+sobre a task306.
+** Quarta <2022-08-10 Wed>
+ + [ ] terminar  task305.
+ + [ ] compilar versao final do UI.
+***  Log
+Faltou terminar a task305, e iniciar a compilacao de uma versao final do
+projeto.
+** Quinta <2022-08-11 Thu>
+ + [ ] terminar  task305.
+ + [ ] compilar versao final do UI.
+*** Log
+O mesmo de ontem.
+** Sexta <2022-08-12 Fri>
+ + [ ] terminar  task305.
+ + [ ] compilar versao final do UI.
+*** Log
+** Segunda <2022-08-15 Mon>
++ [ ] Finalizar  task305.
++ [X] Ajudar os meninos
++ [ ] compilar versao final do UI.
+*** Log
+Hoje ajudei os meninos com as tasks deles e comecei a avaliar a versao final.
+
+** Terca <2022-08-16 Tue>
++ [ ] Finalizar  task305.
++ [X] Ajudar os meninos
++ [ ] compilar versao final do UI.
+*** Log
+Preciso revisar o que o Enderson mencionou, e terminar a task do Thiago com  ele, hoje inicio a compilacao da versao final.
+Task339 sera feita em conjunto com a 309.
+Meta de terminar as duas tasks hoje.
+Revisar o projeto ate sexta.
+** Quarta
++ [ ] Finalizar task305.
++ [ ] Compilar versao final.
++ [ ] Terminar task do Thiago.
++ [ ] Revisar task203(Tela mais sobre o usuario).
++ [ ] Revisar feed.
+*** Log
+Hoje realizarei revisoes no projeto inteiro, e foco e produzir uma branch com todas as telas.
+
+- Compilar versao final
+Lista de tasks para realizar merge
++ [X] task208 e task207
++ [X] task305 Criar pub
++ [X] task306 Feed grupo
++ [X] task307 e task308 Feed
++ [X] task273 e task203 tela mais sobre usuario e medico.
++ [ ] task300 tela de esqueci minha senha
++ [ ] task337 task338 conteudo usuario e medico.
++ [ ] task311 Tela perfil do medico
++ [ ] task309 task339 tela especialistas e filtro especialistas
+** Quinta <2022-08-18 Thu>
++ [ ] Finalizar tela do Thiago e fazer o PR.
++ [ ] Revisar task305 e fazer o PR
++ [ ] Continuar revisao de todas as telas
+*** Log
+Hoje iniciei o expediente mais tarde
+** Sexta <2022-08-19 Fri>
++ [X] Finalizar tela do Thiago e fazer o PR.
++ [ ] Revisar task305 e fazer o PR
++ [X] Continuar revisao de todas as telas
+*** Log
+Nada foi feito na sexta
+** Segunda <2022-08-22 Mon>
++ [ ] Revisar task305 e fazer o PR.
++ [ ] Esclarecer os retrabalhos necessarios para o grupo.
++ [ ] Continuar revisao de todas as telas
+*** Continuar revisao de todas as telas
++ [ ] Integrar tela do PH.
++ [ ] Integrar tela do Gustavo(splash arts).
+*** TODO Tasks para retrabalho.
++ [ ] Revisar header.
++ [ ] Revisar tela de cadastro.
++ [ ] Revisar tela de cadastro.
+*** Log
+1. Hoje continuarei com o desenvolvimento das revisoes das telas.
+2. Explicar o que foi feito sexta.
+   "
+     Sexta aula imprevistos.
+     Revisar cronograma.
+     Planejar cronograma.
+     Explicitar principais problemas.
+   "
+3. Compilar versao final
+Lista de tasks para realizar merge
++ [ ] task300 tela de esqueci minha senha
++ [ ] task337 task338 conteudo usuario e medico.
++ [X] task311 Tela perfil do medico
++ [X] task309 task339 tela especialistas e filtro especialistas
++ [X] task208 e task207
++ [X] task305 Criar pub
++ [X] task306 Feed grupo
++ [X] task307 e task308 Feed
++ [X] task273 e task203 tela mais sobre usuario e medico.
+
+** Terca <2022-08-23 Tue> [1/1]
++ [X] Inserir SVGS na tela mais sobre o usuario.
++ [ ] Insertir todas as telas juntas.
+*** Log
+** Quarta <2022-08-24 Wed>
++ [ ] Inserir todas as telas juntas.
++ [ ] Adicionar imagem no Profile Picture.
++ [ ] Adicionar na tab bar menu.
+*** Log
+** Quinta <2022-08-25 Thu>
+*** log
+Hoje foi apresentado o projeto ao cliente.
+
+** Sexta <2022-08-26 Fri>
+*** Log
+Apenas descansei
+** Segunda <2022-08-29 Mon>
++ [ ] Ver cronograma.
++ [ ] Propor testes.
++ [ ] Ver estado do backend.
+*** Log
+Hoje devo continuar os retrabalhos, e tratar algumas questoes organizacionais.
+** Terca <2022-08-30 Tue>
++ [ ] Inserir overlays do Ph.
++ [ ] Ajustar Icones de perfil.
++ [ ] Ajustar tela de cadastro.
++ [ ] Implementar mecanica de redesenhar SVG com base no clique.
+*** Log
+Hoje nada foi feito.
+** Quarta <2022-08-31 Wed>
++ [ ] Inserir overlays do Ph.
++ [ ] Ajustar Icones de perfil.
++ [ ] Ajustar tela de cadastro.
++ [ ] Implementar mecanica de redesenhar SVG com base no clique.
+*** Log
+** Quinta <2022-09-01 Thu>
++ [ ] Inserir overlays do Ph.
++ [ ] Ajustar Icones de perfil.
++ [ ] Ajustar tela de cadastro.
++ [ ] Implementar mecanica de redesenhar SVG com base no clique.
+*** Log
+** Sexta <2022-09-02 Fri>
++ [ ] Inserir overlays do Ph.
++ [ ] Ajustar Icones de perfil.
++ [ ] Ajustar tela de cadastro.
++ [ ] Implementar mecanica de redesenhar SVG com base no clique.
+*** Log
+** Segunda <2022-09-05 Mon>
++ [ ] Inserir overlays do Ph.
++ [ ] Ajustar Icones de perfil.
++ [ ] Ajustar tela de cadastro.
++ [ ] Implementar mecanica de redesenhar SVG com base no clique.
+*** Log
+Hoje vou dizer aos meninos oq deve ser feito, e cobrar o Murilo.
+** Terca <2022-09-06 Tue>
++ [ ] Inserir overlays do Ph.
++ [ ] Ajustar Icones de perfil.
++ [ ] Ajustar tela de cadastro.
++ [ ] Implementar meca nica de redesenhar SVG com base no clique.
+*** Log
+Hoje o pau comeu e a cobra fumou.
+** Terça <2022-10-04 Tue>
+*** Assuntos a tratar na daily
+Sem mockup da opção de pesquisa no botão do header.
+*** Pontos corrigidos.
++ [ ] Borda com cor errada.
++ [ ] Overlay sem fundo.
+
+---Reiniciando contagem dos dias---
+** DONE Sexta <2022-10-07 Fri>
+SCHEDULED: <2022-10-09 Sun>
++ [ ] Adicionar mudança de cor ao click
+  do navigator.
++ [ ] Adicionar Splash Art.
++ [ ] Ajustar overlay da tela de cadastro.
++ [ ] Ajustar header de usuario.
+** Daily
+Adicionado texto na tela de login, n ha necessidade de
+colocar os svgs. tela:5
+Implementando splash art. tela:1 a 4
+Falta lógica do banco de dados para implementar este trecho. tela:18
+
+
+* TODO | Dev log
+:PROPERTIES:
+:ARCHIVE_TIME: 2022-10-14 Fri 14:02
+:ARCHIVE_FILE: ~/baum/baum/20220620112936-projetos_work.org
+:ARCHIVE_OLPATH: Formal/Khanum/Nacci
+:ARCHIVE_CATEGORY: 20220620112936-projetos_work
+:ARCHIVE_TODO: TODO
+:ARCHIVE_ITAGS: khanum
+:END:
+** Segunda <2022-07-04 Mon>
++ [ ] Adicionar fontes no projeto
++ [X] Adicionar SVGS na tela de "mais sobre o usuario"
++ [ ] Fazer PR das telas
+*** Log
+#+begin_src quote
+Erros ocorreram durante a implementacao das telas, ao testar pelo
+expo o aplicativo "/crash/"
+
+ * Duvidas para tirar com o Murilo *
+   - SVG n compila no expo.
+   - Renderizar nome dos javascript objects.
+   - Log de erros ao compilar no expo.
+
+** Terca <2022-07-05 Tue>
+
+*** Log
+** Quarta <2022-07-06 Wed>
++ [ ] Implementar feature de click na tela mais sobre o usuario
++ [ ] Realizar PR das telas
++ [ ] Testar funcionamento pelo aplicativo
+*** Log
+Falta implementar mecaninca de click na tela mais sobre o usuario,
+tambem e necessario testar o aplicativo no expo pelo celular
+. Duvidas [0/2]
+    - [ ] Telas bloqueadas
+    - [ ] Feature de click
+
+** Quinta <2022-07-07 Thu>
++ [X] Terminar implementacao de click na tela mais sobre o usuario
++ [ ] Testando aplicativo no expo
+
+*** Log
+Flata terminar mecanica de click na tela mais sobre o usuario, tambem
+e necessario rodar o app pelo expo. Devo ver com o Murilo o estado das atividades
+bloqueadas.
+** Sexta <2022-07-08 Fri>
++ [ ] Falar com o Murilo sobre as tasks bloqueadas e avisa-lo sobre o PR.
+*** Log
+Hoje  realizarei algumas tarefas mais simples
+
+** Segunda <2022-07-11 Tue>
++ [X] Falar com o Murilo sobre as tarefas
+*** Log
+** Terca  <2022-07-12 Tue>
++ [X] Testar o app no EXPO.
+*** Log
+App ainda n funciona no Expo.
+
+** Quarta  <2022-07-13 Wed>
++ [ ] Testar o app no expo.
++ [ ] Refatorar o codigo  de estilo  para que fique em um arquivo diferente.
++ [X] Consertar erro de click na tela mais sobre usuario
++ [X] Criar branch de desenvolvimento para teste
+*** Log
+Defini um novo workflow com o git para testar algumas das implementacoes que eu desejo fazer.
+Iniciei o processo pra refatorar o estilo em arquivos diferentes.
+
+** Quinta <2022-07-14 Thu>
++ [X] Testar projeto no expo. OBS:Murilo propos uma solucao para isso e ira executa-la
++ [X] Responsividade. OBS: Murilo propos outra solucao para o problema.
++ [ ] SVGS.
++ [X] Cards de termos  de uso e politca de privacidade.
+*** Log
+- Correcoes pra versao mobile
+
+** Sexta <2022-07-15 Fri>
++ [ ] Falar com o Murilo sobre as alteracoes
+*** Log
+
+** Segunda <2022-07-18 Mon>
++ [X] Conversar com o Enderson.
++ [ ] Conversar com o Murilo.
+*** Log
+
+** Terca <2022-07-19 Tue>
++ [ ] Conversar com o Murilo sobre o app.
++ [ ] Refatorar o aplicativo para que funcione no expo.
+*** Log
+** Quarta <2022-07-20 Wed>
++ [ ] Hoje devo conversar com o Murilo.
++ [ ] Refatorar aplicativo para que funcione no mobile.
+*** Log
+** Quinta <2022-07-21 Thu>
++ [ ] Conversar com  o Murilo sobre o projeto
+*** Log
+Nada foi alterado
+** Sexta <2022-07-22 Fri>
++ [ ] Conversar com o Murilo
+*** Log
+Nada foi alterado
+** Segunda <2022-07-25 Mon>
++ [ ] Falar com o Murilo.
++ [X] Estudar a refatoracao do codigo.
+*** Log
+**  Terca <2022-07-26 Tue>
++ [ ] Terminar task208 com base na
+  tela implementada pelo Murilo.
++ [ ] Refatorar telas criadas para
+  a nova branch.
+*** Log
+Daily de amanha, menciona que a task271 n tem mockup.
+O PH precisa de acesso ao azure.
+As tasks de API precisam do aguardo do Murilo.
+** Quarta   <2022-07-27 Wed>
++ [ ] Terminar task208
++ [X] Ajudar o PH a iniciar a task dele
+*** Log
+Terminar task208 e iniciar a task273.
+** Quinta  <2022-07-28 Thu>
++ [ ] Terminar task208 e iniciar task273.
++ [ ] Comecar a compilacao de uma versao apresentavel.
+*** Log
+Hoje eu praticamente terminei a task208, vou revisar amanha de manha, e logo
+iniciarei a task273, vour organizar o projeto pra mexer esse fds. Ver
+em que posicao as coisas estao com os meninos. Consertar a tela do Thiago.
+** Sexta <2022-07-29 Fri>
++ [X] Iniciar task273.
++ [X] Ver a tela do Thiago.
++ [ ] Ajudar o PH na task dele.
++ [ ] Testar merge da task208 para a develop.
++ [ ] Criar branch principal para merge.
+*** Log
+OBS: task298 e task284 ja existem.
+Preciso tes
+
+** Segunda <2022-08-01 Mon>
++ [ ] Compilar uma versao navegavel.
++ [ ] Terminar task 273
+*** Log
+Nada foi realizado hoje 💝
+** Terca <2022-08-02 Tue>
++ [ ] Compilar uma versao navegavel.
++ [ ] Terminar task 273
+*** Log
+** Quarta <2022-08-03 Wed>
++ [ ] Terminar task273.
++ [ ] Compilar uma versao navegavel.
++ [ ] Ajudar os meninos.
+*** Log
+Hoje eu gostaria  de testar os  merges, ver se gera algum  conflito, e
+assim ir compilando uma versao navegavel.
+Iniciar task307 e task308
+** Quinta <2022-08-04 Thu> [0/0]
+  + [X] Iniciar task307
+  + [ ] Ajustar SVGS
+*** Log
+Hoje nada robusto foi realizado.
+** Sexta <2022-08-05 Fri>
++ [ ] Conversar com os  meninos sobre a organizacao do projeto.
++ [ ] Desenvolver task307 e task308.
+*** Log
+Farei as task307 e task308, tambem procurarei pelos svgs para adicionar nas
+telas, e iniciarei o processo para compilar uma versao navegavel do projeto.
+** Sabado :skull_and_crossbones: <2022-08-06 Sat>
++  [ ] Desenvolver task 307 e 308.
++  [ ] Refatorar task do Thiago.
++  [ ] Inserir task do Gustavo.
+*** Log
+Em suma preciso definir a estrutura basica da tela de Feed, assim posso finalizar no resto de domingo, e em breve providenciarei a tela de grupos.
+** Domingo :skull_and_crossbones: <2022-08-07 Sun>
++ [ ] Desenvolver task307 e task308.
++ [ ] Refatorar task do Thiago.
++ [ ] Inserir task do Gustavo.
++ [ ] Inserir SVGS.
+*** Log
+- *Notas da daily de hoje*
+  Duas tasks estao sendo feito conjuntas.
+  Enviar prints do estado.
+  Avisar sobre oq precisa ser feito pra terminar.
+  Alguns svgs podem ser substituidos por icones.
+** Segunda <2022-08-08 Mon>
++ [ ] Terminar task307 e 308.
++ [ ] Compilar versao navegavel.
+*** Log
+Hoje n consegui compilar uma  versaro navegal, o progresso foi lento devido a
+exaustao da ultima sessao de trabalho.
+**  Terca <2022-08-09 Tue>
++ [X] Terminar task307 e 308.
++ [ ] Terminar task306.
++ [ ] Iniciar compilacao de branch funcional.
+*** Log
+Hoje vou terminar a task306 e iniciar a task305.
+Devo indagar a Bell a respeito sobre o relatorio dela a respeito do relato
+sobre a task306.
+** Quarta <2022-08-10 Wed>
+ + [ ] terminar  task305.
+ + [ ] compilar versao final do UI.
+***  Log
+Faltou terminar a task305, e iniciar a compilacao de uma versao final do
+projeto.
+** Quinta <2022-08-11 Thu>
+ + [ ] terminar  task305.
+ + [ ] compilar versao final do UI.
+*** Log
+O mesmo de ontem.
+** Sexta <2022-08-12 Fri>
+ + [ ] terminar  task305.
+ + [ ] compilar versao final do UI.
+*** Log
+** Segunda <2022-08-15 Mon>
++ [ ] Finalizar  task305.
++ [X] Ajudar os meninos
++ [ ] compilar versao final do UI.
+*** Log
+Hoje ajudei os meninos com as tasks deles e comecei a avaliar a versao final.
+
+** Terca <2022-08-16 Tue>
++ [ ] Finalizar  task305.
++ [X] Ajudar os meninos
++ [ ] compilar versao final do UI.
+*** Log
+Preciso revisar o que o Enderson mencionou, e terminar a task do Thiago com  ele, hoje inicio a compilacao da versao final.
+Task339 sera feita em conjunto com a 309.
+Meta de terminar as duas tasks hoje.
+Revisar o projeto ate sexta.
+** Quarta
++ [ ] Finalizar task305.
++ [ ] Compilar versao final.
++ [ ] Terminar task do Thiago.
++ [ ] Revisar task203(Tela mais sobre o usuario).
++ [ ] Revisar feed.
+*** Log
+Hoje realizarei revisoes no projeto inteiro, e foco e produzir uma branch com todas as telas.
+
+- Compilar versao final
+Lista de tasks para realizar merge
++ [X] task208 e task207
++ [X] task305 Criar pub
++ [X] task306 Feed grupo
++ [X] task307 e task308 Feed
++ [X] task273 e task203 tela mais sobre usuario e medico.
++ [ ] task300 tela de esqueci minha senha
++ [ ] task337 task338 conteudo usuario e medico.
++ [ ] task311 Tela perfil do medico
++ [ ] task309 task339 tela especialistas e filtro especialistas
+** Quinta <2022-08-18 Thu>
++ [ ] Finalizar tela do Thiago e fazer o PR.
++ [ ] Revisar task305 e fazer o PR
++ [ ] Continuar revisao de todas as telas
+*** Log
+Hoje iniciei o expediente mais tarde
+** Sexta <2022-08-19 Fri>
++ [X] Finalizar tela do Thiago e fazer o PR.
++ [ ] Revisar task305 e fazer o PR
++ [X] Continuar revisao de todas as telas
+*** Log
+Nada foi feito na sexta
+** Segunda <2022-08-22 Mon>
++ [ ] Revisar task305 e fazer o PR.
++ [ ] Esclarecer os retrabalhos necessarios para o grupo.
++ [ ] Continuar revisao de todas as telas
+*** Continuar revisao de todas as telas
++ [ ] Integrar tela do PH.
++ [ ] Integrar tela do Gustavo(splash arts).
+*** TODO Tasks para retrabalho.
++ [ ] Revisar header.
++ [ ] Revisar tela de cadastro.
++ [ ] Revisar tela de cadastro.
+*** Log
+1. Hoje continuarei com o desenvolvimento das revisoes das telas.
+2. Explicar o que foi feito sexta.
+   "
+     Sexta aula imprevistos.
+     Revisar cronograma.
+     Planejar cronograma.
+     Explicitar principais problemas.
+   "
+3. Compilar versao final
+Lista de tasks para realizar merge
++ [ ] task300 tela de esqueci minha senha
++ [ ] task337 task338 conteudo usuario e medico.
++ [X] task311 Tela perfil do medico
++ [X] task309 task339 tela especialistas e filtro especialistas
++ [X] task208 e task207
++ [X] task305 Criar pub
++ [X] task306 Feed grupo
++ [X] task307 e task308 Feed
++ [X] task273 e task203 tela mais sobre usuario e medico.
+
+** Terca <2022-08-23 Tue> [1/1]
++ [X] Inserir SVGS na tela mais sobre o usuario.
++ [ ] Insertir todas as telas juntas.
+*** Log
+** Quarta <2022-08-24 Wed>
++ [ ] Inserir todas as telas juntas.
++ [ ] Adicionar imagem no Profile Picture.
++ [ ] Adicionar na tab bar menu.
+*** Log
+** Quinta <2022-08-25 Thu>
+*** log
+Hoje foi apresentado o projeto ao cliente.
+
+** Sexta <2022-08-26 Fri>
+*** Log
+Apenas descansei
+** Segunda <2022-08-29 Mon>
++ [ ] Ver cronograma.
++ [ ] Propor testes.
++ [ ] Ver estado do backend.
+*** Log
+Hoje devo continuar os retrabalhos, e tratar algumas questoes organizacionais.
+** Terca <2022-08-30 Tue>
++ [ ] Inserir overlays do Ph.
++ [ ] Ajustar Icones de perfil.
++ [ ] Ajustar tela de cadastro.
++ [ ] Implementar mecanica de redesenhar SVG com base no clique.
+*** Log
+Hoje nada foi feito.
+** Quarta <2022-08-31 Wed>
++ [ ] Inserir overlays do Ph.
++ [ ] Ajustar Icones de perfil.
++ [ ] Ajustar tela de cadastro.
++ [ ] Implementar mecanica de redesenhar SVG com base no clique.
+*** Log
+** Quinta <2022-09-01 Thu>
++ [ ] Inserir overlays do Ph.
++ [ ] Ajustar Icones de perfil.
++ [ ] Ajustar tela de cadastro.
++ [ ] Implementar mecanica de redesenhar SVG com base no clique.
+*** Log
+** Sexta <2022-09-02 Fri>
++ [ ] Inserir overlays do Ph.
++ [ ] Ajustar Icones de perfil.
++ [ ] Ajustar tela de cadastro.
++ [ ] Implementar mecanica de redesenhar SVG com base no clique.
+*** Log
+** Segunda <2022-09-05 Mon>
++ [ ] Inserir overlays do Ph.
++ [ ] Ajustar Icones de perfil.
++ [ ] Ajustar tela de cadastro.
++ [ ] Implementar mecanica de redesenhar SVG com base no clique.
+*** Log
+Hoje vou dizer aos meninos oq deve ser feito, e cobrar o Murilo.
+** Terca <2022-09-06 Tue>
++ [ ] Inserir overlays do Ph.
++ [ ] Ajustar Icones de perfil.
++ [ ] Ajustar tela de cadastro.
++ [ ] Implementar meca nica de redesenhar SVG com base no clique.
+*** Log
+Hoje o pau comeu e a cobra fumou.
+** Terça <2022-10-04 Tue>
+*** Assuntos a tratar na daily
+Sem mockup da opção de pesquisa no botão do header.
+*** Pontos corrigidos.
++ [ ] Borda com cor errada.
++ [ ] Overlay sem fundo.
+
+---Reiniciando contagem dos dias---
+** DONE Sexta <2022-10-07 Fri>
+SCHEDULED: <2022-10-09 Sun>
++ [ ] Adicionar mudança de cor ao click
+  do navigator.
++ [ ] Adicionar Splash Art.
++ [ ] Ajustar overlay da tela de cadastro.
++ [ ] Ajustar header de usuario.
+** Daily
+Adicionado texto na tela de login, n ha necessidade de
+colocar os svgs. tela:5
+Implementando splash art. tela:1 a 4
+Falta lógica do banco de dados para implementar este trecho. tela:18
+

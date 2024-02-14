@@ -1,0 +1,363 @@
+:PROPERTIES:
+:ID:       19104ebd-6222-44e8-9723-6523e7399516
+:END:
+#+title: writing/latex/artigos
+* Trabalhos realizados com latex
+** A importância do ensino de tecnologia da computação nas escolas
+Artigo de topicos especiais em informática.
+#+begin_src latex
+\documentclass[article, 11pt, oneside, a4paper, english, brazil, sumario=tradicional]{abntex2}
+\usepackage{lmodern}
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage{indentfirst}
+\usepackage{nomencl}
+\usepackage{color}
+\usepackage{graphicx}
+\usepackage{microtype}
+\usepackage{lipsum}
+\usepackage[brazilian,hyperpageref]{backref}
+\usepackage[alf]{abntex2cite}
+\renewcommand{\backrefpagesname}{Citado na(s) página(s):~}
+\renewcommand{\backref}{}
+\renewcommand*{\backrefalt}[4]{\ifcase #1 Nenhuma citação no texto. \or Citado na página #2. \else Citado #1 vezes nas páginas #2. \fi}
+\titulo{A importância do ensino de tecnologia da computação nas escolas}
+\tituloestrangeiro{The importance of the teaching of computation technology in schools}
+\autor{
+Equipe \abnTeX\thanks{``Recomenda-se que os dados de vinculação e
+endereço constem em nota, com sistema de chamada próprio, diferente do sistema
+adotado para citações no texto.'' \url{http://www.abntex.net.br/}}
+\\[0.5cm]
+Ícaro Onofre Silva, Daniel Antunes Vieira, Maria Isabel\thanks{``Constar currículo sucinto de cada autor, com
+vinculação corporativa e endereço de contato.''}}
+\local{Brasil}
+\data{2022}
+\definecolor{blue}{RGB}{41,5,195} % alterando o aspecto da cor azul
+\makeatletter % informações do PDF
+\hypersetup{pdftitle={\@title}, pdfauthor={\@author}, pdfsubject={Modelo de artigo científico com abnTeX2}, pdfcreator={LaTeX with abnTeX2}, pdfkeywords={abnt}{latex}{abntex}{abntex2}{atigo científico}, colorlinks=true, linkcolor=blue, citecolor=blue, filecolor=magenta, urlcolor=blue, bookmarksdepth=4}
+\makeatother
+
+\makeindex
+
+\setlrmarginsandblock{3cm}{3cm}{*}
+\setulmarginsandblock{3cm}{3cm}{*}
+\checkandfixthelayout
+\setlength{\parindent}{1.3cm}
+\setlength{\parskip}{0.2cm}
+\SingleSpacing
+
+\begin{document}
+
+\selectlanguage{brazil}
+
+\frenchspacing
+
+% \twocolumn[    		% Descomente para duas colunas
+\maketitle
+% resumo em português
+\begin{resumoumacoluna}
+  Aqui vai o resumo
+ \vspace{\onelineskip}
+ \noindent
+ \textbf{Palavras-chave}: Educação. Pensamento Computacional. Cidadania.
+\end{resumoumacoluna}
+
+% resumo em inglês
+\renewcommand{\resumoname}{Abstract}
+\begin{resumoumacoluna}
+ \begin{otherlanguage*}{english}
+   According to ABNT NBR 6022:2018, an abstract in foreign language is optional.
+
+   \vspace{\onelineskip}
+
+   \noindent
+   \textbf{Keywords}: latex. abntex.
+ \end{otherlanguage*}
+\end{resumoumacoluna}
+% ]  				% FIM DE ARTIGO EM DUAS COLUNAS
+\begin{center}\smaller
+\textbf{Data de submissão e aprovação}: elemento obrigatório. Indicar dia, mês e ano
+
+\textbf{Identificação e disponibilidade}: elemento opcional. Pode ser indicado
+o endereço eletrônico, DOI, suportes e outras informações relativas ao acesso.
+\end{center}
+
+\newpage
+
+\pdfbookmark[0]{\contentsname}{toc}
+\tableofcontents*
+\cleardoublepage
+
+\textual
+
+\section{Introdução}
+    A importância de se tornar um cidadão digital hoje em dia é de mesma importância
+que ser alfabetizado, e para este processo de emancipação é necessário fazer uso
+de técnicas de ensino que utilizem tecnologia, para que o aluno consiga assimilar
+os inúmeros conceitos envolvidos nos processos de computação, introduzir os
+alunos a estes conceitos fará que eles possam gradativamente assimilar a vasta
+cultura da era da informação,  que em sua complexidade máxima ultrapassa a
+possibilidade de se compreender totalmente, em vez disso, constrói-se uma
+postura em relação ao conhecimento. Esta postura em relação ao conhecimento é o
+que faz com que o indivíduo possa participar de forma ativa dos debates sobre
+tecnologia, e possa buscar informações que sirvam de insumo no seu julgamento
+crítico do mundo em que vive, a atual postura do cidadão brasileiro em relação a
+tecnologia é passiva, onde ele tem a sua vida ditada pela tecnologia que não
+compreende.
+    Para mudar esta realidade e aprender computação e os conceitos abstratos
+envolvidos na área atividades como o ensino de lógica de programação através
+da internet e navegadores, ou o trabalho com a circuitaria encontrada em
+dispositivos do dia a dia para criar brinquedos lúdicos, podem desenvolver aquilo
+que [Wing 2006] define como pensamento computacional(PC), para [Blikstein 2008 o uso não
+está limitado ao uso básico dos computadores, como escrever com editores de texto ou utilizar sistemas
+de email.
+    Neste trabalho exploraremos estes conceitos através da pesquisa da literatura
+desenvolvida na área de educação.
+
+\section{Contexto social do ensino de tecnologia}
+    É preciso compreender o novo contexto social em que se vive para compreender
+influenciadas pela tecnologia, um exemplo disso é a alfabetização de crianças,
+
+onde a tecnologia da escrita e da comunicação através de símbolos, transformou a
+vida humana profundamente.
+
+\begin{citacao}
+Na verdade, desde o inicio da civilização, o predomonio de um determinado tipo
+de tecnologia transforma o comportamento pessoal e social de todo o grupo. Não é
+por acaso que todas as eras foram, cada uma à sua maneira,"eras tecnológicas".
+Assim tivemas a Idade da Pedra, do Bronze, até chegarmos ao momento tecnológico
+atual, da Sociedade da Informação ou Sociedade Digital. (KENSKI,2003,p.48).
+\end{citacao}
+
+    Nesta era da informação não será diferente, novas estruturas sociais estão
+surgindo por causa da tecnologia, e com isso novos impasses e dilemas sociais,
+dilemas esses que muitos brasileiros não estão preparados ainda para lidar. Casos
+recentes como: o incidente da Cambridge Analytica que ocorreu no periodo de 2014 até 2018 quando o caso começou a ser investigado, onde uma empresa privada fez
+uso de algoritmos de mineração de dados e análise de dados para realizar
+raspagem(scrapping), termo usado quando um algoritmo obtém dados através de
+sites, para interferir na política dos Estados Unidos através de campanhas de
+políticos. A Cambridge Analytica coletou de milhões de usuários
+com o intuito de perfilar modelos psicológicos dos usuários com o intuito de
+criar campanhas políticas mais direcionadas a certos públicos. O jornal The New
+York Times informou que o senador Ted Cruz estava os dados deste sistema para
+ganho eleitoral, com este caso ficou claro a possibilidade de empresas privadas
+trabalharem em cima dos dados dos usuários de redes sociais, violando os valores
+da privacidade, para interferir nos processos eleitorais de países.
+
+    Harari em uma palestra que que concedeu à câmara dos deputados junto ao
+    projeto modernizar, que os dados se tornaram o novo petróleo, este conceito
+    expressa mudança social provocada pela tecnologia, e demonstra a importância
+    do uso consciente dos programas para não se tornar a mercadoria nos novos
+    mercados emergentes. Já houve uma mudança na legislação brasileira com a
+    criação da lei geral de proteção de dados (lei n13.709/2018) em relação aos
+    novos cenários da era da informação, mas dados como a carência de mão de
+    obra especializada na área de tecnologia ainda demonstram, as mudanças ainda
+    tardam a chegar.
+
+    Para incorporar o ensino de tecnologia, é possível lecionar os tópicos de informática de maneira direta, ou indireta
+ao incentivar o uso de ferramentas digitais para a solução de atividades executadas
+pelo aluno, estudando diretamente os conceitos, os professores poderiam abordar
+diretamente questões da atualidade, e incentivar projetos de pesquisa, um
+exemplo de um conceito emergente na área da computação é o conceito de internet
+da coisas, que é a integração de inúmeros sistemas embarcados à rede de computadores.
+    Particularmente o conceito de internet das coisas permite ensinar
+aspectos fundamentais do dia a dia que frequentemente ficam omissos no estudo
+convencional atual de tecnologia da informação, como por exemplo, como funcionam
+os sistemas embarcados de máquinas de cartão de crédito ou as urnas eletrônicas?
+Inúmeras questões surgem todos os dias a respeito de computação que são
+falsamente respondidas devido a falta de conhecimento na cultura brasileira,
+hoje em dia computadores funcionam  na cabeça das pessoas como os criadores do
+UNIX abstraiam os processos do sistema clássico, daemons, demônios ou entidades
+por trás da máquina que agem de maneira fantasmagórica.  Outras implementações
+no ensino de computação e os conceitos abstratos envolvidos na área, atividades
+como o ensino de lógica de programação através da internet e navegadores, ou o
+trabalho com a circuitaria encontrada em dispositivos do dia a dia para criar
+brinquedos lúdicos, podem trazer esses daemons do mundo do obscurantismo para o
+mundo da racionalidade.
+
+    Incorporação do ensino da tecnologia no modelo tradicional não visa apenas suprir
+as necessidades mercadológicas, e sim desenvovler um pensamento computacional, onde o indíviduo
+consegue abstrair os processos computacionais através do pensamento computacional(PC).
+
+    Para [Wing 2006] o conceito fundamental do PC é a abstração
+de problemas em programas e processos computacionais, mas não se deve confundir
+a integração
+do ensino da tecnologia ao atual ensino convencional como uma tentativa de criar
+uma geração
+de mão de obra especializada, é a percepção que a capacidade do pensamento
+computacional se tornará
+tão fundamental quanto a escrita.
+
+    Ao introduzir estes conceitos no processo educacional, será possível não
+    somente suprir as necessidades do mercado de tecnologia, e sim criar uma
+    geração de indivíduos prontos para lidar com as questões sociais do futuro,
+    é crível que a solução dos problemas atuais da humanidade virá de uma
+    profunda integração da computação em todas as áreas da atuação humana, com a
+    internet das coisas, o que se espera é uma quarta revolução industrial onde
+    sistemas embarcados de todas as dimensões integraram todos os processos,
+    desde a saúde básica até as mais complexas plantas industriais, onde ficará
+    o ser humano neste novo cenário de tecnologia? Quais seram os impasses da
+    condição humana no futuro? É impossível dizer, casos análogos ao da
+    Cambridge Anlytica de dimensões desconhecidas aguardam a humanidade num
+    futuro incerto.
+
+    Outro caso recente de como o descompasso da atual população com a tecnologia
+    causou crises na sociedade brasileira foi o caso do inquérito das fake news,
+    onde foi avaliado a criação de notícias falsas de maneira sistêmica com o
+    intuito de influenciar as opiniões da população e espalhar a desinformação.
+    A falta de experiência da população com essas estratégias midiáticas
+    tornou-as efetivas, e habituar a população às tecnologias pode fazer que ela
+    consiga distinguir informação de ruído, as novas questões epistemológicas
+    vindas do acesso ao excesso [Costa 2008] de informação, também são desafios
+    no novo ensino.
+
+\begin{citacao}
+O ensino superior está imerso em grandes desafios, tendo em vista as demandas e
+tendências desse novo contexto tecnológico. Estão em xeque a estrutura, o
+currículo, os  espaços,  os  tempos  e  os  modelos  de  ensino  e  de
+aprendizagem  utilizados  até então,  bem como  os  papéis  desempenhados  por
+docentes  e  estudantes  na  relação com o conhecimento socialmente válido.
+(KENSKI,2019,p.145).
+\end{citacao}
+
+\section{Como as tecnologias digitais de informação e comunicação afetam o ensino}
+    As tecnologias digitais de informação e comunicação afetaram o ensino
+de uma maneira inesperada, quando todo o sistema de ensino se tornou dependente dessas tecnologias
+com a pandemia de COVID-19 atingiu o Brasil, ficou claro que o autodidatismo trazido pelo fácil
+acesso à informação se tornou protagonista na vida dos estudantes que se encontraram em meio a crise
+sanitária, essas novas condições questionavam a posição atual do professor e como as tecnologias poderiam ser usadas
+para fomentar um ensino mais eficiente, o processo de questionar a atual estrutura de ensino nas escolas foi
+catalizada pelas novas condições impostas pela pandemia.
+
+    Os currículos escolares foram questionados pelos educandos devido à maneira
+em que os mesmos obtêm informação, não se compreende a abordagem meramente
+conteúdista mais como a ideal, pois é possível facilmente aceder conteúdos
+diversos e profundos de maneira rápida.
+
+\begin{citacao}
+Levy  (1999)  pontua  que  vivenciamos  uma  mutação  na  relação  com  o
+saber.  Os universitários  possuem  novos  interesses  e  habilidades,
+sobretudo  nos  usos  dos recursos digitais. Não se interessamem permanecer em
+aulas massivas –plenas do protagonismo  do  docente  e  a  passividade  dos
+estudantes –cujos  objetivos  estão ligados  à  reprodução  de  conteúdos,  de
+acordo  com  a  perspectiva  apresentada  pelo mestre.  Exigem  outros  modos
+de  ensino,  mais  velozes e  participativos.  Por  meio  de seus equipamentos
+digitais móveis acessam informações e interagem com o resto do mundo  em  busca
+de  saberes  que  estão  disponíveis  em  qualquer  lugar.  Mídias inteligentes
+conectadas   à   internet   que   não   conferem   somente   mobilidade e
+convergência.  Oferecem  também  versatilidade  e  rapidez  em  interações
+amplas,  no acesso a informações e em tomada de decisões em diferentes âmbitos
+da vida, o que exige novas habilidades.(KENSKI,2019)
+\end{citacao}
+
+    Os métodos de ensino deveram ser aprimorados às novas realidades, a realidade do acesso
+ao excesso da informação mudou a dinâmica que se enxerga o saber, a questão epistemológica
+de como encarar o universo de informação que um individuo tem acesso mudou, ao adentrarmos
+na era da pós-verdade, onde tudo pode ser questionar, saber se encontrar em meios aos
+mares de dados é uma habilidade imprenscindível para alcançar a erudição nos dias de hoje.
+
+    As TDICS se provaram a base da educação em tempos de pandemia, contudo em tempos normais elas
+visam aprimorar o ensino, a possibilidade de estudar remotamente em tempos sem o isolamente social, permite
+os educandos participarem de atividades extra curriculares muito além do seu alcance sem as tecnologias.
+
+\begin{citacao}
+Um  novo  ensino  superior  aberto,  híbrido,  disruptivo,  multimodal,
+pervasivo  e  ubíquo voltado para o atendimento personalizado das demandas
+formativas dos estudantes e que  seja  consoante  com  a  sociedade  atual.
+Essas  características  norteiam  a  atual cultura digital e influenciam as
+necessidades de mudanças e inovações nos sistemas de educação
+universitária.(KENSKI,2019).
+\end{citacao}
+
+    Este aspecto multimodal revulucionou a forma de ensino, pois ao fornecer
+uma visão muito mais imersiva e poderosa de ensino, os educandos podem adiquirir
+informação e aprender culturas em uma magnitude nunca antes vista. O acesso à
+produção científica e a literatura clássica também revolucionou a forma de fazer pesquisa, a experimentação
+realizada pelos educandos com as novas tecnologias, e a informação no formato multimídia fez que aprender
+de forma empírica se tornasse muito mais acessível.
+
+    Com o sistema remoto, o conceito de presença e o tamanho do ambiente de ensino foram redesenhados, educar
+não se limita mais a um espaço ou à escola.
+
+\begin{citacao}
+O ensino híbrido implica na integração entre ambientes de ensino superior presenciais e  online.  Institui-se  a  convergência  de  práticas  de  ensino  e  de  aprendizagem,  na configuração do blended learning(BL), que modifica o conceito de presença, tanto do professor  quanto  do  aluno.  A  aula  se  amplia  e  incorpora  o  melhor  de  dois  ou  mais ambientes –presenciais e virtuais. A redução de distâncias em ensino e aprendizagem fundamenta essa nova sala de aula,que pode transformar a universidade num lugar “sem distâncias”. E sem muros e barreiras.(KENSKI,2019)
+\end{citacao}
+
+\section{Como ensinar tecnologia nas escolas de maneira efetiva}
+
+    Para realizar o ensino da tecnologia nas escolas é possível fazer dos
+    conhecimentos já do domínio do educando, onde ao estudar e abordar as
+    questões que dizem a respeito a tecnologia de seu dia a dia profundamente, é
+    possível abstrair os processos computacionais e fornecer uma visão diferente
+    ao educando.
+
+    Um exemplo seria o uso de navegadores de internet, estes navegadores
+    permitem que o usuário consiga interagir com o conteúdo e os mecanismos do
+    navegador de uma maneira mais técnica ao interagir com as ferramentas de
+    desenvolvedor, ferramentas essa que possibilitam o ensino de uma linguagem
+    de programação de script, como funciona uma página web e conceitos de redes
+    de computadores através de dados de performance. O ensino mais elaborado
+    pode ser realizado com planejamento de aulas utlizando linguagens de
+    programação para ensino, como é o caso do scratch ou portugol.
+
+    O ensino mais avançado de conceitos computacionais pode ser realizado com o
+    uso de sistemas microcontroladores didáticos, como é o caso do arduino, uma
+    placa que permite o usuário programar um sistema embarcado de maneira mais
+    simples, com esta placa é possível realizar inúmeras de projetos com apelo
+    ao lúdico e também é possível desenvolver projetos complexos gradativamente,
+    graças a extensa comunidade dos entusiastas do arduino, é possível encontrar
+    vários projetos já realizados para replicação e cocriar novos projetos com
+    outras pessoas.
+
+    Um artíficio frequemente usado por professores é incentivar o estudo de
+    algoritmos através do hacking de jogos, jogos populares de hoje permitem que
+    o jogador interage com as partes internas mais complexa do jogo, assim é
+    possível aprender conceitos novos através da exploração desses mecanismos.
+
+    Uma questão ainda alarmante na implantação do ensino da tecnologia é a
+    carência do acesso da internet por parte da população brasileira, isto
+    dificulta que pessoas sejam integradas às novas culturas, acentuando ainda
+    mais desigualdades. Para essas pessoas afetadas, ainda sim é possível
+    recorrer às bibliotecas municipais e projetos realizados pelo estado.
+
+\section{O ensino da tecnologia como ferramenta para a cidadania}
+
+    É do conhecimeno do brasileiro que a tecnologia esta presente no
+ato mais fundamental do exercício da democracia, a urna eletrônica, uma
+referência mundial nas democracias modernas. Hoje o cidadão exerce sua cidadania
+através do meio digital de maneria expressiva, se mobiliza em protestos através
+de redes sociais, se informa através de veículos de notícias e se envolve
+politicamente através da internet, se mobiliza através das redes sociais,
+inúmeros processos políticos recentes na história do Brasil se iniciaram nas
+redes sociais.
+
+    Ainda assim o cidadão moderno não compreende a extenção de seus poderes, os
+    novos sistemas permitem ele fiscalizar os poderes da república, impactar
+    diretamente no processo legislativo através dos dados obtidos através dos
+    portais do governo.
+
+    Com a integração dos sistemas burocráticos aos sistemas informatizados, como obtenção de documentos
+e o uso de serviços do governo, a integração digital se torna essencial ao cidadão brasileiro. Na era da informação, para ser cidadão, é preciso ser
+digital.
+
+    Na internet o debate sobre injustiças sociais ganha voz, e grupos
+    periféricos podem
+serem melhor integrados nos processos sociais, conseguem aceder educação e se
+politizar, onde
+as estratégias do governo para combater a injustiça se provam ineficientes, o
+protagonismo do autodidatismo
+toma espaço.
+
+\section{Conclusão}
+Aqui escrevo a conclusão
+
+\postextual
+
+\bibliography{abntex2-modelo-references}
+
+\section*{Agradecimentos}
+Texto sucinto aprovado pelo periódico em que será publicado. Último
+elemento pós-textual.
+\end{document}
+
+#+end_src

@@ -1,0 +1,74 @@
+#+title: electronics
+* ICs
+** List of ICs
+[[https://en.wikipedia.org/wiki/List_of_microprocessors#ARM][List of microprocessors:wikipedia]]
+** Sources
+[[https://www.alldatasheet.com/view.jsp?Searchword=CHIP][Alldatasheets]]
+* Studies
+** Voltage, current and resistance
+*** Voltage
+Cost in energy of work to move a chage from a positive point to the more
+negative point. Also know as electric potential difference.
+*** Current
+*** Coulomb
+** Schematics
+*** Reference designators
+Letters and symbols commonly used to
+describe components.
+* Readings
+** The Art Of Electronics
+* Productions
+** Production
+*** Design process
+1. Create symbol     ----> library editor
+2. Schematic capture ----> eschema
+3. Create footprints ----> footprint editor
+4. Generate netlist  ----> cvpcb
+5. Board Layout      ----> pcbnew
+6. Prodction         ----> Gerbview
+7. Generate BOM      ----> Digi-key
+** Projects
+*** Mechanical keyboard
+My ortholinear perfectly designed keyboard,
+**** Design
+***** Eclipse design
+The keyboard will be ortholinear and splitable, and be only 60% of size.
+it will have a small trackball representing the sun, an esc key representing the earth and smaller knob at thumb distance representing  the moon.
+Colors will be black and white. Each major part of the keyboard being the opposite
+***** Trackball design
+Pomoroni trackball.
+[[https://www.youtube.com/watch?v=D53PwF5dCwQ][Pimoroni trackball]] this videi inspired me to think a better design for my keyboard project.
+***** UHK | Ultimate hacking keyboard
+[[https://ultimatehackingkeyboard.com/][Ultimate hacking keyboard]]
+**** Pieces and parts
+[[https://kbdfans.com/collections/pcb][Kbdfans]]
+[[https://mechanicalkeyboards.com/shop/index.php?l=product_list&c=844][MechanicalKeyboard]]
+[[https://kprepublic.com/][kprepublic]]
+[[https://keeb.io/collections/split-keyboards][Keebio]]
+[[https://www.checkerboards.xyz/40-pcbs.html][Checker Boards]]
+**** Sources
+[[https://www.reddit.com/r/olkb/comments/xmtfoz/keyboard_builders_digest_issue_96/][Reddit post about keyboard builders digest]]
+[[https://kbd.news/][Keyboard builders digest]]
+**** Tutorials
+***** Sites
+[[https://wiki.ai03.com/books/pcb-design/page/pcb-guide-part-1---preparations][PCB Guide part 1]]
+***** Videos
+[[https://www.youtube.com/watch?v=BhFqkVggv8Q][PCB Design  for mechanical keyboards]]
+**** Examples
+[[https://www.youtube.com/watch?v=4VU7za_nm-M][Demystifying the small form factor layout]]
+***** Toggable layouts :ben:vallack:
+[[https://www.youtube.com/watch?v=8wZ8FRwOzhU&t=40s][You Won’t Believe How Effective This Keyboard Layout Is:Ben Vallack]]
+[[https://www.youtube.com/watch?v=VShLPvF693k][The best 34 remaps for people coming from normal keyboard]]
+****** Trackball implementatiton
+[[https://www.youtube.com/watch?v=xcH720h-YqM][Implementing a trackball sensor PCB]]
+*** Thinkpad hacking
+This project aims to customize my experience with a Thinkpad, modernize it and make it a power house for my
+use needs.
+**** Sources
+***** Sites
+[[https://hackaday.com/tag/thinkpad/][Getting to the trackpoint quicker]]
+[[https://www.youtube.com/watch?v=c_vN0kCqxdw][Modifying T61 with middletons's BIOS]]
+*** Wearable keyboards
+[[https://www.tapwithus.com/][Tap keyboard]]
+*** Korg repair
+Diagram title:KLM-2950-B

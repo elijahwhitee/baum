@@ -1,0 +1,22 @@
+#+title: chemistry
+* Sources
+** Books
+** Forums
+[[https://www.chemicalforums.com/index.php][ChemicalForums]]
+[[https://www.scienceforums.com/forum/20-chemistry/][Chemistry:ScienceForum:]]
+[[https://community.wolfram.com/content?curTag=chemistry][ChemistryGroup:WolframCommunity:]]
+* Organic chemistry
+** Localized bonding
+:PROPERTIES:
+:ID:       33f0f6c5-6b74-4acf-812c-0ff3c1fa1607
+:END:
+Localized bonding is defined as when electrons
+are shared by two and only two nuclei.
+*** Wave equation for electronics :schrödingersequation:
+#+begin_src latex
+
+#+end_src
+*** Covalent bonding
+* Compounds
+** Neuroagents
+*** Novichok

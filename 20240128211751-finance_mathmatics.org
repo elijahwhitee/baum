@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       019b33db-9600-4381-a871-945f9e384154
+:END:
+#+title: finance/mathmatics
+* Backtesting
+Testing a predictive model on
+historical data.

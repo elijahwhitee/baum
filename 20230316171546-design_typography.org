@@ -1,0 +1,7 @@
+#+title: design/typography
+* History of type
+* List of type | notes about types
+** Bodoni
+** Caslon
+** Filosofia
+** Baskerville

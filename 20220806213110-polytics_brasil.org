@@ -1,0 +1,24 @@
+#+title: polytics/brasil
+* Brasil
+*** Fontes
+[[https://pt.wikipedia.org/wiki/Lista_de_governadores_de_S%C3%A3o_Paulo][GovernadoresDeSaoPaulo:RodrigoGarcia:]]
+#+transclude: [[id:bb88c996-0013-47b4-aa91-a35855494e4d][Ideb]]
+*** Historia
+[[file:20220803133247-historia.org][historia]]
+*** Eleições
+***** Eleicoes 2022
+***** Eleicoes 2018
+***** Bolsonarismo
+#+transclude: [[id:fa0839d1-64c4-4343-8494-54b65ada050f][Jornalismo]] :level 5
+******* Personagens
+********* Mauro Cid
+*** Bibliografia
+*** Debates
+*** Câmara
+***** Comissão de segurança pública
+Procedimento 135/203/953/2023 05
+***** Presos do 08/01 :silvioalmeida:legalizaçãodrogas:
+***** Instituições
+***** Fundos
+******* FUNPEN
+******* FSB(Fundo soberano do Brasil).

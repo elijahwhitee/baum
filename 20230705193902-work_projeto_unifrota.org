@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       61e0f20b-b367-4371-b549-5329f7490c23
+:END:
+#+title: 20230705193902 Work Projeto Unifrota
+#+title: work/projeto/unifrota/
+* Negógicio
+* Dev
+*Login homolog*
+user:master_13392
+senha:123
+** Arquitetura
+*** CDI injection
+**** EJB
+***** Statefull
+***** Stateless
+* Task.
+- [ ] Organizar versionamento.
+  - [ ] Gerar releases e EARs com o código da data.
+- [ ] Terminar task subir corretamente o idProduto.

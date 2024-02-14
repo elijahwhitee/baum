@@ -1,0 +1,273 @@
+#+title: estudos/faculdade/banco de dados&engenharia de software
+* Engenharia de software
+** Sistema de eventos
+*** Diagrama de objetos
+*** Diagrama de classes DEADLINE:<2023-03-23 Thu>
+#+begin_src yuml
+
+#+end_src
+*** Diagrama de de atividades DEADLINE:<2023-03-23 Thu>
+#+begin_src latex :tangle ~/work/engenharia_de_software/main.tex
+
+#+end_src
+* Tarefas
+** Banco de dados de eventos
+*** evento
+#+begin_src sql :tangle ~/work/faculdade/Laboratorio_de_banco_de_dados/banco.sql
+CREATE TABLE evento (
+    idEvento INTEGER,
+    nomeEvento VARCHAR(250),
+    dataEvento DATE,
+    horaEvento DATE,
+    descEvento TEXT,
+    codTipoEvento INTEGER,
+    localEvento VARCHAR(250),
+    codOrganizador INTEGER,
+    statusEvento VARCHAR(250),
+    capacidadeEvento INTEGER,
+    codListConvidados INTEGER
+    codListaParticipantes  INTEGER,
+    codEquipeServico INTEGER,
+    codListaAutoridade INTEGER
+)
+#+end_src
+*** organizador
+#+begin_src sql :tangle ~/work/faculdade/Laboratorio_de_banco_de_dados/banco.sql
+CREATE TABLE organizador (
+    idOrganizador INTEGER,
+    nomeOrganizador VARCHAR(250),
+    emailOrganizador VARCHAR(250),
+    telefoneOrganizador VARCHAR(250),
+    documentoOrganizador VARCHAR(50)
+)
+#+end_src
+*** categoria evento
+#+begin_src sql :tangle ~/work/faculdade/Laboratorio_de_banco_de_dados/banco.sql
+CREATE TABLE categoria_evento(
+    idCategoria  INTEGER,
+    nomeCategoria VARCHAR(250),
+    descCategoria TEXT
+)
+#+end_src
+*** lista  convidados
+#+begin_src sql :tangle ~/work/faculdade/Laboratorio_de_banco_de_dados/banco.sql
+CREATE TABLE lista_convidados(
+    idListaConvidados INTEGER,
+    codEvento INTEGER,
+    codConvidado INTEGER,
+)
+#+end_src
+*** convidado
+#+begin_src sql :tangle ~/work/faculdade/Laboratorio_de_banco_de_dados/banco.sql
+CREATE TABLE convidado (
+    idConvidado INTEGER,
+    nomeConvidado VARCHAR(250),
+    emailConvidado VARCHAR(250),
+    telefoneConvidado VARCHAR(20)
+)
+#+end_src
+
+*** lista participante
+#+begin_src sql :tangle ~/work/faculdade/Laboratorio_de_banco_de_dados/banco.sql
+CREATE TABLE participante(
+    idParticipante INTEGER,
+    nomeParticipante VARCHAR(250),
+    telefoneParticipante VARCHAR(250),
+    emailParticipante VARCHAR(250),
+    papelParticipate VARCHAR(250)
+)
+#+end_src
+*** participante
+#+begin_src sql :tangle ~/work/faculdade/Laboratorio_de_banco_de_dados/banco.sql
+CREATE TABLE participante(
+    idListaParticipate INTEGER,
+    codParticipante  INTEGER,
+    codEvento INTEGER
+)
+#+end_src
+*** lista autoridade
+#+begin_src sql :tangle ~/work/faculdade/Laboratorio_de_banco_de_dados/banco.sql
+CREATE TABLE lista_autoridade (
+    idListaAutoridade INTEGER,
+    codEvento   INTEGER,
+    codAutoridade INTEGER
+)
+#+end_src
+*** equipe serviço
+#+begin_src sql :tangle ~/work/faculdade/Laboratorio_de_banco_de_dados/banco.sql
+CREATE TABLE equipe_servico(
+    idEquipeServico INTEGER,
+    areaEquipeServico VARCHAR(250),
+    codPrestadorServico INTEGER,
+    intrucoesEquipeServico LONGTEXT
+)
+#+end_src
+*** autoridade
+#+begin_src sql :tangle ~/work/faculdade/Laboratorio_de_banco_de_dados/banco.sql
+CREATE TABLE autoridade (
+    idAutoridade INTEGER,
+    nomeAutoridade VARCHAR(250),
+    emailAutoridade VARCHAR(250),
+    telefoneAutoridade VARCHAR(20),
+    cargoAutoridade VARCHAR(250)
+)
+#+end_src
+*** prestador_servico
+#+begin_src sql :tangle ~/work/faculdade/Laboratorio_de_banco_de_dados/banco.sql
+CREATE TABLE prestador_servico(
+    idPrestadorServico INTEGER,
+    codEquipeServico INTEGER,
+    nomePrestadorServico VARCHAR(250),
+    telefonePrestadorServico VARCHAR(250),
+    areaPrestadorServico VARCHAR(250)
+)
+#+end_src
+** Inserts & Seeds
+#+begin_src sql
+
+INSERT INTO evento VALUES
+(1,'festival do torresmo','2023-06-07','14:00','Festival de porções de torresmo',3,'Centro de Jundiaí',4,'Agendado',300,3,2,2,2),
+(2,'Festa da Uva','2023-09-08','12:00','Festival de uvas e música ao vivo',1,'Parque da Uva',2,'Agendado',1000,1,1,1,1),
+(3,'Feira da madrugada','2023-12-02','12:00','Feira beneficente',1,'Vila Argos',1,'Agendado',1000,2,4,3,1),
+(4,'Feira do livro','2023-08-03','11:00','Feira de livros',1,'Vila Argos',1,'Agendado',1000,1,2,3,1),
+(5,'Show dos trapalhões','2023-07-04','10:00','Show de comédia aberto',2,'Polytheama',2,'Agendado',1000,1,2,3,1),
+
+INSERT INTO organizador VALUES
+(1,'Bem feitoria eventos','bemfeitoriaeventos@gmail.com','(69) 2325-6720','13176124000174')
+(2,'Jundi eventos','jundieventos@gmail.com','(82) 3746-5771','68538476000114')
+(3,'Campo Limpo Eventos','campolimpoeventos@gmail.com','(28) 2693-6441','08231610000108')
+(4,'itatiba eventos','itatibaeventos@gmail.com','(86) 2123-1753','85211578000140')
+(5,'Tibiriçá evetos','tibiricaeventos@gmail.com','(89) 3156-5648','24462626000188')
+
+INSERT INTO categoria_evento VALUES
+('Feira','Evento de comércio que ocorre ao ar livre'),
+('Show','Evento de apresentação'),
+('Festival','Evento com muitas atrações'),
+('Casamento','Casamento em um espaço'),
+('Formatura','Salão de festas onde os formandos realizaram a colação')
+
+(INSERT INTO lista_convidados VALUES
+(1,2,3),
+(2,3,2),
+(3,3,3),
+(4,2,4),
+(5,1,4)
+
+INSERT INTO convidado VALUES
+(1,'João','joao@gmail.com','(83) 3125-1168'),
+(2,'Caio','caio@gmail.com','(65) 2171-7421'),
+(3,'Mariana','mariana@gmail.com','(79) 3645-3572'),
+(4,'Júlia','juliA@gmail.com','(69) 2323-4285'),
+(5,'Ariel','ariel@gmail.com','(84) 3631-4467')
+
+INSERT INTO lista_convidados VALUES
+(1,2,3),
+(2,2,3),
+(3,3,2),
+(4,2,3),
+(5,3,1)
+
+INSERT INTO lista_participantes VALUES
+(1,2,3),
+(2,2,3),
+(3,3,2),
+(4,2,3),
+(5,3,1
+
+INSERT INTO participantes VALUES
+('Ícaro','(92) 3972-8719','icaro@gmail.com','nenhum'),
+('Estavão','(82) 3266-6722','estavao@gmail.com','nenhum'),
+('Gabriela','(84) 3046-6620','gabriela@gmail.com','nenhum'),
+('Pedro','(85) 2750-7463','pedro@gmail.com','nenhum'),
+('Jose','(61) 3192-3740','jose@gmail.com','nenhum')
+
+
+#+end_src
+** Queries
+
+**** Union
+#+begin_src sql
+-- Quais eventos ocorreram em Campo Limpo e Jundiaí
+SELECT * FROM evento WHERE localEvento='Campo Limpo Paulista'
+UNION ALL
+SELECT * FROM evento WHERE localEvento='Jundiai'
+#+end_src
+**** Joins
+#+begin_src sql :tangle ~/work/faculdade/Laboratorio_de_banco_de_dados/queries.sql
+--Mostra qual evento com mais participantes
+SELECT COUNT(idConvidado) FROM lista_convidados INNER JOIN convidado ON convidado.idConvidado = lista_convidados.idListaConvidados
+#+end_src
+
+#+begin_src sql :tangle ~/work/faculdade/Laboratorio_de_banco_de_dados/queries.sql
+--Mostra todos os organizadores e eventos
+SELECT codOrganizador FROM evento FULL OUTER JOIN organizador ON evento.codOrganizador=organizador.idOrganizador
+#+end_src
+**** Function
+#+begin_src sql :tangle ~/work/faculdade/Laboratorio_de_banco_de_dados/queries.sql
+--Retorna dia da semana do evento
+CREATE FUNCTION semana (@date DATE)
+RETURNS VARCHAR(10)
+AS
+BEGIN
+    DECLARE @diadasemana NVARCHAR(10)
+
+    SET @diadasemana= DATENAME(WEEKDAY, @date)
+
+    RETURN @diadasemana
+END
+#+end_src
+**** View
+#+begin_src sql :tangle ~/work/faculdade/Laboratorio_de_banco_de_dados/queries.sql
+-- Quantos eventos ocorreram no mês de junnho
+CREATE VIEW eventosjunho AS
+SELECT COUNT(*) AS eventos_junho FROM evento
+WHERE dataEvento BETWEEN '2023-06-01' AND '2023-06-31'
+
+--Qual evento tem mais participante
+CREATE VIEW eventoscampolimpo AS
+SELECT COUNT(*) AS eventos_campo_limpo FROM evento
+WHERE localEvento='Campo Limpo Paulista'
+
+-- Quantos eventos ocorreram no ano de 2023
+CREATE VIEW eventos2023 AS
+SELECT codOrganizador,dataEvento AS eventos_2023 FROM evento
+WHERE dataEvento BETWEEN '2023-01-01' AND '2023-12-01'
+#+end_src
+**** Trigger
+#+begin_src sql :tangle ~/work/faculdade/Laboratorio_de_banco_de_dados/queries.sql
+--Emite uma mesagem ao criar um evento
+CREATE TRIGGER [trigger_de_evento]
+ON
+INSERT
+AS
+SELECT "Evento criado"
+#+end_src
+**** Stored procedure
+procedure 1
+#+begin_src sql :tangle ~/work/faculdade/Laboratorio_de_banco_de_dados/queries.sql
+--Retorna os eventos que ocorreram na cidade
+CREATE PROCEDURE eventos_cidades @cidade DATE
+AS
+    SELECT * FROM evento WHERE localEvento=@cidade
+GO;
+#+end_src
+
+procedure 2
+#+begin_src sql :tangle ~/work/faculdade/Laboratorio_de_banco_de_dados/queries.sql
+
+CREATE PROCEDURE eventos_organizador_ano @codOrganizador
+AS
+   SELECT COUNT(*) FROM eventos2023 WHERE codOrganizador=@codOrganizador
+#+end_src
+**** subconsultas
+#+begin_src sql
+SELECT nomeEvento,capacidadeEvento FROM evento WHERE < (SELECT MAX(capacidadeEvento) FROM evento )
+#+end_src
+
+#+begin_src sql
+SELECT * FROM evento WHERE capacidade <= (SELECT AVG(capacidadeEvento) FROM evento )
+#+end_src
+
+#+begin_src sql
+SELECT * FROM evento WHERE capacidade <= (SELECT AVG(capacidadeEvento) FROM evento )
+#+end_src

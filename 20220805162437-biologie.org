@@ -1,0 +1,14 @@
+#+title: biologie
+* Bioinformatics
+** Databases
+[[https://blast.ncbi.nlm.nih.gov/Blast.cgi][BLASTA]]
+** Tools
+*** Python
+**** Libraries
+** Genetics
+*** Articles
+**** Androgen Receptor Repeat Length polymorphism associated with male-to-female transseuxualis. :sexuality:transexuality:
+#+begin_src latex
+Lauren Hare, Pascal Bernard, Francisco J. Sanchez, Paul N. Baird, Eric Vilain, Trudy Kennedy and Vincent R. Harley. Androgen Receptor (AR) Repeat Length Polymorphism Associated with Male-to-female Transsexualism. Biological Psychiatry, Advance online publication date 27 Oct 2008, Jan 2009 print edition
+#+end_src
+* Genetics

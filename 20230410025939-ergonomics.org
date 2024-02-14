@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       042752c1-1ee2-4d9c-8e44-611678462b2b
+:END:
+#+title: 20230410025939 Ergonomics
+#+title: ergonomics
+* Terms
+1. Ergonomisc
+   1. People who research ergonomics
+* Keyboard ergonomics
+** Papers
+[[https://link.springer.com/book/10.1007/978-3-642-50770-0][Rationalisierung der Schreibmaschine und ihrer Bedienung]]
+* Screen ergonomics
+** Colors
+[[file:20220811002626-design.org][design]]
+** Text

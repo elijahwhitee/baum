@@ -1,0 +1,144 @@
+:PROPERTIES:
+:ID:       9eed73ed-7d2d-44f9-950f-ab06d98b0c1a
+:END:
+#+title: it&writing/programming&writing/snippets
+
+*Snippets* spellbook where I store snippets and its logic and
+attempt to reduce the coding time of boilerplate code and design
+patterns.
+
+* Latex
+#+begin_src latex
+\documentclass[article, 11pt, oneside, a4paper, english, brazil, sumario=tradicional]{abntex2}
+\usepackage{lmodern}
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage{indentfirst}
+\usepackage{nomencl}
+\usepackage{color}
+\usepackage{graphicx}
+\usepackage{microtype}
+\usepackage{lipsum}
+\usepackage[brazilian,hyperpageref]{backref}
+\usepackage[alf]{abntex2cite}
+\renewcommand{\backrefpagesname}{Citado na(s) página(s):~}
+\renewcommand{\backref}{}
+\renewcommand*{\backrefalt}[4]{\ifcase #1 Nenhuma citação no texto. \or Citado na página #2. \else Citado #1 vezes nas páginas #2. \fi}
+\titulo{$1}
+\tituloestrangeiro{The importance of the teaching of computation technology in schools}
+\autor{
+$2
+%% vinculação corporativa e endereço de contato.''}
+}
+\local{$3}
+\data{$4}
+\definecolor{blue}{RGB}{41,5,195} % alterando o aspecto da cor azul
+\makeatletter % informações do PDF
+\hypersetup{pdftitle={\@title}, pdfauthor={\@author}, pdfsubject={Modelo de artigo científico com abnTeX2}, pdfcreator={LaTeX with abnTeX2}, pdfkeywords={abnt}{latex}{abntex}{abntex2}{atigo científico}, colorlinks=true, linkcolor=blue, citecolor=blue, filecolor=magenta, urlcolor=blue, bookmarksdepth=4}
+\makeatother
+
+\makeindex
+
+\setlrmarginsandblock{3cm}{3cm}{*}
+\setulmarginsandblock{3cm}{3cm}{*}
+\checkandfixthelayout
+\setlength{\parindent}{1.3cm}
+\setlength{\parskip}{0.2cm}
+\SingleSpacing
+
+\begin{document}
+
+\selectlanguage{brazil}
+
+\frenchspacing
+
+% \twocolumn[    		% Descomente para duas colunas
+\maketitle
+% resumo em português
+\begin{resumoumacoluna}
+  $5
+ \vspace{\onelineskip}
+ \noindent
+ \textbf{Palavras-chave}: $6.
+\end{resumoumacoluna}
+
+% resumo em inglês
+\renewcommand{\resumoname}{Abstract}
+\begin{resumoumacoluna}
+ \begin{otherlanguage*}{english}
+   $7
+   \vspace{\onelineskip}
+
+   \noindent
+   \textbf{Keywords}: $8.
+ \end{otherlanguage*}
+\end{resumoumacoluna}
+% ]  				% FIM DE ARTIGO EM DUAS COLUNAS
+\begin{center}\smaller
+
+\textbf{Data de submissão e aprovação}: $9.
+
+%% \textbf{Identificação e disponibilidade}: elemento opcional. Pode ser indicado
+%% o endereço eletrônico, DOI, suportes e outras informações relativas ao acesso.
+\end{center}
+
+\newpage
+
+\pdfbookmark[0]{\contentsname}{toc}
+\tableofcontents*
+\cleardoublepage
+
+\textual
+
+\section{$10}
+$11
+
+\postextual
+
+
+\section*{Agradecimentos}
+
+    Nossos mais profundos agradecimentos a todo o corpo docente da Fatec de Jundiaí
+
+\newpage
+\bibliography{references}
+
+\end{document}
+
+#+end_src
+
+* Typescrpt
+*** React
+***** Modal component :modal:typescript:
+
+The componente gets rendered over the screen conditionally based on the state of the modal(*colapsedModal*).
+
+#+begin_src typescript :tangle
+import React, { useState, Component, useEffect } from 'react';
+import { useAtom } from 'jotai';
+import { colapsedModal } from 'store.js';
+
+export default function ModalModal(props) {
+  const [foldModal, setFoldModal] = useAtom(colapsedModal);
+  const handleSetFoldModal = () => setFoldModal(!foldModal);
+
+  return (
+    <div className={' inset-0' + foldModal ? 'bg-opacity-40' : ''}>
+      {!foldModal ? (
+        <div></div>
+      ) : (
+        <div className="absolute w-screen h-screen bg-black/[0.85] z-20 inset-0 flex items-center justify-center transition duration-100 ease-in">
+
+          <button className="absolute w-screen h-screen z-0 bg-black/[0.85]" onClick={handleSetFoldModal} />
+
+          <div className=" w-1/2 h-1/2 bg-white rounded-xl z-20">
+
+          </div>
+        </div>
+      )}
+    </div>
+  );
+}
+
+#+end_src
+***** Axios connection

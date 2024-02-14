@@ -1,0 +1,14 @@
+#+title: design/web design
+* UX
+** Site studies
+*** Good UX examples
+[[https://www.manual.com.br/quiz][Questionário da manual]]
+* UI
+** Colors
+*** Rules
+**** &60-30-10 rule
+*60%* Neutral color
+*30%* secondary
+*10%* accent color
+*** Tools :tooling:design:
+**** [[https://www.youtube.com/watch?v=HAlIWRcldoc][Realtime colors]]

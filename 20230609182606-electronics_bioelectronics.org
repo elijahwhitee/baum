@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       c85c83be-e857-40ec-8015-c6ae6c842adc
+:END:
+#+title: 20230609182606 Electronics_bioelectronics
+#+title: electronics/bioelectronics
+Bioelectronics intersection of living systems
+and eletronics systems.
+* Biosensors
+** Bees
+** Rats
+** Dogs
+* Weaponized animals
+** Anti tank dogs
+Dogs strapped with explosives
+trained to duck under enimy
+tanks.

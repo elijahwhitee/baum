@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       3e6e9b90-2623-40f8-be96-5ffdd9bdab56
+:END:
+#+title: 20230731182120 It Programming Development Techiniques
+#+title: it/programming/development techiniques
+
+Strategies to be more productive while handling
+development tasks.
+
+* Legacy code

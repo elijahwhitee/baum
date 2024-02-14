@@ -1,0 +1,30 @@
+:PROPERTIES:
+:ID:       e0374653-5692-4026-a195-25f9b56b6235
+:END:
+#+title: 20230526212306 Humanities_sociology_brasil
+#+title: humanities/sociology/brasil
+* Intelectuais
+*** João Cezar de Castro Rocha
+**** Matérias
+* Livros
+1. Sociologia do negro :ClovisMoura:
+2. Raizes do  Brasil  :SergioBuarquedeHolanda:
+3. O povo Brasileiro: A formação e o sentido do Brasil :DarcyRibeiro:
+* Brasil contemporâneo
+** Movimentos políticos
+*** Bolsonarismo
+** Ditadura
+*** Orvil
+*** Brasil nunca mais
+*** Ação coordenada militar para interferir no processo democrático.
+** Crise ambiental.
+** Crise indígena.
+* Racismo no Brasil
+** Escravidão
+** Racismo estrutural
+** Eugenia
+*** Sociedade eugênica de São Paulo.
+**** A cura da fealdade.
+*** Intelectuais eugenistas
+**** Monteiro Lobato
+** Higienismo e sanitarismo.

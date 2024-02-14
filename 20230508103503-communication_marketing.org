@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       4d30551c-92f0-4201-86cb-17e327ca8ff9
+:END:
+#+title: 20230508103503 Communication_marketing
+
+#+title: communication/marketing
+* Campanhas
+*** Fases
+***** Buzzing/Awareness
+***** Engajamento
+***** Conversão
+* Social media
+*** Social media metrics
+***** Tools
+******* Sprout social
+* Sources
+*** Books
+***** The strategy of desire.
+***** Crystalizing public opinion.
+*** People
+***** Edward Bernays

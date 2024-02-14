@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       9205535d-9176-41e2-9fdb-ec3b6032d6bc
+:END:
+#+title: plan/seeds(occult day)
+ *Distribution network of home grown hard to obtain items*
+
+* Implantation
+** Phase 1
+ entrada        ->      220 R$
+ Lucro esperado ->      ().
+
+ . Custo de produção

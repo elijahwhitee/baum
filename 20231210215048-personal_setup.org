@@ -1,0 +1,90 @@
+:PROPERTIES:
+:ID:       03f0cf9f-8bd5-4804-9101-7716cb0dd448
+:END:
+#+title: personal_setup(inventarium)
+Aqui defino como eu vou criar meu ambiente de trabalho para diferentes atividades
+* Ambientes
+** Chemie
+** Electronic
+** Computers
+*** Home server
+**** Hard drives
+I store all my data in persistent hard drives, my os I install in a SSD, and my
+important data i store in my HDs
+***** Hardrives rack
+**** Rack portable case
+***** [[https://netcomputadores.com.br/gs/tgc416a-tgc-gabinete-rack-4u/16430?srsltid=AfmBOoqhiuruknpdm45kxfUbDZNrJgRwPEPg-onrYaTwK4NjN8w4Vj0B3GI][TGC-416A]]
+***** SKB cases
+***** Pellican cases
+***** MilPAC SRHD
+[[https://acmeportable.com/products/milpac-srhd][MilPAC SRHD]]
+
+*** Rugged laptop
+Dell Rugged
+*** Quick draw laptop
+** Cozinha
+*** Recipientes
+**** Vidrarias
+***** 6 potes grandes
+- Farinha
+- Fuba
+- Açúcar
+- Arroz
+*** Panelas
+*** Instrumentos/ferramentas
+**** facas
+**** Maquinas
+** Quarto
+*** Moveis
+1. Futon.
+2. Gaveteiro.
+**** Guarda roupa.
+***** Bolsas
+***** Sapatos
+
+** Banheiro.
+** Baum
+* Arquitetura
+** Baum
+Tracking notes, configs, plans and everything. Main study system,
+** Devices
+Devices listed used by me.
+*** Primary machine(Portable Home server)
+**** Case hack
+**** Linux server
+***** Archlinux
+My main production machine, easy to setup, fast and lighweight, easy to manage,
+****** Playbooks to manage archlinux :ansible:
+[[file:20220720182804-dotfiles.org][dotfiles]]
+****** Hardware setup
+*5 hard drive system*
+1. Problems to solve.
+1. mount the user partition separatelly
+2. Use my pc as NAS server.
+3. Host production related services.
+4. Games library.
+5. Music library.
+6. Library.
+***** [ ] Server :upgrade:
+*** Secondary machine.(Portable laptop)
+- [[https://www.lenovo.com/us/en/p/laptops/thinkpad/thinkpadc/thinkpad-c13-yoga-chromebook-enterprise/22tpc13c3y1?orgRef=https%253A%252F%252Fwww.google.com%252F][Thinkpad c13]]
+*** Terciary machine.(Rugged laptop)
+[[https://www.dell.com/en-us/shop/dell-laptops-and-notebooks/sf/rugged-laptops][Dell rugged laptops and tablets]]
+** Data
+*** Files
+**** [ ] Synced files.
+**** [ ] NAS Server.
+**** [ ] Cloud backdup.
+*** Keys
+#+transclude: [[file:./20230131222514-infosec.org]] :lines 131-133 :src text
+*** Accounts
+**** emails
+***** emails servers
+***** hidden emails
+*** Home directory
+**** livros.
+**** imgs.
+**** repos.
+**** config.
+** Notion
+Tracking synced notes, managing projects managing agenda.

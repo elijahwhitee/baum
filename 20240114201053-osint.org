@@ -1,0 +1,4 @@
+:PROPERTIES:
+:ID:       a402f3f8-6638-4d42-8e11-e38b90b3d986
+:END:
+#+title: osint

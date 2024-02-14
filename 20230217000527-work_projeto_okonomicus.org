@@ -1,0 +1,189 @@
+#+title: work/projeto/okonomicus
+* Plano de negócio
+*** Plano de expansação
+***** Okonomicus para escolas e ensino
+Venda de acesso para empresas e escolas
+
+Plano de ensino em etapas.
+
+1- Etapa até crianças de 12 anos
+2- Etapa adolescentes
+3- Etapa jovens adultos
+
+Atrelar o uso da ferramenta já consolidada ao ensino, tornando assim a plataforma também uma ferramenta de ensino.
+***** Planos empresarias e com parceria
+***** Okonomicus broker
+Desenvolver o verbo para uma ferramenta mais robusta.
+*** Analise de negócios
+***** Concorrentes
+Lista de serviços de investimento que visam prover um serviço parecido
+******* Status invest
+- Pros ::
+  1. Bem estabelicida no mercado
+  2. Oferece muitas ferramentas.
+  3. Preço acessível.
+- Cons ::
+  1.
+******* Google finance
+- Pros ::
+  1. Gratuito pra primeiro uso.
+  2. Interface simples e amigável.
+******* Fundamentei
+[[https://fundamentei.com/][Fundamentei]]
+******* Morningstar
+[[https://www.morningstar.com/][Morningstar]]
+******* The Motley fool
+[[https://www.fool.com/][The Motley fool]]
+******* Guru focus
+[[https://www.gurufocus.com/][GuruFocus]]
+*** Plano de marketing
+* Projeto
+ Análise fundamentalista com API rest e processamento de dados com Python.  A
+ principal ideia é criar uma interface customizável para que o usuário consiga
+ rastrear os seus valores e dados específicos, tem que ser extensível e focada
+ no power user, uma ferramenta com potencial para fornecer os mesmos dados na
+ mesma intensidade que um home broker.
+
+ O maior objetivo do projeto é se tornar um *verbo* na cultura de investimentos,
+ uma ferramenta tão atômica e coesa que é amplamente usada pela comunidade de
+ investidores brasileira. O principal apelo da ferramenta é modificar e se
+ integar na cultura línguistica paulistana.
+** Arquitetura
+*** Stack
+**** GraphQL/FastAPI/Prisma
+1. GraphQL:
+   1. Handling different sizes queries and yielding
+      from highly specific queries
+   2. Integrating a multitue of micro services
+2. FastAPI:
+   1.
+**** React:TS:tailwind:axios
+**** Python/Pandas/Prisma
+*** Arquitetura backend
+**** Banco de dados
+***** Indexing
+*É necessário indexar o banco e o tornar performático para o alto volume de requisições.*
+**** Diagrama
+***** Drawing
+Microservice focused architecture with API gateway and many services,
+
+Example:
+
+|------------+------|
+|            |      |
+| Data Eng   | ---> |
+|            |      |
+|------------+------|
+|            |      |
+| Mongodb    | ---> |
+|            |      |
+|------------+------|
+|            |      |
+| Mongodb    | ---> |
+|            |      |
+|------------+------|
+|            |      |
+| Sql server | ---> |
+|            |      |
+|------------+------|
+
+
+All those services are served to a front end via API gateway,
+the planned frontend interfaces at moment are:web and mobile app
+***** Stack
+MongoDB  --> Prisma
+SQLServer --> Prisma
+Webserver --> REST & gRPC
+API --> REST / gRPC / graphQL
+**** Estrutura dos dados
+***** DFPS
+As dfps são os documentos padronizadas entregues à CVM por parte das empresas
+listadas, o acesso à informação disponibilizada pelo portal de dados é possível
+graças ao incentivo da lei de acesso à informação.
+
+O formato é em CSV.
+***** Grupos das DFPS
+***** Users
+***** Views
+Aqui estruturarei uma forma rudimentar de como as view são expressas dentro do mongodb
+#+begin_src json
+View:{
+    id: string;
+    name: string;
+
+    user: {
+    //user data
+    }
+
+    cards:{
+        card1:{
+            assets: string;
+            assetid: string;
+            texts:{
+
+            }
+            graphs:{
+
+            }
+            modules?: {
+            //modular components containing extra info about the tracked asset
+            //examples: news module, investor mood module, popularity on the platform
+
+            }
+        }
+    }
+}
+
+#+end_src
+*** Arquitetura frontend
+**** Interface :visões:json:
+A interface é customizável, onde o usuário consegue salvar e criar visões, que são
+essencialmente vários grafícos e dados que o usuário escolheu rastrear, essas visões
+podem ser salvas em abas e em uma lista contendo todas as visões, a ideia é representar
+essas visões em *json*.
+
+|------|
+| Viz1 |
+|------|
+
+|------|
+| Viz1 |
+|------|
+***** Endpoints
+****** Live stock data
+Connect to stream of stock price data.
+****** Seasonal data with low granularity
+The idea is to update every document based data
+about a company every hour.
+**** Gráficos
+*** Requisitos
+**** Graficos e indíces contidos
+***** RF 1
+O usuário poderá visualizar e analisar uma
+série de gráficos do ativo escolhido para
+análise.
+1.D.Y divident yield
+2. P/L
+3. P/EBTIDA
+4. P/VP
+5. P/EBIT
+6. P/SR
+7. P/ATIVO
+8. LPA
+9. P/SR
+10. P/CAP. GIRO
+11. P/ATIVO CIRC. LIQ
+***** RF 2
+O usuário poderá personalizar a interface
+salvando suas análises num formato compartilhável e reproduzível por outros
+usuários.
+*** Devops
+***** Login AWS
+arn:aws:iam::828867583868:user/Icaro
+Account ID : 828867583868
+***** AWS Cli login
+Acess Key: AKIA4B7C3T56M3OFXHPA
+Secret: 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
+***** IdP(Identity Center)
+- ARN ::
+  1. arn:aws:sso:::instance/ssoins-7085eb73c312a582

@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       489ad4f9-6e2f-4dd5-93a8-47b1fc916d88
+:END:
+#+title: finance/data science
+* Sources of data
+** Real time cotations
+*** Real time APIs
+1. [[https://nordicapis.com/10-real-time-stock-data-apis/][10 real time stock data apis]]
+2. [[https://marketstack.com/][marketstack]]

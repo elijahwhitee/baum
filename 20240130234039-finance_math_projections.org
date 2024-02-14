@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       1696ee92-9ba6-449f-8c77-bae478f44dbe
+:END:
+#+title: finance/math/projections
+ 1. Valor estimado considerando divident yield reaportado
+ a longo a prazo, desconsiderando a inflação.

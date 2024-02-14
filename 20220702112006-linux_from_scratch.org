@@ -1,0 +1,8 @@
+#   +title: OS-dev
+* Linux from scratch
+** Sources
+[[https://www.linuxfromscratch.org/lfs/][Source]]
+[[https://www.linuxfromscratch.org/lfs/downloads/stable/][BookLFS]]
+
+** Creating virtual machine
+[[id:1efae5bb-051c-4d4a-892f-8c8453bd3890][Tooling]]

@@ -1,0 +1,14 @@
+#+title: 20221215072518 Marketstudies
+#+title: MarketStudies
+* Tendencies
+* The data in the new era of the market.
+Many companies are now working with data science to yield
+never before seen values, companies like Tesla, Google and Dyson are now
+*embeedeing their products with sensors* that track data and manipulate that data
+to make inquiries.
+
+* Companies
+** Dyson
+An traditional company constructing home electronics and
+now is working  with data.
+* Market sectors

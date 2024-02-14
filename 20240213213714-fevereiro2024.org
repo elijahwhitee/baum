@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       4f637f31-0a9f-41a3-8942-6a4ae1a934cb
+:END:
+#+title: fevereiro2024
+* TODO Contas
+- [ ] Casa
+- [ ] Manual
+- [ ] Spotify

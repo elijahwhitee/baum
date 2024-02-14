@@ -1,0 +1,17 @@
+#+title: historia
+#+roam_tags: historia humanities
+* Brasil
+:PROPERTIES:
+:ID:       6188752d-21fb-48cf-8f03-17b0722275a8
+:END:
+** Ditadura Militar
+:PROPERTIES:
+:ID:       860b4378-00db-42c4-af2e-5b08f2cb2b52
+:END:
+*** Incidente do Rio centro :ditaduramilitar:
+**** Personagens
+***** Newton Cruz
+** Intelectuais
+*** [[https://pt.wikipedia.org/wiki/Celso_Furtado][Celsio Furtado]]
+*** [[https://pt.wikipedia.org/wiki/Roberto_Campos][Roberto Campos]]
+*** [[https://pt.wikipedia.org/wiki/Eug%C3%AAnio_Gudin][Eugenio Gudin]]

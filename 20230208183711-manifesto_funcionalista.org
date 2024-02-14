@@ -1,0 +1,9 @@
+#+title: Manifesto funcionalista
+[10:02, 08/02/2023] Ícaro: Manifesto: Uma revisão na concepção da interação homem máquina, na forma de pensar a função da tecnologia e do homem, na reestruturação das dinâmicas profissionais
+[10:02, 08/02/2023] Ícaro: Pensar o futuro da raça humana como a dissolução dos vícios capitalistas e idealizar uma maneira mais sóbria de pensar os meios de produção
+[10:02, 08/02/2023] Ícaro: Elementos do movimento: trans humanismo, pós modernidade
+* Das delimitações da experiência artística :acesso:reproducibilidade:
+É preciso remover os limites da arte, pois ela não é limítrofe, ela não deve
+estar contida em um meio físico ou propietário, ele não deve estar contida
+em um espaço, e sim abstraída de todas as formas para que possa propagar os meios possíveis, é preciso abstrair as formas de uma obra ao ponto que reproduzila seja possível, para que assim ela seja aberta.
+As abstrações se tornam iterações nas formas de se experenciar uma obra.

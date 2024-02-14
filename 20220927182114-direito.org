@@ -1,0 +1,17 @@
+#+title: direito
+* Direito brasileiro
+** Jurisprudência no mercado financeiro
+*** Sources
+[[https://modeloinicial.com.br/lei/L-14430-2022/certificados-recebiveis-@____III_II][Modelo inicial]]
+** Ordenamento Jurídico brasileiro
+*** Constituição federal
+***** Mecanismos de controle concentrado.
+- ADI (ADIn): Ação Direta de Inconstitucionalidade;
+- ADC (ADECON): Ação Declaratória de Constitucionalidade;
+- ADO: Ação Direta de Inconstitucionalidade por Omissão;
+- ADPF: Arguição de Descumprimento de Preceito Fundamental.
+*** Portarias do exercito.
+:PROPERTIES:
+:ID:       ec3513ca-aa5b-4f3e-978f-048e692fa688
+:END:
+[[http://www.dfpc.eb.mil.br/index.php/conteudo-do-menu-superior/31-dados-abertos/706-portarias-do-comando-do-exercito][Portarias do exercito]]

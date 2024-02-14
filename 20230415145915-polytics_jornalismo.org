@@ -1,0 +1,13 @@
+:PROPERTIES:
+:ID:       904f434d-2e7c-4789-be38-a1c9ad7c5fa0
+:END:
+#+title: polytics/jornalismo
+*** Jornalistas
+**** Juliana Dal Piva :uol:
+***** A vida secreta de Jair
+** Manchetes
+*** CACs aumentaram o numero de armas no crime organizado.
+[[https://www.cnnbrasil.com.br/politica/mais-armas-para-cacs-sao-fonte-para-o-crime-diz-ex-ministro-da-defesa/][CNN]]
+#+transclude: [[file:20220927182114-direito.org::*Portarias do exercito.][Portarias do exercito.]] :level 4
+*** Assassinato de ambientalistas :ambientalismo:assassinato_politico:
+[[https://g1.globo.com/meio-ambiente/noticia/2022/09/29/brasil-e-lider-em-mortes-de-ambientalistas-na-ultima-decada.ghtml][O brasil é líder em mortes de ambientalistas na última década]]

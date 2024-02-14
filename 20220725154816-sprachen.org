@@ -1,0 +1,10 @@
+#+title: Sprachen
+* Deutsch
+** Worterbuch
+#+begin_src bash
+trans Ungesetz
+#+end_src
+
+Ich erinnere mich an ihn an ersten mal mit diese Jacke gesehrem habe.
+                                -
+I remember him for the first time with this jacket.

@@ -1,0 +1,62 @@
+#+title: humanities/sociology
+* Sociology
+** Sociedades de controle
+*** Evidências
+:PROPERTIES:
+:ID:       5e09300e-87aa-4ad2-935d-a1ac136d791e
+:END:
+[[https://www.youtube.com/watch?v=DADiHkzD56o][Reportagem da BBC sobre a punição dos envolvidos no atentado de 8 de janeiro de 23]]
+A utilização de algoritmos para reconhecimento facial para cruzar dados disponíveis em imagens em redes sociais, TVs e câmeras de seguranças com a base de dados das secretarias de segurança.
+*** Sociedade digital
+[[https://www.youtube.com/watch?v=nowy-UxM7fI&t=4231s][Alessandro Dias flow]]
+** Totalitarism
+*** Fascism
+**** Nazism
+****** The Eichmann trial :nazism:
+********* David Ben-Gurion
+********* Moshe Landau
+********* Gideon Hausnner
+**** Fascist intellectuals
+***** Giovanni Gentile
+*** Culture studies
+:PROPERTIES:
+:ID:       28d821fc-3b66-45e2-9d7a-d6955a4341e2
+:END:
+***** Artefatos
+Reconhece-se como arfeto um elemento cultural recohnecidos
+pelos seus padrões.
+******* Culturas de nicho
+******* Femboy
+[[https://femboy.hu/][femboy.hu]]
+******** "Femilização" da figura masculina
+***** Memes
+A evolução natural dos signos, e os vetores em grafos
+que expressam ideias mutantes que se modificam aos ressoarem
+em nodos que representam indivíduos,
+******* Vilipêndio e desumanização
+O vilipêndio de corpos de minorias nas redes é um fenômeno
+cultural que nutre grupos que normalizam as posições das pessoas vulneraveis e realiza a manutenção do status quo
+******* Dessenbilização nas redes
+***** Capitalist art :gilles lipovetsky:
+** Social segregation
+*** Economic segregation
+**** Oligarchies
+***** South Korea
+****** Chaebols
+*** Gender discrimination
+*** Racism
+**** White attractability
+**** Eugenics
+***** Intelectuals
+****** Julian Huxley :transhumanism:eugenics:
+** Polytical movement
+*** Global far right
+**** Trisultis academy
+**** Steve Bannon
+**** Benjamin Harnwelss
+**** Olavo de Carvalho
+***** O jardim das aflições
+
+* Sources
+** Debates
+[[https://www.youtube.com/watch?v=3wfNl2L0Gf8][Michel Foucault & Noam Chomsky on Human nature]]

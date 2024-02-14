@@ -1,0 +1,42 @@
+:PROPERTIES:
+:ID:       49054285-eecf-4aac-b080-0f86000b939c
+:END:
+#+title: 20230530104156 It_infosec_tooling
+#+title: it/infosec💻/tooling
+* Tools
+** Scripting
+#+begin_src python :results output
+print("teste")
+#+end_src
+
+#+RESULTS:
+: teste
+** Memory analysis
+*** Volatility
+**** Installation
+#+begin_src python
+pip install volatility
+#+end_src
+**** VTypes
+Abstract representation of C data structures (operating system DSs),
+** Memory gathering
+** Malware identification
+*** Yara
+** Analysis
+*** Network analysis
+**** Tcpdump :networktools:
+**** Nmap :networktools:
+**** wireshark
+***** Coloring rules
+**** wireshark cli
+**** Aircrack-ng
+** Mail services
+*** Tutanota
+
+- Domain
+
+    elijahwhite@tutanota.com
+
+- code
+
+    7f27 d39a 9355 5159 81a6 c35e fba4 1b10 6fcf e6b9 9717 c53b fff7 a667 adea 69f1

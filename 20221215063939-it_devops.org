@@ -1,0 +1,18 @@
+#+title: it/devops
+* Containers
+* devops tools
+** Ansible
+** Terraform
+* Cloud providers
+** AWS
+*** Services
+**** EC2 instances
+This is the default amazon virtual machine provider.
+**** IAM
+***** IdP(identity providers)
+***** Identity Center(aws IdP)
+*** Aws cli
+**** iam
+#+begin_src bash
+aws iam list-users
+#+end_src

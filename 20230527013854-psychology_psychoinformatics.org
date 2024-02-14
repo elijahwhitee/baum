@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       43b83ac3-8e42-44f4-97fb-a999aec6f064
+:END:
+#+title: 20230527013854 Psychology_psychoinformatics
+#+title: psychology/psychoinformatics
+* Behaviors
+** Zeigarnik effect
+Unfinished tasks tends to remain more
+in the mind than finished ones.

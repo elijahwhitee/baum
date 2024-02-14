@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       85a8f54a-e0a4-4a52-8591-e2b0fd50d3d4
+:END:
+#+title: 2024-01-22
+* TODOs
+- [ ] Encomenda suspeita.
+  - NC094636408BR ::
+- [ ] Emitir ordem j
+uuuu

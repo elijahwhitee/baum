@@ -1,0 +1,30 @@
+:PROPERTIES:
+:ID:       11e1e298-9f85-4b15-8fc9-fb719645f57f
+:END:
+#+title: writing/books/tiamat
+** Tiamat
+*Header do livro*
+
+#+begin_src latex :tangle ~/livros/Autoral/tiamat.tex
+
+#+end_src
+
+*Corpo do livro*
+
+    O choro guinchoso abafado por passos e conversas confusas preenchia e ecoava
+ na sala, o avô deixou cair o queixo enquanto cessava a discussão com a avó, já
+ ela, continuava e ia murxando ao se dar conta de que nascera a criança, a mãe
+ ria em ecstâse ao mesmo tempo que chorava de alegria, a rubra pele negra de
+ Lucas brilhava na luz improvisada no teto.
+
+   A revelação
+
+  Os olhos azuis cintilantes de Eleonora fuzilavam Tiamat, os aparelhos de TV
+rodavam e tornavam o silêncio mais cortante e a expectativa de uma palavra sair
+de seus lábios maior, aceitaria ou não? Era tudo que ela desejava afinal, mas
+mesmo se sentir paralisada diante de tudo.  Eclodiria finalmente de um roteiro
+televiso, alçada e crucificada em rede nacional, milhares assistiam com reações
+mistas, alguns desligaram a TV, outros se envergonharam na presença de seus
+pais, alguns choraram e outros gritaram, Tamoio assistia da prisão gozando com
+seus colegas encarcerados para esconder a fúria e angústia que habitavam seu
+coração.

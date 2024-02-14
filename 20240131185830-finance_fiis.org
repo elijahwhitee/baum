@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       03191668-5525-4c5c-947a-d381fd2ac8d9
+:END:
+#+title: finance/fiis/
+* Vantagens dos fiis
+1. Dolarização do capital
+2. É um ativo real.
+* Indicadores
+** Tipos de contratos.
+Revisionais ou não revisionais.
+** Vencimento dos contratos.
+** Quantidade de locatários.

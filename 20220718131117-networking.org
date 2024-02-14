@@ -1,0 +1,5 @@
+#+title: 20220718131117 Networking
+#+title: Networking
+* Protocols
+** OpenPGP Standart
+[[https://www.ietf.org/rfc/rfc4880.txt][ietf rfc4880]]

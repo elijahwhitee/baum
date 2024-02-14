@@ -1,0 +1,109 @@
+#+title: 20230217000408 Projeto_okonomicus
+* ProNo.2 | Okonomicus
+ Análise fundamentalista com API rest e processamento de dados com Python.
+ A principal ideia é criar uma interface customizável para que o usuário consiga rastrear
+ os seus valores e dados específicos, tem que ser extensível e focada no power user, uma ferramenta
+ com potencial para fornecer os mesmos dados na mesma intensidade que um home broker.
+
+ O maio objetivo do projeto é se tornar um *verbo* na cultura de investimentos, uma
+ ferramenta tão atômica e coesa que é amplamente usada pela comunidade de investidores
+ brasileira.
+** Arquitetura
+*** Interface :visões:json:
+A interface é customizável, onde o usuário consegue salvar e criar visões, que são
+essencialmente vários grafícos e dados que o usuário escolheu rastrear, essas visões
+podem ser salvas em abas e em uma lista contendo todas as visões, a ideia é representar
+essas visões em *json*.
+
+|------|
+| Viz1 |
+|------|
+
+|------|
+| Viz1 |
+|------|
+**** Endpoints
+***** Live stock data
+Connect to stream of stock price data.
+***** Seasonal data with low granularity
+The idea is to update every document based data
+about a company every hour.
+
+*** Banco de dados
+*** Estrutura dos dados
+**** DFPS
+As dfps são os documentos padronizadas entregues à CVM por parte das empresas
+listadas, o acesso à informação disponibilizada pelo portal de dados é possível
+graças ao incentivo da lei de acesso à informação.
+
+O formato é em CSV.
+**** Grupos das DFPS
+**** Users
+**** Views
+Aqui estruturarei uma forma rudimentar de como as view são expressas dentro do mongodb
+#+begin_src json
+View:{
+    id: string;
+    name: string;
+
+    user: {
+    //user data
+    }
+
+    cards:{
+        card1:{
+            assets: string;
+            assetid: string;
+            texts:{
+
+            }
+            graphs:{
+
+            }
+            modules?: {
+            //modular components containing extra info about the tracked asset
+            //examples: news module, investor mood module, popularity on the platform
+
+            }
+        }
+    }
+}
+
+#+end_src
+** Analise de negócios
+*** Concorrentes
+Lista de serviços de investimento que visam prover um serviço parecido
+**** Status invest
+- Pros ::
+  1. Bem estabelicida no mercado
+  2. Oferece muitas ferramentas.
+  3. Preço acessível.
+- Cons ::
+  1.
+
+**** Google finance
+- Pros ::
+  1. Gratuito pra primeiro uso.
+  2. Interface simples e amigável.
+
+**** Fundamentei
+[[https://fundamentei.com/][Fundamentei]]
+**** Morningstar
+[[https://www.morningstar.com/][Morningstar]]
+**** The Motley fool
+[[https://www.fool.com/][The Motley fool]]
+**** Guru focus
+[[https://www.gurufocus.com/][GuruFocus]]
+** Funcionalidades
+*** Graficos e indíces contidos
+1.D.Y divident yield
+2. P/L
+3. P/EBTIDA
+4. P/VP
+5. P/EBIT
+6. P/SR
+7. P/ATIVO
+8. LPA
+9. P/SR
+10. P/CAP. GIRO
+11. P/ATIVO CIRC. LIQ

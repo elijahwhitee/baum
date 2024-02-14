@@ -1,0 +1,63 @@
+:PROPERTIES:
+:ID:       1671c3bb-b40f-4029-8660-5f4688da7377
+:END:
+#+title: work/projeto/SGVG
+* SGVG | Tcc
+*** Arquitetura
+*** Sources
+***** Videos
+[[https://www.youtube.com/watch?v=DZBGEVgL2eE][Moongose Crash Course]]
+***** Artigos
+[[https://medium.com/all-the-things/a-web-application-with-no-web-server-61000a6aed8f][LocalWeb-Medium]]
+*** Banco de dados
+Mongodb normalized schema
+
+*Embeeded*
+
+#+begin_src js
+estacionamento:{
+  {
+    _id: ObjectId("64340d498e3a5183f4ee0f18"),
+    cargo: 'Carregador',
+    cpf: '888.888.837-88',
+    data_nasc: ISODate("2019-01-31T10:00:00.000Z"),
+    idade: 19,
+    nome: 'Jose',
+    root: false,
+    senha: '$2b$10$Xa8o57Lp/KRaG0BZMkBGA.XuTbiKsdn8en9Cps3.4mqcGA2V3myD6'
+  }
+  {
+    _id: ObjectId("6413478e27a9d5bffb3050dd"),
+    preco: 41133.2,
+    setor: 'w',
+    status: false,
+    tipo: 'C',
+    vaga_ocupada: false
+  }
+  {
+    _id: ObjectId("6413462a7ae73bd1cb330a4c"),
+    email: 'Lisa46@hotmail.com',
+    nome: 'Maxine',
+    telefone: '(421) 886-3440'
+  }
+}
+#+end_src
+
+*Cliente id document reference*
+
+#+begin_src js
+  {
+    _id: ObjectId("6413478e27a9d5bffb3050dd"),
+    preco: 41133.2,
+    setor: 'w',
+    status: false,
+    tipo: 'C',
+    vaga_ocupada: false,
+    dataLocacao: 'Wed May 03 2023 08:32:08 GMT-0300 (GMT-03:00)',
+    dataLocacaoFim: null,
+    clienteId: null
+  }
+#+end_src
+
+*** UI
+É uma interface que deve rodar em um navegador Web simples e que fornece conexão com o banco de dados.

@@ -1,0 +1,36 @@
+:PROPERTIES:
+:ID:       4faca5ab-9290-4ae1-9c91-069c8d452fb9
+:END:
+#+title: economics/finance
+* Concepts
+** GAAP general accepted accounting principles
+* Dictionary
+** Indicadores
+*** EBITDA
+*** ROE
+#+begin_src latex
+
+roe  = (netincome/revenue) * (revenue/average total assets) * (average total assets/shareholders equity)
+
+#+end_src
+*** ROCE
+*** ROA
+*** RORE
+*** Underwrinting
+*** Sinistralidade
+*** P/VPA
+Valor patrimonial por ação.
+** Termos
+*** Dividendos
+**** Data com
+**** Data Ex
+**** Data de pagamento.
+* Markets
+The types of markets and what rules them, different kinds of markets
+may vary in nature and what effects
+the businesses.
+** Agro market
+** Art market
+*** Master works
+Avant garde block chain system to
+break art artefacts into small shares

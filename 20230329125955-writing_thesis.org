@@ -1,0 +1,61 @@
+#+title: writing/thesis #+roam_tags: thesis writing
+* Culture memology
+:PROPERTIES: :ID:       7b71b6fe-f890-4799-a671-db4484cc87a4 :END:
+how modern individual experiences many micro PTSD events due to the modern life
+** Representação de elementos culturais
+#+transclude: [[file:~/baum/baum/20230304194631-humanities_sociology.org::*Culture
+#studies]] :level 2
+** Propagação de conceitos
+Modelo estatístico que visa demonstrar o avanço de um padrão estético dentro de
+uma população, a utilização de inteligência artificial para determinar este tipo
+de estudo é fundamental.
+
+1. A linguagem abstrata, onde a comunicação entre indivíduos é possível, propaga
+   inúmeros *memes* que tecem uma consciência coletiva de signos e valores, o
+   aspecto linguístico teatral é fundamental para a sociedade humana, devido ao
+   aspecto verbal da consciência, onde a verbalização é uma das formas
+   fundamentais do própio pensamento. Uma sociedade pode ser compreendida como
+   uma rede de nodos que processam e absorvem mensagens idiossincratimente,
+   dentro dessa rede existe o memetismo da cultura, onde conceitos transcendem
+   os humanos e vivem em um outro plano, um plano coletivo produzido pela
+   comunicação e interação. Um conceito nunca é uno, e também não pode ser
+   unicamente definido pela média de suas definições encontradas nas opiniões da
+   maioria.
+
+2. É preciso abstrair para definir a natureza da cultura e suas características
+   anti singulares
+** Spike de conhecimento
+A relação de um individuo saber de algo que poucos sabem em uma população geral,
+e como isso pode gerar dinâmicas de poder.
+** O mimetismo cultura nas doenças psicológicas
+*** O preconceito patológico
+
+* A natureza do capital
+O capital, fenômeno amoral humano, tem o potencial de alocar recursos com base
+na lei da oferta e demanda, e estabelecer relações de troca entre inúmeros
+pontos do tecido social, dado o contexto, ele também tem o potencial de
+engrandecer as relações de dominação.
+* A morte e a felicidade eterna são irmãs
+* Textos
+** A verdade
+*** Header
+#+begin_src latex :tangle
+
+
+#+end_src
+*** Texto
+A verdade é exprimir de relações fundamentais do humano um conceito inexorável a
+respeito da realidade, moral, estética e condição humana, a verdade da vida
+humana Para compreender a vida singular de um único humano é possível analisar
+de diferentes níveis de abstração e escopo, a vida humana da sociologia ou a
+vida humana da biologia são conceitos distintos de mesma origem, contudo o
+intuito é criar a verdade da vida humana filosófica, um raciocínio com conceitos
+tão fundamentais que não se relacionam com os outros domínios do conhecimento
+humano.  Um ser senciente, capaz de determinar a si mesmo em limites de sua
+consciência, é sujeito de fatos de sua fisiologia e condição
+** A natureza da consciência humana.
+A natureza da consciência humana é limítrofe, se baseia apenas nos limites
+definidos pelos  processos culturais que criam um ser social, ela é
+profundamente ligada à dominação e a dinâmica do poder político naturalmente
+humano, os processos históricos e sociais se baseam numa série de  exercícios de
+cultura  e força sobre os seres.

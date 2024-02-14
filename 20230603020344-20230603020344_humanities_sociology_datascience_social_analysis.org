@@ -1,0 +1,32 @@
+:PROPERTIES:
+:ID:       4fafc51b-886f-45a8-9add-3222a215a3cb
+:END:
+#+title: 20230603020344 Humanities_sociology_datascience_social_analysis
++title: humanities/sociology:datascience/social analysis
+* Strata analysis
+Groups or sections analysis
+based on *culture memology*
+grouping.
+** Sampled data
+Trying to extract inviduality
+from big data to estimate
+the number of individuals involved in a data sample with the intent to create cultural image.
+*** CASE 1 Sexuality & gender views
+Extracting or estimating number
+of individuals from pornvideo views
+
+subject: Austin Spears
+
+[[https://www.pornhub.com/pornstar/austin-spears][Austin Spears:pornhub:]]
+
+* Sociogram
+[[https://en.wikipedia.org/wiki/Sociogram][wikipedia-sociogram]]
+Definition
+#+begin_quote
+"A sociogram is a graphic representation of social links that a person has. It is a graph drawing that plots the structure of interpersonal relations in a group situation.[1]"
+#+end_quote
+
+Usage of graph theory in sociology
+#+begin_quote
+"Graph theory is also widely used in sociology as a way, for example, to measure actors' prestige or to explore rumor spreading, notably through the use of social network analysis software."
+#+end_quote

@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       d798c045-47cd-448c-9630-405077933443
+:END:
+#+title: economics/security_analysis
+* Security analysis
+** Grahan and Dod's book
+- The concept of never losing is a fundamental principle to a
+value investor, the risk of losing always out weight the
+possibility of quick gain.

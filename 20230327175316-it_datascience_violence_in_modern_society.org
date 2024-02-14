@@ -1,0 +1,3 @@
+#+title: it/datascience/violence in modern society
+* What is violence?
+** Kinds of violence

@@ -1,0 +1,140 @@
+https://www.google.com/maps/@-23.5454875,-46.6384898,201m/data=!3m1!1e3?entry=ttuu#+title: estudos/faculdade/banco de dados&engenharia de software
+* Engenharia de software
+** Sistema de eventos
+*** Diagrama de objetos
+*** Diagrama de classes DEADLINE:<2023-03-23 Thu>
+#+begin_src yuml
+
+#+end_src
+*** Diagrama de de atividades DEADLINE:<2023-03-23 Thu>
+#+begin_src latex :tangle ~/work/engenharia_de_software/main.tex
+
+#+end_src
+* Tarefas
+** Banco de dados de eventos
+*** evento
+#+begin_src sql :tangle ~/work/faculdade/Laboratorio_de_banco_de_dados/banco.sql
+CREATE TABLE evento (
+    idEvento INTEGER,
+    nomeEvento VARCHAR(250),
+    dataEvento DATE,
+    horaEvento DATE,
+    descEvento TEXT,
+    codTipoEvento INTEGER,
+    localEvento VARCHAR(250),
+    codOrganizador INTEGER,
+    statusEvento VARCHAR(250),
+    capacidadeEvento INTEGER,
+    codListConvidados INTEGER
+    codListaParticipantes  INTEGER,
+    codEquipeServico INTEGER,
+    codListaAutoridade INTEGER
+)
+#+end_src
+*** organizador
+#+begin_src sql :tangle ~/work/faculdade/Laboratorio_de_banco_de_dados/banco.sql
+CREATE TABLE organizador (
+    idOrganizador INTEGER,
+    nomeOrganizador VARCHAR(250),
+    emailOrganizador VARCHAR(250),
+    telefoneOrganizador VARCHAR(250),
+    documentoOrganizador VARCHAR(50)
+)
+#+end_src
+*** categoria evento
+#+begin_src sql :tangle ~/work/faculdade/Laboratorio_de_banco_de_dados/banco.sql
+CREATE TABLE categoria_evento(
+    idCategoria  INTEGER,
+    nomeCategoria VARCHAR(250),
+    descCategoria TEXT
+)
+#+end_src
+*** lista  convidados
+#+begin_src sql :tangle ~/work/faculdade/Laboratorio_de_banco_de_dados/banco.sql
+CREATE TABLE lista_convidados(
+    idListaConvidados INTEGER,
+    codEvento INTEGER,
+    codConvidado INTEGER,
+)
+#+end_src
+*** convidado
+#+begin_src sql :tangle ~/work/faculdade/Laboratorio_de_banco_de_dados/banco.sql
+CREATE TABLE convidado (
+    idConvidado INTEGER,
+    nomeConvidado VARCHAR(250),
+    emailConvidado VARCHAR(250),
+    telefoneConvidado VARCHAR(20)
+)
+#+end_src
+
+*** lista participante
+#+begin_src sql :tangle ~/work/faculdade/Laboratorio_de_banco_de_dados/banco.sql
+CREATE TABLE participante(
+    idParticipante INTEGER,
+    nomeParticipante VARCHAR(250),
+    telefoneParticipante VARCHAR(250),
+    emailParticipante VARCHAR(250),
+    papelParticipate VARCHAR(250)
+)
+#+end_src
+*** participante
+#+begin_src sql :tangle ~/work/faculdade/Laboratorio_de_banco_de_dados/banco.sql
+CREATE TABLE participante(
+    idListaParticipate INTEGER,
+    codParticipante  INTEGER,
+    codEvento INTEGER
+)
+#+end_src
+*** lista autoridade
+#+begin_src sql :tangle ~/work/faculdade/Laboratorio_de_banco_de_dados/banco.sql
+CREATE TABLE lista_autoridade (
+    idListaAutoridade INTEGER,
+    codEvento   INTEGER,
+    codAutoridade INTEGER
+)
+#+end_src
+*** equipe serviço
+#+begin_src sql :tangle ~/work/faculdade/Laboratorio_de_banco_de_dados/banco.sql
+CREATE TABLE equipe_servico(
+    idEquipeServico INTEGER,
+    areaEquipeServico VARCHAR(250),
+    codPrestadorServico INTEGER,
+    intrucoesEquipeServico LONGTEXT
+)
+#+end_src
+*** autoridade
+#+begin_src sql :tangle ~/work/faculdade/Laboratorio_de_banco_de_dados/banco.sql
+CREATE TABLE autoridade (
+    idAutoridade INTEGER,
+    nomeAutoridade VARCHAR(250),
+    emailAutoridade VARCHAR(250),
+    telefoneAutoridade VARCHAR(20),
+    cargoAutoridade VARCHAR(250)
+)
+#+end_src
+*** prestador_servico
+#+begin_src sql :tangle ~/work/faculdade/Laboratorio_de_banco_de_dados/banco.sql
+CREATE TABLE prestador_servico(
+    idPrestadorServico INTEGER,
+    codEquipeServico INTEGER,
+    nomePrestadorServico VARCHAR(250),
+    telefonePrestadorServico VARCHAR(250),
+    areaPrestadorServico VARCHAR(250)
+)
+#+end_src
+** Inserts & Seeds
+#+begin_src sql
+
+INSERT INTO evento VALUES
+(1,'festival do torresmo','2023-06-07','14:00','Festival de porções de torresmo',3,'Centro de Jundiaí',4,'Agendado',300,3,2,2,2),
+(2,'Festa da Uva','2023-09-08','12:00','Festival de uvas e música ao vivo',1,'Parque da Uva',2,'Agendado',1000,1,1,1,1),
+(3,'Feira da madrugada','2023-12-02','12:00','Feira beneficente',1,'Vila Argos',1,'Agendado',1000,2,4,3,1),
+(4,'Feira do livro','2023-08-03','11:00','Feira de livros',1,'Vila Argos',1,'Agendado',1000,1,2,3,1),
+(5,'Show dos trapalhões','2023-07-04','10:00','Show de comédia aberto',2,'Polytheama',2,'Agendado',1000,1,2,3,1),
+
+INSERT INTO organizador VALUES
+(1,'Bem feitoria eventos','bemfeitoriaeventos@gmail.com','(69) 2325-6720','13176124000174')
+(2,'Jundi eventos','jundieventos@gmail.com','(82) 3746-5771','68538476000114')
+(3,'Campo Limpo Eventos','campolimpoeventos@gmail.com','(28) 2693-6441
+','68538476000114')
+#+end_src

@@ -1,0 +1,30 @@
+#+title: it/dev/javascript/react
+* React development
+
+** Intalling dependencies on archlinux
+#+begin_src bash
+sudo pacman -S nodejs
+#+end_src
+** Setting up doom emacs for code highlighting
+add the following to the init.el file in doom emacs.
+#+begin_src elisp
+(javascript +lsp)
+#+end_src
+** React in html files
+#+begin_src javascript
+const root = ReactDOM.createRoot(
+  document.getElementById('root')
+);
+
+function tick() {
+  const element = (
+    <div>
+      <h1>Hello, world!</h1>
+      <h2>It is {new Date().toLocaleTimeString()}.</h2>
+    </div>
+  );
+  root.render(element);
+}
+
+setInterval(tick, 1000);
+#+end_src

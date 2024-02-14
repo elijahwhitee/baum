@@ -1,0 +1,7 @@
+#+title: Javascript
+* Concepts of the language
+* Examples of javascript expressions
+** Imports
+#+begin_src javascript
+import {default as alias} from './alias';
+#+end_src

@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       525b2745-f3bd-45ce-8cfc-d43da07fe3e7
+:END:
+#+title: art/projects
+* Projects
+* Lab

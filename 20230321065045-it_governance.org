@@ -1,0 +1,24 @@
+#+title: it/governance
+*It governance* is the applicabilitty of IT
+on mainting compliance, security and control over cost.
+* Sources
+** Institutes
+*** ITGI(information technology governance institute)
+* IT governance tools and frameworks
+** IT Governance in AWS
+** Frameworks
+** Stardarts ISO/IEC 38500:2015
+
+*definition*
+
+ISO/IEC 38500:2015 provides guiding principles for members of governing bodies of organizations (which can comprise owners, directors, partners, executive managers, or similar) on the effective, efficient, and acceptable use of information technology (IT) within their organizations.
+
+- Tipos de padrões.
+
+** Princípios.
+*** Estratégia.
+*** Conformidade.
+
+- PL 2630/2020("Pl das fake news").
+
+- LGPD.

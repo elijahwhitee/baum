@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       9e8467ab-6169-4399-8fe6-cecb40a90c83
+:END:
+#+title: chemistry/hardware
+* Chemistry hardware
+** Lojas
+[[https://www.lojanetlab.com.br/][LojaNetLab]]
+[[https://www.instrulab.com.br/][InstruLab]]
+[[https://www.lojalab.com.br/][LojaLab]]
+[[https://www.perfectalab.com.br/?gclid=CjwKCAjw6MKXBhA5EiwANWLODIkuv5Pgl_lY4ZVpE1UN05pRBAwDNz7R98OUKSjk0rzFoXFvGjGV9RoC1DAQAvD_BwE][PerfectaLab]]
+[[http://filterflux.com.br/?gclid=CjwKCAjw6MKXBhA5EiwANWLODCg9_Gzs9lgwN8WGm7nX960LrqM2dEr2BDnz-N1e9uEWOKCTuCvGBRoCo3oQAvD_BwE][Filterflux]]
+** Setup
+:PROPERTIES:
+:ID:       30e4c140-5fef-46d1-b165-5e6da89cd9e2
+:END:
+[[https://autolac.com.br/blog/equipamentos-de-laboratorio-de-analises-clinicas-suas-funcoes/][Guia de Equipamentos]]

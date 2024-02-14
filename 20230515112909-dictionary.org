@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       f2e7056a-da92-486a-9f33-eb5bf396fc47
+:END:
+#+title: 20230515112909 Dictionary
+#+title: dictionary
+* Dicionários online
+[[https://www.dicio.com.br/][Dicio online de português]]

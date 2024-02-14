@@ -1,0 +1,4 @@
+#+title: 20221013084630 Crytography
+* Types of encryption
+** ECSDA
+[[https://en.wikipedia.org/wiki/Elliptic-curve_cryptography][Elliptic-curve-encryption:wikipedia:]]

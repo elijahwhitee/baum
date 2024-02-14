@@ -1,0 +1,13 @@
+ #+title: economics 💰
+* Intelectuais
+** [[https://pt.wikipedia.org/wiki/Joseph_Schumpeter][Joseph Schumpter]]
+** Harry Markowitz
+* Economia
+** Historia
+*** Banco do Brasil
+Banco do Brasil quebrou com a impressão de moeda após
+a retirada do ouro pelo rei João sexto
+* Fontes
+** Aulas
+[[https://www.youtube.com/watch?v=hWGP2J1kXMQ][Maria da Conceição Tavares-economia política aula 1]]
+[[https://www.youtube.com/watch?v=nki_ioQAmJQ][Maria da Conceição Tavares-economia política aula 2]]

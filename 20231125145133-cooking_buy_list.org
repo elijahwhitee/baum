@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID:       dcc882fc-b964-4356-a209-e9c7862d6288
+:END:
+#+title: cooking buy list
+* Lista de compras
+** Temperos
+- [ ] Alho.
+** Vegetais
+- [ ] Batata.
+- [ ] Alface.
+- [ ] Tomate.
+- [ ] Abobrinha.
+- [ ] Pimentão.
+- [ ] Beringela.

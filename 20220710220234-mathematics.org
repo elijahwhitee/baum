@@ -1,0 +1,38 @@
+#+title: 20220710220234 Mathematics
+#+title: mathematics
+* Sources
+** Bookmarks
+*** The Math Sorcerer :TheMathSorcerer:
+[[https://www.youtube.com/watch?v=kId1JVUsAxk][The Calculus Book That Changed The world]]
+* Basic mathematics
+:PROPERTIES:
+:ID:       062bfc02-1f5a-4f55-8312-75fe9d78374e
+:END:
+** The integers
+:PROPERTIES:
+:ID:       c4ae2b3e-6ec7-4dab-94e2-3b783a1782b7
+:END:
+ Negative and positive numbers that go in a scale
+ #+begin_src latex
+
+ 0 + a = a + 0 = a
+
+ #+end_src
+** Rules for  addition
+:PROPERTIES:
+:ID:       2e44007d-0b2e-4238-b8b7-55906ac9de48
+:END:
+*** Commutativity
+#+begin_src latex
+
+a+b=b+a
+
+#+end_src
+*** Associativity
+#+begin_src latex
+(a+b)+c=a+(b+c)
+#+end_src
+* Advanced mathematics
+** Calculus
+** Writing Proofs
+

@@ -1,0 +1,2 @@
+#+title: Physics
+[[https://www.youtube.com/watch?v=bwreHReBH2A][EM Waves]]

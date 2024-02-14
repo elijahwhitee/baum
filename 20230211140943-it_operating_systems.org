@@ -1,0 +1,10 @@
+#+title: it/operating systems
+* Kernels
+** Linux
+*** Device drivers
+
+* Alternative systems
+** written haskell
+[[https://en.wikipedia.org/wiki/House_(operating_system)][House operating system]]
+* Operating systems architectures
+** RTOS

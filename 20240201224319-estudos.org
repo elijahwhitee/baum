@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       cc72da52-61f7-4ddd-9e3f-9273cc94c64c
+:END:
+#+title: estudos
+* Provas/Gabaritos
+** USP
+** fontes
+1. [[https://vestibular.brasilescola.uol.com.br/downloads/universidade-sao-paulo.htm][uol]]

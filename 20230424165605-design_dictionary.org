@@ -1,0 +1,13 @@
+:PROPERTIES:
+:ID:       f07144b6-6e71-4484-ab60-d4a855733ecb
+:END:
+#+title: 20230424165605 Design_dictionary
+#+title: design/dictionary
+
+* Visuals
+- Glare ::
+- Glitter ::
+* Fashion
+- Chrome type mask ::
+  1. a translucent mask over models face.
+  2. tutorial: [[https://www.youtube.com/watch?v=-PNFnJnGlAA][Chrometype mask fashio]]

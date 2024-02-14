@@ -1,0 +1,88 @@
+:PROPERTIES:
+:ID:       7470a98d-dd5b-40d3-83ff-7ef498746fd5
+:END:
+#+title: cooking🍳
+* Livros
+** Escoffier
+** The professional Chef
+** Le repertoire de la cuisine.
+** Robuchon.
+** The flavor bible
+** Flavor matrix
+** on food and cooking
+** Salt fat acid heat
+* Receitas
+** Pães
+*** Fermentação natural
+**** Pão de milho com fermentação natural
+Proporção da receita: 50% de fermentao natuarl em relação a farinha
+
+180g de fermento natural alimentado, é possível alimentar o fermento na *noite*
+anterior do uso da *manhã*
+
+Triture 100g de milho verde com 100ml de leite
+
+Misture numa tigela 360g de farinha branca, 30g de fuba de milho amarelo, 60g de
+açúcar e 4g de sal.
+
+Após misturar adicione um ovo batido e 180g de fermento natural alimentado.
+
+Sove a massa até o ponto de véu e deixe  descansar numa tigela untada com óleo
+até dobrar o tamanho.
+
+**** Pao de fermentacao natural
+[[https://www.youtube.com/watch?v=bbv_P8bpvbg][Pao de fermentacao natural]]
+*** Tipos de pré fermentos
+[[https://www.youtube.com/watch?v=ElJFy8ACwEA][Yeasted preferments explained]]
+** Ratatoulle
+** Paella
+** Bolos
+*** Sabiosa
+[[https://www.youtube.com/watch?v=EbgAa1LF-Mg][Sabiosa:PaollaLindaPerfeita:]]
+** Saladas
+*** Caesar salada
+1. Ovos bem frios
+2. Mostarda de Djon
+3. Azeite de Oliva
+4. Alho
+5. Limao siciliano
+6. Aliche
+7. Queijo parmesao
+8. Vinagre de vinho
+9. Alface tipo romana
+10. Pão amanhecido
+** Massas
+*** Ramen
+*** Pasta
+ - 1 etto per egg and one egg per person.
+
+** Molhos
+*** Pesto.
+*** Hollandaise.
+* Menu
+** Finais de semana
+*** Frango kiev
+*** Ratatoulle
+** Comidas de oficio
+*** Ramen bowl.
+*** Guacamole.
+*** Brasileirinho.
+ Proteina, arroz, farofa e saladas.
+*** Arroz com cogumelos.
+*** Pão com escabeche.
+*** Omelete.
+*** Pão de fermentação natural.
+*** Yogurte com keffir.
+** Pão toda semana
+*** Pão de fermentação natural
+*** Pão de milho de fermentação natural
+*** Pão de batata.
+* Dicionario
+** Queijos
+*** Parmesão.
+*** Pecorino.
+*** Brie.
+*** Gorgonzola.
+** Ingredientes químicos sintéticos
+*** Xanthan gum
+Espeçante
