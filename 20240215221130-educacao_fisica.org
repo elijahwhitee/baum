@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       ff8bd933-0b29-4247-90fa-794fc1c46534
+:END:
+#+title: educacao fisica
+* Calculo de calorias
+** Gasto basal Harris-Benedict
+Formula de Harris-Benedict
+
+*altura em cm*
+*peso em kilos*
+
+66+(13.7*meu_peso)+(5*altura)-(6.8*idade)
+
+meu caso
+
+66+(13.7*63)+(5*170)-(6.8*21)
+
+1636,3 calorias basais
+
+* Exercicios aerobicos
+
+[[https://www.youtube.com/watch?v=Bxsq1IvS3Zw][Folego na corrida]]
