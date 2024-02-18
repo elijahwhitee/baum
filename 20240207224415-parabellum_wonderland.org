@@ -5,7 +5,7 @@
 
 *Objectives*
 
-1. Anonymous point of cell through a secure channel.
+1. Anonymous point of sell through a secure channel.
 
 * Anonymity
 ** Anonymous messassing throw TOR

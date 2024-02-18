@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       77d0270d-ffc8-4310-a711-0b00a87fc060
+:END:
+#+title: finance/personal
+
+
+Salario mensal:
+R$2896

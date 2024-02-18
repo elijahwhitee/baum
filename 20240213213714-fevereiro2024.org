@@ -4,5 +4,7 @@
 #+title: fevereiro2024
 * TODO Contas
 - [ ] Casa
-- [ ] Manual
-- [ ] Spotify
+- [X] Manual
+- [X] Spotify
+- [ ] Vivo.
+- [ ] Condução

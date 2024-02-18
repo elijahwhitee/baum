@@ -4,8 +4,6 @@
 #+title: personal_setup(inventarium)
 Aqui defino como eu vou criar meu ambiente de trabalho para diferentes atividades
 * Ambientes
-** Chemie
-** Electronic
 ** Computers
 *** Home server
 **** Hard drives
@@ -22,28 +20,31 @@ important data i store in my HDs
 *** Rugged laptop
 Dell Rugged
 *** Quick draw laptop
-** Cozinha
-*** Recipientes
-**** Vidrarias
-***** 6 potes grandes
+** Casa
+*** Cozinha
+**** Recipientes
+***** Vidrarias
+****** 6 potes grandes
 - Farinha
 - Fuba
 - Açúcar
 - Arroz
-*** Panelas
-*** Instrumentos/ferramentas
-**** facas
-**** Maquinas
-** Quarto
-*** Moveis
+**** Panelas
+**** Instrumentos/ferramentas
+***** facas
+***** Maquinas
+*** Quarto
+**** Moveis
 1. Futon.
 2. Gaveteiro.
-**** Guarda roupa.
-***** Bolsas
-***** Sapatos
+***** Guarda roupa.
+****** Bolsas
+****** Sapatos
 
-** Banheiro.
-** Baum
+*** Banheiro.
+** Lab
+*** Chemie
+*** Electronic
 * Arquitetura
 ** Baum
 Tracking notes, configs, plans and everything. Main study system,
