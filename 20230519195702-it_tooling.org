@@ -276,7 +276,6 @@ xrandr -s  1440x900
 ** Vim like browsers
 https://reversed.top/2016-08-13/big-list-of-vim-like-software/#browsers
 * Security
-
 ** Encryption
 *** GPG
 [[https://rtcamp.com/tutorials/linux/gpg-keys/][GPG Cheatsheet]]

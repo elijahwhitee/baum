@@ -31,3 +31,15 @@ o seu risco e valor de retorno esperado.
         WACC = [(E/V)*Re]+[(D/V)*Rd*(1-Tc)]
 
 #+end_src
+
+* Juros
+
+** Juros
+
+** Juros compostos
+
+#+begin_src
+
+M=C(1+i)^t
+
+#+end_src

@@ -3,5 +3,14 @@
 :END:
 #+title: finance/analysis
 * Analises
-* Analise aporte <2023-12-10 Sun>
-*** Rumo SA.
+** Aportes
+*** Analise aporte <2023-12-10 Sun>
+**** Rumo SA.
+** Ativos
+*** FCFL11 Campus Faria Lima
+ Insper é o principal locatário
+ do FCFL11 e o gestor é o BTG Pactual,
+ o fundo é um mono locatário, todo o
+ ativo corresponde a um tijolo
+ de uma laje universitária localizada
+ na [[https://www.google.com/maps/search/Rua+Quat%C3%A1,+n%C2%BA+300/@-23.6011967,-46.6766297,278a,35y,358.45h,47.23t/data=!3m1!1e3?hl=en&entry=ttu][Rua Quata n 300]] na Vila Olímpia
