@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       147ec685-0557-4955-8701-22544876f557
+:END:
+#+title: março2024
+* TODO Contas [0/6]
+- [ ] Casa
+- [ ] Manual
+- [ ] Spotify
+- [ ] Vivo.
+- [ ] Condução
+- [ ] Twitch
+
+* Metas
+** Okonomicus
+1. Esboço do fluxo da aplicação e CRUDS
+** Imoviz
+1. Iniciar plot no mapa
+** Studio de idiomas
+1. Entregar projeto

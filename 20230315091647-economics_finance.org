@@ -25,6 +25,7 @@ Valor patrimonial por ação.
 **** Data com
 **** Data Ex
 **** Data de pagamento.
+** Demonstrações financeiras
 * Markets
 The types of markets and what rules them, different kinds of markets
 may vary in nature and what effects

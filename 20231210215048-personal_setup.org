@@ -89,3 +89,6 @@ My main production machine, easy to setup, fast and lighweight, easy to manage,
 **** config.
 ** Notion
 Tracking synced notes, managing projects managing agenda.
+* Compras
+** Quarto
+** Cozinha

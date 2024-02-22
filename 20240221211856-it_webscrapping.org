@@ -1,0 +1,31 @@
+:PROPERTIES:
+:ID:       82a51e9e-eaf8-4fd6-acd9-baf003a27dee
+:END:
+#+title: it/webscrapping
+* Scrapy
+** Scrapy example
+
+#+begin_src python
+def parse(self, response):
+
+    for game in response.css('div.card > div.row'):
+        item = GameItem()
+        item["Category"] = game.css("div.col-12.prod-cat a::text").get()
+        item["Card_Name"]  = game.css("a.card-text::text").get()
+        for buying_option in game.css('div.buying-options-table div.row:not(:first-child)'):
+            item["Seller"] = buying_option.css('div.row.align-center.py-2.m-auto > div.col-3.text-center.p-1 > img::attr(title)').get()
+            item["Condition"] = buying_option.css("div.col-3.text-center.p-1::text").get()
+            item["Price"] = buying_option.css("div.col-2.text-center.p-1::text").get()
+            yield item
+    next_page_number = response.xpath('//div[div[.="Next Page"]][not(contains(@class, "hide"))]/@data-page').get()
+    # If it exists and there is a next page enter if statement
+    if next_page_number:
+        yield scrapy.FormRequest.from_response(
+            response=response,
+            formid="category_form",
+            formdata={
+                'page-no': next_page_number,
+            },
+            callback=self.parse
+        )
+#+end_src

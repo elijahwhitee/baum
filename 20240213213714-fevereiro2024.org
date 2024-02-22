@@ -2,9 +2,23 @@
 :ID:       4f637f31-0a9f-41a3-8942-6a4ae1a934cb
 :END:
 #+title: fevereiro2024
-* TODO Contas
-- [ ] Casa
+* TODO Contas [5/6]
+- [X] Casa
 - [X] Manual
 - [X] Spotify
-- [ ] Vivo.
+- [X] Vivo.
 - [ ] Condução
+- [X] Twitch
+
+* TODO compras [0/3]
+- [ ] Gaveteiro.
+- [ ] Guarda roupa.
+- [ ] Estante de livros.
+* TODO Metas [/]
+** [ ] Okonomicus
+Ter esboçado api e conseguir um
+sistema de login
+** [ ] Imoviz
+1. Persistir dados no banco de dados.
+** [ ] Studio de idiomas
+1. Ter iniciado a versão final de produção
