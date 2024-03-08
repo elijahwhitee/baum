@@ -2,14 +2,14 @@
 :ID:       147ec685-0557-4955-8701-22544876f557
 :END:
 #+title: março2024
-* TODO Contas [0/6]
-- [ ] Casa
-- [ ] Manual
-- [ ] Spotify
-- [ ] Vivo.
-- [ ] Condução
-- [ ] Twitch
-
+* TODO Contas [2/6]
+- [ ] Casa      R$ 100.00
+- [X] Manual    R$ 124.00
+- [ ] Spotify   R$ 21.00
+- [X] Vivo.     R$ 58.00
+- [ ] Condução  R$ 200.00
+- [ ] Twitch    R$ 7.40
+- [ ] Dentista  R$ 40.00
 * Metas
 ** Okonomicus
 1. Esboço do fluxo da aplicação e CRUDS

@@ -261,7 +261,10 @@ alias s="systemd"
 alias j="journalctl"
 
 #+end_src
-
+** Create bootable pendrive
+#+begin_src
+sudo dd bs=4M if=/path/to/manjaro.iso of=/dev/sd[drive letter] status=progress oflag=sync
+#+end_src
 * Display and video
 **** Xrandr
 *rotate display*

@@ -65,6 +65,7 @@
 ***** UI
 #+begin_src elisp :tangle ~/.config/doom/config.el :comments link
 (setq display-line-numbers-type 'relative)
+(setq doom-theme 'doom-tokyo-night)
  ;; (setq doom-theme 'doom-dracula
  ;;     doom-themes-enable-bold t
  ;;     doom-font (font-spec :family "Inconsolata" :size 15 )
@@ -127,7 +128,10 @@
 #+end_src
 ******* Org roam hook
 #+begin_src elisp :tangle ~/.config/doom/config.el :comments link
+(add-hook 'org-mode-hook (lambda() ('org-indent-mode 1 )))
+(add-hook 'org-mode-hook (lambda()('org-modern-mode 1)))
 #+end_src
+
 ***** Programming
 ******* Dap mode
 ******** Python
