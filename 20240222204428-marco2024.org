@@ -10,6 +10,7 @@
 - [ ] Condução  R$ 200.00
 - [ ] Twitch    R$ 7.40
 - [ ] Dentista  R$ 40.00
+  Total:        R$550.40
 * Metas
 ** Okonomicus
 1. Esboço do fluxo da aplicação e CRUDS
