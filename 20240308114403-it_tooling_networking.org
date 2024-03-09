@@ -11,6 +11,8 @@ net-tools
 pacman -S net-tools
 #+end_src
 ** Commands
-#+begin_src
+#+begin_src bash
 netstat -an | awk '{print $5}' | cut -d "." -f1,2,3,4 | sort | uniq -c | sort -nr
+#com porta
+netstat -an | awk '/ESTABLISHED/ {split($5, a, ":"); print a[1], a[2]}' | sort | uniq -c | sort -nr
 #+end_src
