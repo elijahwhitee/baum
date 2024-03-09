@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       2d711ef2-687d-4c7d-99ae-3575da53d434
+:END:
+#+title: it/tooling/networking
+* netstat
+
+** installing
+net-tools
+*archlinux*
+#+begin_src  bash
+pacman -S net-tools
+#+end_src
+** Commands
+#+begin_src
+netstat -an | awk '{print $5}' | cut -d "." -f1,2,3,4 | sort | uniq -c | sort -nr
+#+end_src
