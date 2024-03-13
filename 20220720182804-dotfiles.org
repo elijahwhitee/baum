@@ -128,10 +128,9 @@
 #+end_src
 ******* Org roam hook
 #+begin_src elisp :tangle ~/.config/doom/config.el :comments link
-(add-hook 'org-mode-hook (lambda() ('org-indent-mode 1 )))
-(add-hook 'org-mode-hook (lambda()('org-modern-mode 1)))
+(add-hook 'org-mode-hook  'org-indent-mode 0 )
+(add-hook 'org-mode-hook 'org-modern-mode 1)
 #+end_src
-
 ***** Programming
 ******* Dap mode
 ******** Python
@@ -149,42 +148,19 @@ Python debugger config
 
 #+end_src
 ***** Keybindings
-******* Toggle vertical&horizontal split
-#+begin_src elisp
-(defun toggle-window-split ()
-  (interactive)
-  (if (= (count-windows) 2)
-      (let* ((this-win-buffer (window-buffer))
-         (next-win-buffer (window-buffer (next-window)))
-         (this-win-edges (window-edges (selected-window)))
-         (next-win-edges (window-edges (next-window)))
-         (this-win-2nd (not (and (<= (car this-win-edges)
-                     (car next-win-edges))
-                     (<= (cadr this-win-edges)
-                     (cadr next-win-edges)))))
-         (splitter
-          (if (= (car this-win-edges)
-             (car (window-edges (next-window))))
-          'split-window-horizontally
-        'split-window-vertically)))
-    (delete-other-windows)
-    (let ((first-win (selected-window)))
-      (funcall splitter)
-      (if this-win-2nd (other-window 1))
-      (set-window-buffer (selected-window) this-win-buffer)
-      (set-window-buffer (next-window) next-win-buffer)
-      (select-window first-win)
-      (if this-win-2nd (other-window 1))))))
-
-(global-set-key (kbd "C-x |") 'toggle-window-split)
-
-#+end_src
-
-#+RESULTS:
-: toggle-window-split
 ******* Toggle modeline
 #+begin_src elisp
 (global-set-key "SPC t m" global-hide-mode-line-mode)
+#+end_src
+******* Transclusion keymap
+#+begin_src elisp :tangle ~/.config/doom/init.el :comments link
+(define-key global-map (kbd "<f12>") #'org-transclusion-add)
+;(define-key global-map (kbd "C-n t") #'org-transclusion-mode)
+#+end_src
+******* Org roam
+#+begin_src elisp :tangle ~/.config/doom/init.el :comments link
+(define-key global-map (kbd "<f1>") #'org-roam-node-find)
+;(define-key global-map (kbd "C-n t") #'org-transclusion-mode)
 #+end_src
 *** Packages el
 #+begin_src elisp :tangle ~/.config/doom/packages.el :comments link
@@ -210,14 +186,6 @@ Python debugger config
 #+begin_src elisp :tangle ~/.config/doom/config.el :comments link
 ;;(use-package org-starless
   ;;:quelpa (org-starless :repo "TonCherAmi/org-starless" :fetcher github))
-#+end_src
-*** Keymaps
-#+begin_src elisp :tangle ~/.config/doom/init.el :comments link
-#+end_src
-*** Transclusion keymap
-#+begin_src elisp :tangle ~/.config/doom/init.el :comments link
-(define-key global-map (kbd "<f12>") #'org-transclusion-add)
-;(define-key global-map (kbd "C-n t") #'org-transclusion-mode)
 #+end_src
 
 ** Classic emacs
@@ -838,7 +806,6 @@ autocmd VimEnter *
   \| endif
 
 #+end_src
-** neovim with lua
 * Mbsync
 Config file for my email feed reader, it should be placed  under the home dir with hidden file attribute.
 #+begin_src bash :tanble ~/.mbsyncrc

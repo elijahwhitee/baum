@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       fdedfdff-63f9-433b-acc7-9aa24fe60f34
+:END:
+#+title: it/tooling/java/
+* MVN
+build jboss 7 project from archetype
+#+begin_src bash
+mvn archetype:generate -DarchetypeGroupId=org.jboss.spec.archetypes -DarchetypeArtifactId=jboss-javaee6-webapp -DarchetypeVersion=7.0.2.CR1
+#+end_src

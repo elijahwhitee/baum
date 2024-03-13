@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       2c4d10e5-58ca-4a8a-bda7-3d56a3c40105
+:END:
+#+title: empresas/klabin
+* Histórias
+* Informações
+[[https://ri.klabin.com.br/para-o-investidor/perguntas-frequentes/][perguntas frequentes]]

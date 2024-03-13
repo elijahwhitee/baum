@@ -25,8 +25,18 @@ Valor patrimonial por ação.
 **** Data com
 **** Data Ex
 **** Data de pagamento.
+*** Tag along
+[[https://en.wikipedia.org/wiki/Tag-along_right][wikipedia-tag along]]
+"Tag Along é uma ferramenta de segurança garantida aos acionistas minoritários de uma companhia, permitindo que tais acionistas deixem a sociedade caso o controle da empresa passe para um novo investidor, que até então não tinha participação no negócio." - Suno
+[[https://www.suno.com.br/artigos/tag-along/][suno-tag along]]
+*** Efeito Lindy
 ** Demonstrações financeiras
-* Markets
+** Tipos de ações
+    *Tickers*
+- *sufixo 3* Ordinárias:garantem direito a voto
+- *sufixo 4* Preferenciais:possuem preferência no recebimento de dividentos.
+- *sufixo 11* Unit: conjunto de ações ordinárias
+* markets
 The types of markets and what rules them, different kinds of markets
 may vary in nature and what effects
 the businesses.

@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       84426731-7c91-4737-800f-a5d2d0a91ea2
+:END:
+#+title: it/tooling/xorg
+
+* Configuring screen dpi
+Changing the dpi with xrandr
+#+begin_src bash
+xrandr --dpi 144 # replace with any number, may affect the appearance of icons
+#+end_src
+
+ Querying the current dpi
+ #+begin_src bash
+xdpyinfo | grep dots
+ #+end_src

@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       6e5dc19d-44a3-4a6d-be7e-e7e22beaabf7
+:END:
+#+title: it/tooling/compression
+* zip
+[[https://superuser.com/questions/5155/how-to-create-a-zip-file-compatible-with-windows-under-linux][stach exchange zipping with zip]]
+#+begin_src
+zip -9 -y -r -q file.zip folder/
+#+end_src
