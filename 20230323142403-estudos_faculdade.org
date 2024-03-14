@@ -94,7 +94,7 @@ como por exemplo uma dashboard contendo dados performáticos do estacionamento.
 O relacionamento se da com o suporte e contato através dos canais da loja em que o aplicativo está disponível, além disso é possível contatar o suporte pelo aplicativo.
 A estratégia da empresa de relacionamento com cliente é manter a relação com o usuário com cards com dicas e notas de atualização, e manter uma newsletter
 a respeito dos acontecimentos dentro da compania como perspectivas para o futuro do app, estado atual do app e outros temas que podem surgir dos questionamentos dos usuários.
-**** Plane financeiro
+**** Plano financeiro
 
 *** Tópicos espiciais em informática
 **** Artigo
