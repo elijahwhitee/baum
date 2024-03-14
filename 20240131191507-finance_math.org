@@ -32,6 +32,9 @@ o seu risco e valor de retorno esperado.
 
 #+end_src
 
+* CAGR Compound annual growth rate
+[[** neovim with lua
+][investopedia-Compound Annual Growth Rate: What You Should Know]]
 * Juros
 
 ** Juros
