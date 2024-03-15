@@ -1,4 +1,10 @@
+:PROPERTIES:
+:ID:       605637a0-2855-4e4c-9a0d-c9692054cb13
+:END:
 #+title: direito
+* Áreas do direito
+[[https://www.aurum.com.br/blog/areas-do-direito/][aurum-áreas do direito]]
+
 * Direito brasileiro
 ** Jurisprudência no mercado financeiro
 *** Sources

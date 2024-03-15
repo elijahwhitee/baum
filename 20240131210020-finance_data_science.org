@@ -2,6 +2,43 @@
 :ID:       489ad4f9-6e2f-4dd5-93a8-47b1fc916d88
 :END:
 #+title: finance/data science
+
+* Technology & finance
+
+finance is the area that has most spended on technology,
+in 2014 the investment made on the area by banks
+summed up 420 billion dollars. "Crosman 2013"
+
+" Technological innovations have contributed significantly to greater efficiency in the de‐
+rivatives market. Through innovations in trading technology, trades at Eurex are today
+executed much faster than ten years ago despite the strong increase in trading volume
+and the number of quotes … These strong improvements have only been possible due to
+the constant, high IT investments by derivatives exchanges and clearing houses. "
+— Deutsche Börse Group 2008
+
+" Meriwether spent $20 million on a state-of-the-art computer system and hired a crack
+team of financial engineers to run the show at LTCM, which set up shop in Greenwich,
+Connecticut. It was risk management on an industrial level. "
+— Patterson 2010
+
+
+*What may be the consequences of computer in finance?*
+
+How will capital and markets behave in a highly automated society?
+
+side effects of technology on finance.
+
+flash crash of may 2010
+[[https://en.wikipedia.org/wiki/2010_flash_crash][wikipedia-flash crash 2010]]
+
+** Readings about technology on finance
+[[https://www.jstor.org/stable/1209176][Intangible asset-JSTOR]]
+[[https://www.jstor.org/stable/3548947][Quantifying the Impact of ICT Capital on Output Growth: A Heterogeneous Dynamic Panel Approach-JSTOR]]
+
+** Python quants
+People who wrote the book *python for finace* have also other books
+on python and finances.
+[[https://home.tpq.io/][python quants]]
 * Sources of data
 ** Real time cotations
 *** Real time APIs

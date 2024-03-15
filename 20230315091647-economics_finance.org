@@ -30,6 +30,12 @@ Valor patrimonial por ação.
 "Tag Along é uma ferramenta de segurança garantida aos acionistas minoritários de uma companhia, permitindo que tais acionistas deixem a sociedade caso o controle da empresa passe para um novo investidor, que até então não tinha participação no negócio." - Suno
 [[https://www.suno.com.br/artigos/tag-along/][suno-tag along]]
 *** Efeito Lindy
+*** OTC
+What Is an Over-the-Counter (OTC) Derivative?
+An over-the-counter (OTC) derivative is a financial contract that does not trade on an asset exchange, and which can be tailored to each party's needs.
+
+A derivative is a security with a price that is dependent upon or derived from one or more underlying assets.
+[[https://www.investopedia.com/ask/answers/052815/what-overthecounter-derivative.asp#:~:text=An%20over-the-counter%20(OTC)%20derivative%20is%20a,one%20or%20more%20underlying%20assets.][investopedia-OTC]]
 ** Demonstrações financeiras
 ** Tipos de ações
     *Tickers*
