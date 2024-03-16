@@ -159,8 +159,10 @@ Python debugger config
 #+end_src
 ******* Org roam
 #+begin_src elisp :tangle ~/.config/doom/init.el :comments link
+;; Find nodes in org roam db
 (define-key global-map (kbd "<f1>") #'org-roam-node-find)
-;(define-key global-map (kbd "C-n t") #'org-transclusion-mode)
+;; Sync added nodes or existing ones
+(define-key global-map (kbd "<f2>") #'org-roam-db-sync)
 #+end_src
 *** Packages el
 #+begin_src elisp :tangle ~/.config/doom/packages.el :comments link
