@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       5b58e527-79cb-4d2e-ba8c-b63f02fe627c
+:END:
+#+title: maven
+
+#+begin_src bash
+mvn archetype:generate -DgroupId=com.mycompany.app -DartifactId=my-app -DarchetypeArtifactId=maven-archetype-quickstart -DarchetypeVersion=1.4 -DinteractiveMode=false
+#+end_src

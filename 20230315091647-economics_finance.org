@@ -6,6 +6,9 @@
 ** GAAP general accepted accounting principles
 * Dictionary
 ** Indicadores
+:PROPERTIES:
+:ID:       be7fbbc7-4355-4d22-9c53-0da457317ddd
+:END:
 *** EBITDA
 *** ROE
 #+begin_src latex
@@ -20,6 +23,10 @@ roe  = (netincome/revenue) * (revenue/average total assets) * (average total ass
 *** Sinistralidade
 *** P/VPA
 Valor patrimonial por ação.
+
+#+begin_src
+VPA = Patrimônio Líquido / Número de ações no mercado
+#+end_src
 ** Termos
 *** Dividendos
 **** Data com
@@ -42,12 +49,8 @@ A derivative is a security with a price that is dependent upon or derived from o
 - *sufixo 3* Ordinárias:garantem direito a voto
 - *sufixo 4* Preferenciais:possuem preferência no recebimento de dividentos.
 - *sufixo 11* Unit: conjunto de ações ordinárias
-* markets
+* Setores
 The types of markets and what rules them, different kinds of markets
 may vary in nature and what effects
 the businesses.
 ** Agro market
-** Art market
-*** Master works
-Avant garde block chain system to
-break art artefacts into small shares

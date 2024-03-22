@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:       64a1834f-b1f5-4e7c-81c7-9f436f1ceb13
+:END:
 #+title: Ansible
 My ansible org file for managing devops
 * Playbooks

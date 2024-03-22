@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:       91810152-2d2e-4f16-847b-8f468b05d98f
+:END:
 #+title: fitness
 * Calisthenics routine.
 
@@ -29,19 +32,6 @@
 - Sunday ::
   *Rest*
 
-* Diet.
-** Gasto calórico
-
-proteina = 1.8*kilo corporal.
-
-gordura = 1.0*kilo corporal.
-
-carbohidrato = resto do saldo calórico.
-
-*** GET(Gasto Energético total).
-*** Gasto calórico basal.
-O gasto calórico basal é definido por efeitos gerais em 2000kcal.
-* TODOS
 * Plans
 [[https://whitecoattrainer.com/blog/bodyweight-training#1][Calisthenics execises listed by muscle group]]
 * Calisthenics Planing

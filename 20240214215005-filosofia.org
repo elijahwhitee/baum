@@ -2,3 +2,6 @@
 :ID:       a5f0b299-7e18-43a9-bbd8-c3418cb7ea5d
 :END:
 #+title: filosofia
+* Pensadores
+** Emil Cioran
+*** A short history of decay

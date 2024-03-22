@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       9741bcf5-609f-4651-827f-c282358eebec
+:END:
+#+title: it/software_engineering/authentication
+The architecture and engineering behing concepts of
+authentication and identity.
+* Authentication
+** Authentication protocols
+*** SAML
+*** OpenID

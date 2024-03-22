@@ -4,10 +4,6 @@
 The art of memory forensics
 Introduction.
 #+end_quote
-* Authentication
-** Authentication protocols
-*** SAML
-*** OpenID
 * Threat modelling
    [[https://capec.mitre.org/][CAPEC]]
 * Hardware

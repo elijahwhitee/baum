@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       da2fe05c-f7f5-4e7a-b7e8-d24a8f9893eb
+:END:
+#+title: fitness/diet
+* Diet.
+** Gasto calórico
+
+proteina = 1.8*kilo corporal.
+
+gordura = 1.0*kilo corporal.
+
+carbohidrato = resto do saldo calórico.
+
+*** GET(Gasto Energético total).
+*** Gasto calórico basal.
+O gasto calórico basal é definido por efeitos gerais em 2000kcal.

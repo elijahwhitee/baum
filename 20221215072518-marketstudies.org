@@ -1,4 +1,6 @@
-#+title: 20221215072518 Marketstudies
+:PROPERTIES:
+:ID:       3654ac0a-1d0d-42a7-8077-d06b8df52a21
+:END:
 #+title: MarketStudies
 * Tendencies
 * The data in the new era of the market.
