@@ -150,7 +150,7 @@ Python debugger config
 ***** Keybindings
 ******* Toggle modeline
 #+begin_src elisp
-(global-set-key "SPC t m" global-hide-mode-line-mode)
+;(define-key global-map (kbd "SPC t m") #'global-hide-mode-line-mode)
 #+end_src
 ******* Transclusion keymap
 #+begin_src elisp :tangle ~/.config/doom/init.el :comments link

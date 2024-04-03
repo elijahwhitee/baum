@@ -2,13 +2,13 @@
 :ID:       147ec685-0557-4955-8701-22544876f557
 :END:
 #+title: março2024
-* TODO Contas [4/7]
+* TODO Contas [7/7]
 - [X] Casa      R$ 100.00
 - [X] Manual    R$ 124.00
-- [ ] Spotify   R$ 21.00
+- [X] Spotify   R$ 21.00
 - [X] Vivo.     R$ 58.00
-- [ ] Condução  R$ 200.00
-- [ ] Twitch    R$ 7.40
+- [X] Condução  R$ 200.00
+- [X] Twitch    R$ 7.40
 - [X] Dentista  R$ 40.00
 * Metas
 ** Okonomicus
@@ -17,3 +17,10 @@
 1. Iniciar plot no mapa
 ** Studio de idiomas
 1. Entregar projeto
+
+
+* Reflexões
+
+Este mês foi deverás produtivo por n razões, não somente na consolidação de uma rotina oxigenada cheia de movimento e ação,
+mas também pelas experiências artísticas e psicotrópicas, sinto que minha rede de amigos esta muito expandida, meu circulo social
+integra bastante pessoas diversas com as quais eu posso conversar e sair.
