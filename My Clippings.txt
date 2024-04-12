@@ -1,0 +1,935 @@
+﻿Vincent_Persichetti_Twentieth_Century_Ha  
+- Seu marcador na página 12 | Adicionado: quarta-feira, 6 de dezembro de 2023 07:23:14
+
+
+==========
+﻿hibernate_in_action  
+- Seu destaque na página 24-24 | Adicionado: quarta-feira, 6 de dezembro de 2023 18:02:08
+
+Hibernate is an ambitious project that aims to be a complete solution to the problem of managing persistent data in Java. It mediates the application’s interaction with a relational database, leaving the developer free to concentrate on the business problem at hand. Hibernate is an non-intrusive solution. By this we mean you aren’t required to follow many Hibernate-specific rules and design patterns when writing your business logic and persistent classes; thus, Hibernate integrates smoothly with most new and existing
+==========
+﻿hibernate_in_action  
+- Seu destaque na página 24-24 | Adicionado: quarta-feira, 6 de dezembro de 2023 18:02:12
+
+Hibernate is an ambitious project that aims to be a complete solution to the problem of managing persistent data in Java. It mediates the application’s interaction with a relational database, leaving the developer free to concentrate on the business problem at hand. Hibernate is an non-intrusive solution. By this we mean you aren’t required to follow many Hibernate-specific rules and design patterns when writing your business logic and persistent classes; thus, Hibernate integrates smoothly with most new and existing applications and doesn’t require disruptive changes to the rest of the application
+==========
+﻿hibernate_in_action  
+- Sua nota na página 24 | Adicionado: quarta-feira, 6 de dezembro de 2023 18:02:41
+
+Is it really?
+==========
+﻿Advanced Organic Chemistry Reactions, Mechanisms, and Structure  
+- Seu destaque na página 7-7 | Adicionado: sexta-feira, 8 de dezembro de 2023 20:18:05
+
+terpenes, carbohydrates, proteins, polymerization and electrochemical reactions, steroids
+==========
+﻿Advanced Organic Chemistry Reactions, Mechanisms, and Structure  
+- Sua nota na página 8 | Adicionado: sexta-feira, 8 de dezembro de 2023 20:39:54
+
+Important term
+==========
+﻿Advanced Organic Chemistry Reactions, Mechanisms, and Structure  
+- Seu destaque na página 8-8 | Adicionado: sexta-feira, 8 de dezembro de 2023 20:39:54
+
+IUPAC names
+==========
+﻿Fundamentals_of_Analytical_Chemistry_9th  
+- Seu destaque na página xiv-xiv | Adicionado: terça-feira, 12 de dezembro de 2023 18:14:52
+
+Photographs and color plates taken exclusively for this book by renowned chemistry photographer Charles Winters
+==========
+﻿Fundamentals_of_Analytical_Chemistry_9th  
+- Sua nota na página xiv | Adicionado: terça-feira, 12 de dezembro de 2023 18:15:22
+
+Famous chemistry photographer
+==========
+﻿Fundamentals_of_Analytical_Chemistry_9th  
+- Seu destaque na página xiv-xiv | Adicionado: terça-feira, 12 de dezembro de 2023 18:16:00
+
+Scientific American illustration
+==========
+﻿Fundamentals_of_Analytical_Chemistry_9th  
+- Seu destaque na página xiv-xiv | Adicionado: terça-feira, 12 de dezembro de 2023 18:16:28
+
+Web Works. In most of the chapters we have included a brief Web Works feature at the end of the chapter. In these features, we ask the student to find information on the web, do online searches, visit the websites of equipment manufacturers, or solve analytical problems. These Web Works and the links given are intended to stimulate student interest in exploring the information available on the World Wide Web. The links will be updated regularly on our website, www.cengage.com/chemistry/ skoog
+==========
+﻿Fundamentals_of_Analytical_Chemistry_9th  
+- Seu destaque na página xiv-xiv | Adicionado: terça-feira, 12 de dezembro de 2023 18:16:40
+
+Web Works. In most of the chapters we have included a brief Web Works feature at the end of the chapter. In these features, we ask the student to find information on the web, do online searches, visit the websites of equipment manufacturers, or solve analytical problems. These Web Works and the links given are intended to stimulate student interest in exploring the information available on the World Wide Web. The links will be updated regularly on our website, www.cengage.com/chemistry/ skoog/fac9
+==========
+﻿Fundamentals_of_Analytical_Chemistry_9th  
+- Seu destaque na página xiv-xiv | Adicionado: terça-feira, 12 de dezembro de 2023 18:16:43
+
+Web Works. In most of the chapters we have included a brief Web Works feature at the end of the chapter. In these features, we ask the student to find information on the web, do online searches, visit the websites of equipment manufacturers, or solve analytical problems. These Web Works and the links given are intended to stimulate student interest in exploring the information available on the World Wide Web. The links will be updated regularly on our website, www.cengage.com/chemistry/ skoog/fac9
+==========
+﻿Fundamentals_of_Analytical_Chemistry_9th  
+- Seu marcador na página 5 | Adicionado: quinta-feira, 14 de dezembro de 2023 07:40:50
+
+
+==========
+﻿Fundamentals_of_Analytical_Chemistry_9th  
+- Seu marcador na página 10 | Adicionado: domingo, 17 de dezembro de 2023 08:59:49
+
+
+==========
+﻿Fundamentals_of_Analytical_Chemistry_9th  
+- Seu marcador na página 17 | Adicionado: domingo, 17 de dezembro de 2023 09:37:59
+
+
+==========
+﻿Fundamentals_of_Analytical_Chemistry_9th  
+- Seu marcador na página 11 | Adicionado: domingo, 17 de dezembro de 2023 09:38:32
+
+
+==========
+﻿Advanced Organic Chemistry Reactions, Mechanisms, and Structure  
+- Seu marcador na página 14 | Adicionado: domingo, 17 de dezembro de 2023 09:41:57
+
+
+==========
+﻿HuxleyTheDoorsOfPerception  
+- Seu destaque na página 19-19 | Adicionado: segunda-feira, 18 de dezembro de 2023 07:22:28
+
+dancing and listening to oratory -all these have served, in H. G. Wells's phrase, as Doors in the Wall. And for private, far everyday use there have always been chemical intoxicants. All the vegetable sedatives and narcotics, all the euphorics that grow on trees, the hallucinogens that ripen in berries or can be squeezed from roots -all, without exception, have been known and systematically used by human beings from time immemorial. And to these natural modifiers of consciousness modern science has added its quota of synthetics - chloral, for example, and benzedrine, the bromides and the barbiturates.
+==========
+﻿HuxleyTheDoorsOfPerception  
+- Seu destaque na página 19-19 | Adicionado: segunda-feira, 18 de dezembro de 2023 07:22:43
+
+dancing and listening to oratory -all these have served, in H. G. Wells's phrase, as Doors in the Wall. And for private, far everyday use there have always been chemical intoxicants. All the vegetable sedatives and narcotics, all the euphorics that grow on trees, the hallucinogens that ripen in berries or can be squeezed from roots -all, without exception, have been known and systematically used by human beings from time immemorial. And to these natural modifiers of consciousness modern science has added its quota of synthetics - chloral, for example, and benzedrine, the bromides and the barbiturates.
+==========
+﻿HuxleyTheDoorsOfPerception  
+- Seu destaque na página 19-19 | Adicionado: segunda-feira, 18 de dezembro de 2023 07:22:49
+
+been one of the principal appetites of the soul. Art and religion, carnivals and saturnalia, dancing and listening to oratory -all these have served, in H. G. Wells's phrase, as Doors in the Wall. And for private, far everyday use there have always been chemical intoxicants. All the vegetable sedatives and narcotics, all the euphorics that grow on trees, the hallucinogens that ripen in berries or can be squeezed from roots -all, without exception, have been known and systematically used by human beings from time immemorial. And to these natural modifiers of consciousness modern science has added its quota of synthetics - chloral, for example, and benzedrine, the bromides and the barbiturates.
+==========
+﻿HuxleyTheDoorsOfPerception  
+- Seu destaque na página 19-19 | Adicionado: segunda-feira, 18 de dezembro de 2023 07:22:55
+
+and has always been one of the principal appetites of the soul. Art and religion, carnivals and saturnalia, dancing and listening to oratory -all these have served, in H. G. Wells's phrase, as Doors in the Wall. And for private, far everyday use there have always been chemical intoxicants. All the vegetable sedatives and narcotics, all the euphorics that grow on trees, the hallucinogens that ripen in berries or can be squeezed from roots -all, without exception, have been known and systematically used by human beings from time immemorial. And to these natural modifiers of consciousness modern science has added its quota of synthetics - chloral, for example, and benzedrine, the bromides and the barbiturates.
+==========
+﻿HuxleyTheDoorsOfPerception  
+- Seu destaque na página 19-19 | Adicionado: segunda-feira, 18 de dezembro de 2023 07:23:02
+
+And for private, far everyday use there have always been chemical intoxicants. All the vegetable sedatives and narcotics, all the euphorics that grow on trees, the hallucinogens that ripen in berries or can be squeezed from roots -all, without exception, have been known and systematically used by human beings from time immemorial. And to these natural modifiers of consciousness modern science has added its quota of synthetics - chloral, for example, and benzedrine, the bromides and the barbiturates.
+==========
+﻿HuxleyTheDoorsOfPerception  
+- Seu destaque na página 24-24 | Adicionado: quinta-feira, 21 de dezembro de 2023 07:23:50
+
+To be enlightened is to be aware, always, of total reality in its immanent otherness - to be aware of it and yet to remain in a condition to survive as an animal, to think and feel as a human being, to resort whenever expedient to systematic reasoning. Our goal is to discover that we have always been where we ought to be. Unhappily we make the task exceedingly difficult for ourselves. Meanwhile, however, there are gratuitous graces in the form of partial and fleeting realizations. Under a more realistic, a less exclusively verbal system of education than ours, every Angel (in Blake's sense of that word) would be permitted as a sabbatical treat, would be urged and even, if necessary, compelled to take an occasional trip through some chemical Door in the Wall into the world of transcendental experience. If it terrified him, it would be unfortunate but probably salutary. If it brought him a brief but timeless illumination, so much the better. In either case the Angel might lose a little of the confident insolence sprouting from systematic reasoning and the consciousness of having read all the books
+==========
+﻿HuxleyTheDoorsOfPerception  
+- Sua nota na página 24 | Adicionado: quinta-feira, 21 de dezembro de 2023 07:24:09
+
+Door of perception
+==========
+﻿Vincent_Persichetti_Twentieth_Century_Ha  
+- Seu marcador na página 13 | Adicionado: sexta-feira, 22 de dezembro de 2023 07:28:12
+
+
+==========
+﻿Vincent_Persichetti_Twentieth_Century_Ha  
+- Seu marcador na página 14 | Adicionado: sexta-feira, 22 de dezembro de 2023 07:28:14
+
+
+==========
+﻿Javid Jamae, Peter Johnson - JBoss in action_ configuring the JBoss application server-Manning  
+- Seu destaque na página 6-6 | Adicionado: quinta-feira, 4 de janeiro de 2024 07:31:00
+
+it often prevents you from having to write application services from scratch. Java EE 5 defines
+==========
+﻿Javid Jamae, Peter Johnson - JBoss in action_ configuring the JBoss application server-Manning  
+- Seu destaque na página 6-6 | Adicionado: quinta-feira, 4 de janeiro de 2024 07:31:09
+
+//java.sun.com/javaee/technologies
+==========
+﻿Javid Jamae, Peter Johnson - JBoss in action_ configuring the JBoss application server-Manning  
+- Seu destaque na página 6-6 | Adicionado: quinta-feira, 4 de janeiro de 2024 07:31:28
+
+Java EE 5 defines many components and services; a list can be found on the Sun website, http://java.sun.com/javaee/technologies
+==========
+﻿Javid Jamae, Peter Johnson - JBoss in action_ configuring the JBoss application server-Manning  
+- Seu destaque na página 6-6 | Adicionado: quinta-feira, 4 de janeiro de 2024 07:31:34
+
+http://java.sun.com/javaee/technologies
+==========
+﻿Javid Jamae, Peter Johnson - JBoss in action_ configuring the JBoss application server-Manning  
+- Sua nota na página 6 | Adicionado: quinta-feira, 4 de janeiro de 2024 07:31:57
+
+Resources jboss sun
+==========
+﻿Javid Jamae, Peter Johnson - JBoss in action_ configuring the JBoss application server-Manning  
+- Seu marcador na página 6 | Adicionado: quinta-feira, 4 de janeiro de 2024 07:34:02
+
+
+==========
+﻿Javid Jamae, Peter Johnson - JBoss in action_ configuring the JBoss application server-Manning  
+- Seu destaque na página 8-8 | Adicionado: quinta-feira, 4 de janeiro de 2024 07:38:26
+
+Programmers are able not only to play around with JBoss AS but also to have a view into the JBoss AS project’s transparent development process. They can view the bugtracking database, read about designs for upcoming features, and look through the developer forums to see what the lead developers of the different product modules are discussing. They can also look through the code to understand it, to debug issues, or to learn how JBoss AS works. Best of all, they can contribute to the process on several different levels. They can report, comment on, and discuss issues with the developers who are working on them. If there’s a bug in a feature of JBoss AS that they’re using, they can patch it and submit it for acceptance into a future release. Or, if they’re particularly devoted, they can become regular contributors and take on programming tasks
+==========
+﻿Javid Jamae, Peter Johnson - JBoss in action_ configuring the JBoss application server-Manning  
+- Sua nota na página 8 | Adicionado: quinta-feira, 4 de janeiro de 2024 07:38:51
+
+Advantages of open source jbos
+==========
+﻿Javid Jamae, Peter Johnson - JBoss in action_ configuring the JBoss application server-Manning  
+- Seu destaque na página 8-8 | Adicionado: quinta-feira, 4 de janeiro de 2024 07:39:35
+
+JBoss AS isn’t the only open source application server out there. Other open source application servers include WebSphere Community Edition (CE), Geronimo, and GlassFish
+==========
+﻿Javid Jamae, Peter Johnson - JBoss in action_ configuring the JBoss application server-Manning  
+- Sua nota na página 8 | Adicionado: quinta-feira, 4 de janeiro de 2024 07:40:12
+
+Others java open source application servers
+==========
+﻿Javid Jamae, Peter Johnson - JBoss in action_ configuring the JBoss application server-Manning  
+- Seu destaque na página 9-9 | Adicionado: quinta-feira, 4 de janeiro de 2024 17:45:03
+
+JBoss AS and all of its configuration files are contained entirely under a single directory structure. If you want to uninstall JBoss AS, you delete the entire directory structure. If you want to move the installation somewhere else, you move the entire directory structure. After you have a customized configuration on one machine, it’s best to duplicate the existing configuration on other development or production machines rather than trying to manually re-create the configuration or trying to rerun the installer.
+==========
+﻿Javid Jamae, Peter Johnson - JBoss in action_ configuring the JBoss application server-Manning  
+- Sua nota na página 9 | Adicionado: quinta-feira, 4 de janeiro de 2024 17:45:29
+
+Advantage of jboss installation method
+==========
+﻿Javid Jamae, Peter Johnson - JBoss in action_ configuring the JBoss application server-Manning  
+- Seu destaque na página 9-9 | Adicionado: quinta-feira, 4 de janeiro de 2024 17:46:01
+
+we’ll discuss in section 1.3.8, one of the best things to do is to version-control the entire server structure (or at least the configuration directory). If you choose to use the installer, our recommendation is to use it to install JBoss AS on a single machine, customize the server’s configuration, version-control the configuration, and then check out the latest configuration on other machines. This helps you ensure that your server configuration is exactly the same across installations
+==========
+﻿Javid Jamae, Peter Johnson - JBoss in action_ configuring the JBoss application server-Manning  
+- Sua nota na página 9 | Adicionado: quinta-feira, 4 de janeiro de 2024 17:46:12
+
+Versioning jboss
+==========
+﻿Javid Jamae, Peter Johnson - JBoss in action_ configuring the JBoss application server-Manning  
+- Seu destaque na página 11-11 | Adicionado: quinta-feira, 4 de janeiro de 2024 17:48:57
+
+JBoss runs on top of a Java Virtual Machine (JVM), but some things are done better with native operating system functionality. For example, web pages can generally be served with better performance when using native libraries. Running an application as an operating-system service is also more easily accomplished with native support. For these things, JBoss provides a supplementary library called JBoss Native that can be downloaded and unzipped into your application server’s bin directory. You can download JBoss Native from http://labs.jboss.com/jbossweb/downloads
+==========
+﻿Javid Jamae, Peter Johnson - JBoss in action_ configuring the JBoss application server-Manning  
+- Sua nota na página 11 | Adicionado: quinta-feira, 4 de janeiro de 2024 17:49:24
+
+Jboss performance with native librarie
+==========
+﻿Memórias Póstumas de Brás Cubas - Coletânea: Genialidades de Machado de Assis (Machado de Assis)
+- Seu destaque ou posição 91-94 | Adicionado: segunda-feira, 8 de janeiro de 2024 07:19:28
+
+vida estrebuchava-me no peito, com uns ímpetos de vaga marinha, esvaía-se-me a consciência, eu descia à imobilidade física e moral, e o corpo fazia-se-me planta, e pedra e lodo, e coisa nenhuma.
+==========
+﻿Memórias Póstumas de Brás Cubas - Coletânea: Genialidades de Machado de Assis (Machado de Assis)
+- Seu destaque ou posição 91-94 | Adicionado: segunda-feira, 8 de janeiro de 2024 07:19:43
+
+vida estrebuchava-me no peito, com uns ímpetos de vaga marinha, esvaía-se-me a consciência, eu descia à imobilidade física e moral, e o corpo fazia-se-me planta, e pedra e lodo, e coisa nenhuma.
+==========
+﻿Memórias Póstumas de Brás Cubas - Coletânea: Genialidades de Machado de Assis (Machado de Assis)
+- Seu destaque ou posição 91-94 | Adicionado: segunda-feira, 8 de janeiro de 2024 07:19:50
+
+vida estrebuchava-me no peito, com uns ímpetos de vaga marinha, esvaía-se-me a consciência, eu descia à imobilidade física e moral, e o corpo fazia-se-me planta, e pedra e lodo, e coisa nenhuma.
+==========
+﻿Memórias Póstumas de Brás Cubas - Coletânea: Genialidades de Machado de Assis (Machado de Assis)
+- Seu destaque ou posição 91-94 | Adicionado: segunda-feira, 8 de janeiro de 2024 07:19:55
+
+deliciosa. A vida estrebuchava-me no peito, com uns ímpetos de vaga marinha, esvaía-se-me a consciência, eu descia à imobilidade física e moral, e o corpo fazia-se-me planta, e pedra e lodo, e coisa nenhuma.
+==========
+﻿Memórias Póstumas de Brás Cubas - Coletânea: Genialidades de Machado de Assis (Machado de Assis)
+- Seu destaque ou posição 91-94 | Adicionado: segunda-feira, 8 de janeiro de 2024 07:20:00
+
+A vida estrebuchava-me no peito, com uns ímpetos de vaga marinha, esvaía-se-me a consciência, eu descia à imobilidade física e moral, e o corpo fazia-se-me planta, e pedra e lodo, e coisa nenhuma.
+==========
+﻿Javid Jamae, Peter Johnson - JBoss in action_ configuring the JBoss application server-Manning  
+- Seu destaque na página 14-14 | Adicionado: segunda-feira, 8 de janeiro de 2024 07:59:49
+
+This is because the client libraries are generally for remote access to a server. In many web applications, the web-tier code and the EJB code are often collocated in the same server and share the same set of server libraries. Web browsers can communicate with the web tier over HTTP and don’t need any of the client libraries packaged with JBoss AS. The web tier can then communicate with the EJB server making local calls because they’re both running in the same JVM instance
+==========
+﻿Javid Jamae, Peter Johnson - JBoss in action_ configuring the JBoss application server-Manning  
+- Seu destaque na página 15-15 | Adicionado: terça-feira, 9 de janeiro de 2024 07:18:07
+
+These have to be downloaded from the jboss.com website as referenced at the end of this chapter. The docs directory contains the following: ■ Document Type Definition (DTD) files and XML schemas for the configuration files that JBoss AS uses ■ Configuration examples for various J2EE and JBoss AS services ■ Licenses for various libraries included in JBoss AS ■ Unit test results from the tests run against the server for the particular
+==========
+﻿Javid Jamae, Peter Johnson - JBoss in action_ configuring the JBoss application server-Manning  
+- Seu destaque na página 15-15 | Adicionado: terça-feira, 9 de janeiro de 2024 07:18:12
+
+These have to be downloaded from the jboss.com website as referenced at the end of this chapter. The docs directory contains the following: ■ Document Type Definition (DTD) files and XML schemas for the configuration files that JBoss AS uses ■ Configuration examples for various J2EE and JBoss AS services ■ Licenses for various libraries included in JBoss AS ■ Unit test results from the tests run against the server for the particular
+==========
+﻿Javid Jamae, Peter Johnson - JBoss in action_ configuring the JBoss application server-Manning  
+- Seu destaque na página 15-15 | Adicionado: terça-feira, 9 de janeiro de 2024 07:18:18
+
+These have to be downloaded from the jboss.com website as referenced at the end of this chapter. The docs directory contains the following: ■ Document Type Definition (DTD) files and XML schemas for the configuration files that JBoss AS uses ■ Configuration examples for various J2EE and JBoss AS services ■ Licenses for various libraries included in JBoss AS ■ Unit test results from the tests run against the server for the particular
+==========
+﻿Javid Jamae, Peter Johnson - JBoss in action_ configuring the JBoss application server-Manning  
+- Seu destaque na página 15-15 | Adicionado: terça-feira, 9 de janeiro de 2024 07:18:29
+
+These have to be downloaded from the jboss.com website as referenced at the end of this chapter. The docs directory contains the following: ■ Document Type Definition (DTD) files and XML schemas for the configuration files that JBoss AS uses ■ Configuration examples for various J2EE and JBoss AS services ■ Licenses for various libraries included in JBoss AS ■ Unit test results from the tests run against the server for the particular
+==========
+﻿Javid Jamae, Peter Johnson - JBoss in action_ configuring the JBoss application server-Manning  
+- Seu destaque na página 18-18 | Adicionado: terça-feira, 9 de janeiro de 2024 07:25:03
+
+THE DEPLOY DIRECTORY The deploy directory is where applications and services are deployed. This is where you can deploy any application packages—for example, JAR, Web Archive (WAR), or Enterprise Archive (EAR)—that you create. It also means that many services that are running in your server configuration are deployed in this directory. Deploying applications into JBoss AS involves copying them into the deploy directory.
+==========
+﻿Javid Jamae, Peter Johnson - JBoss in action_ configuring the JBoss application server-Manning  
+- Seu destaque na página 18-18 | Adicionado: terça-feira, 9 de janeiro de 2024 07:25:09
+
+THE DEPLOY DIRECTORY The deploy directory is where applications and services are deployed. This is where you can deploy any application packages—for example, JAR, Web Archive (WAR), or Enterprise Archive (EAR)—that you create. It also means that many services that are running in your server configuration are deployed in this directory. Deploying applications into JBoss AS involves copying them into the deploy directory. JBoss AS detects deployments made to this directory while the server is running and
+==========
+﻿Javid Jamae, Peter Johnson - JBoss in action_ configuring the JBoss application server-Manning  
+- Seu destaque na página 18-18 | Adicionado: terça-feira, 9 de janeiro de 2024 07:25:15
+
+THE DEPLOY DIRECTORY The deploy directory is where applications and services are deployed. This is where you can deploy any application packages—for example, JAR, Web Archive (WAR), or Enterprise Archive (EAR)—that you create. It also means that many services that are running in your server configuration are deployed in this directory. Deploying applications into JBoss AS involves copying them into the deploy directory. JBoss AS detects deployments made to this directory while the server is running and dynamically deploys the applications to the server. We discuss this further in chapter
+==========
+﻿Javid Jamae, Peter Johnson - JBoss in action_ configuring the JBoss application server-Manning  
+- Seu destaque na página 20-20 | Adicionado: terça-feira, 9 de janeiro de 2024 07:31:35
+
+startup time on JBoss 5.0.0 CR1 was about 54 seconds on a dual-core Intel machine with 2 gigs of RAM that was running Windows. The startup time for JBoss 4.2 was less than 20 seconds. We anticipate that the startup time will improve significantly with either the GA version of JBoss
+==========
+﻿Javid Jamae, Peter Johnson - JBoss in action_ configuring the JBoss application server-Manning  
+- Seu destaque na página 20-20 | Adicionado: terça-feira, 9 de janeiro de 2024 07:31:50
+
+startup time on JBoss 5.0.0 CR1 was about 54 seconds on a dual-core Intel machine with 2 gigs of RAM that was running Windows. The startup time for JBoss 4.2 was less than 20 seconds. We anticipate that the startup time will improve significantly with either the GA version of JBoss
+==========
+﻿Javid Jamae, Peter Johnson - JBoss in action_ configuring the JBoss application server-Manning  
+- Seu destaque na página 20-20 | Adicionado: terça-feira, 9 de janeiro de 2024 07:31:57
+
+The startup time on JBoss 5.0.0 CR1 was about 54 seconds on a dual-core Intel machine with 2 gigs of RAM that was running Windows. The startup time for JBoss 4.2 was less than 20 seconds. We anticipate that the startup time will improve significantly with either the GA version of JBoss
+==========
+﻿Javid Jamae, Peter Johnson - JBoss in action_ configuring the JBoss application server-Manning  
+- Seu destaque na página 20-20 | Adicionado: terça-feira, 9 de janeiro de 2024 07:32:02
+
+The startup time on JBoss 5.0.0 CR1 was about 54 seconds on a dual-core Intel machine with 2 gigs of RAM that was running Windows. The startup time for JBoss 4.2 was less than 20 seconds. We anticipate that the startup time will improve significantly with either the GA version of JBoss
+==========
+﻿hibernate_in_action  
+- Seu destaque na página 33-33 | Adicionado: quinta-feira, 11 de janeiro de 2024 17:53:46
+
+inheritance into the object model, we have the possibility of polymorphism. The User class has an association to the BillingDetails superclass. This is a polymorphic association. At
+==========
+﻿hibernate_in_action  
+- Seu destaque na página 33-33 | Adicionado: quinta-feira, 11 de janeiro de 2024 17:53:51
+
+The User class has an association to the BillingDetails superclass. This is a polymorphic association. At runtime, a User object might be associated with an instance of any of the subclasses of BillingDetails. Similarly, we’d like to be able to write queries that refer to the BillingDetails class and have
+==========
+﻿hibernate_in_action  
+- Seu destaque na página 33-33 | Adicionado: quinta-feira, 11 de janeiro de 2024 17:53:56
+
+The User class has an association to the BillingDetails superclass. This is a polymorphic association. At runtime, a User object might be associated with an instance of any of the subclasses of BillingDetails. Similarly, we’d like to be able to write queries that refer to the BillingDetails class and have the query return instances of its subclasses. This feature is called polymorphic queries
+==========
+﻿hibernate_in_action  
+- Sua nota na página 33 | Adicionado: quinta-feira, 11 de janeiro de 2024 17:54:11
+
+Polymorphic queries
+==========
+﻿The Art of Memory Forensics - Detecting Malware and Threats in Windows, Linux, and Mac Memory (2014)  
+- Seu destaque na página xxii-xxii | Adicionado: segunda-feira, 15 de janeiro de 2024 07:29:50
+
+Keep an eye on our training website (http://www.memoryanalysis.net) for upcoming announcements regarding the following
+==========
+﻿The Art of Memory Forensics - Detecting Malware and Threats in Windows, Linux, and Mac Memory (2014)  
+- Sua nota na página xxii | Adicionado: segunda-feira, 15 de janeiro de 2024 07:30:10
+
+Volatility training
+==========
+﻿Memórias Póstumas de Brás Cubas - Coletânea: Genialidades de Machado de Assis (Machado de Assis)
+- Seu destaque na página 1 | posição 111-111 | Adicionado: terça-feira, 16 de janeiro de 2024 07:24:50
+
+arruído, do cartaz, do foguete de lágrimas. Talvez os modestos me argúam
+==========
+﻿Memórias Póstumas de Brás Cubas - Coletânea: Genialidades de Machado de Assis (Machado de Assis)
+- Seu destaque na página 3 | posição 136-137 | Adicionado: terça-feira, 16 de janeiro de 2024 07:27:56
+
+varão digno e leal como poucos. Tinha, é verdade, uns fumos de pacholice;
+==========
+﻿Javid Jamae, Peter Johnson - JBoss in action_ configuring the JBoss application server-Manning  
+- Seu destaque na página 26-26 | Adicionado: terça-feira, 16 de janeiro de 2024 17:33:43
+
+When you copy an application into the server as an exploded directory structure, it’s possible for the deployment descriptor to get copied before all the application resources are copied. This can be bad because JBoss AS triggers deployments based on detection of or updates to the deployment descriptor; so, the server may try to deploy an incomplete application. On some OSs, you can avoid this by doing a move rather than a copy because a move is treated as an atomic operation. That means that none of the files is made available until all of them are available. If the server does try to deploy a partially-copied application, then you can redeploy it by updating the appropriate deployment descriptor as we discuss in chapter 3
+==========
+﻿Javid Jamae, Peter Johnson - JBoss in action_ configuring the JBoss application server-Manning  
+- Sua nota na página 26 | Adicionado: terça-feira, 16 de janeiro de 2024 17:34:00
+
+Move is atomic
+==========
+﻿Javid Jamae, Peter Johnson - JBoss in action_ configuring the JBoss application server-Manning  
+- Seu destaque na página 27-27 | Adicionado: terça-feira, 16 de janeiro de 2024 17:34:11
+
+You then learned how to install JBoss. We started by discussing what you needed to obtain before installation, and then explained how to do an installation using both the standard binary distribution and the installer. We compared the tradeoffs between these two installation processes and gave recommendations on the various installation options in the installer
+==========
+﻿Javid Jamae, Peter Johnson - JBoss in action_ configuring the JBoss application server-Manning  
+- Sua nota na página 27 | Adicionado: terça-feira, 16 de janeiro de 2024 17:34:22
+
+Move is atomic
+==========
+﻿Memórias Póstumas de Brás Cubas - Coletânea: Genialidades de Machado de Assis (Machado de Assis)
+- Seu destaque na página 7 | posição 181-182 | Adicionado: quarta-feira, 17 de janeiro de 2024 09:44:53
+
+me trouxe à eternidade. Sabem já que morri numa sexta-feira, dia aziago,
+==========
+﻿Memórias Póstumas de Brás Cubas - Coletânea: Genialidades de Machado de Assis (Machado de Assis)
+- Seu destaque na página 7 | posição 191-191 | Adicionado: quarta-feira, 17 de janeiro de 2024 09:46:18
+
+muitos
+==========
+﻿hibernate_in_action  
+- Seu destaque na página 35-35 | Adicionado: quinta-feira, 25 de janeiro de 2024 07:47:38
+
+Object-oriented languages represent associations using object references and collections of object references. In the relational world, an association is represented as a foreign key column, with copies of key
+==========
+﻿hibernate_in_action  
+- Seu destaque na página 35-35 | Adicionado: quinta-feira, 25 de janeiro de 2024 07:47:43
+
+Object-oriented languages represent associations using object references and collections of object references. In the relational world, an association is represented as a foreign key column, with copies of key values in several tables. There are subtle differences between the two representations
+==========
+﻿Javid Jamae, Peter Johnson - JBoss in action_ configuring the JBoss application server-Manning  
+- Seu destaque na página 30-30 | Adicionado: segunda-feira, 29 de janeiro de 2024 17:49:43
+
+This new microcontainer architecture has several benefits over the old JMX kernel architecture.First, it’s much lighter because it doesn’t have to support JMX, allowing you to build even smaller minimal configurations.Second, services built on top of the microcontainer can be deployed standalone, within another application server such as BEA’s WebLogic Server, or even within a web server such as Tomcat. For example, the EJB3 container could be deployed on the Tomcat web server because the EJB3 container is based on the microcontainer.
+==========
+﻿Javid Jamae, Peter Johnson - JBoss in action_ configuring the JBoss application server-Manning  
+- Sua nota na página 30 | Adicionado: segunda-feira, 29 de janeiro de 2024 17:50:22
+
+Migrating application to another EAP
+==========
+﻿security-analysis-benjamin-graham-6th-edition-pdf-february-24-2010-12-08-am-3-0-meg  
+- Seu destaque na página xiv-xiv | Adicionado: terça-feira, 30 de janeiro de 2024 07:32:19
+
+recent years, some people have attempted to expand the definition of an investment to include any asset that has recently—or might soon—appreciate in price: art, rare stamps, or a wine collection. Because these items have no ascertainable fundamental value, generate no present or future cash flow, and depend for their value entirely on buyer whim, they clearly constitute speculations rather than investments
+==========
+﻿security-analysis-benjamin-graham-6th-edition-pdf-february-24-2010-12-08-am-3-0-meg  
+- Seu destaque na página xiv-xiv | Adicionado: terça-feira, 30 de janeiro de 2024 07:32:25
+
+recent years, some people have attempted to expand the definition of an investment to include any asset that has recently—or might soon—appreciate in price: art, rare stamps, or a wine collection. Because these items have no ascertainable fundamental value, generate no present or future cash flow, and depend for their value entirely on buyer whim, they clearly constitute speculations rather than investments
+==========
+﻿security-analysis-benjamin-graham-6th-edition-pdf-february-24-2010-12-08-am-3-0-meg  
+- Seu destaque na página xiv-xiv | Adicionado: terça-feira, 30 de janeiro de 2024 07:32:30
+
+recent years, some people have attempted to expand the definition of an investment to include any asset that has recently—or might soon—appreciate in price: art, rare stamps, or a wine collection. Because these items have no ascertainable fundamental value, generate no present or future cash flow, and depend for their value entirely on buyer whim, they clearly constitute speculations rather than investments
+==========
+﻿security-analysis-benjamin-graham-6th-edition-pdf-february-24-2010-12-08-am-3-0-meg  
+- Seu destaque na página xiv-xiv | Adicionado: terça-feira, 30 de janeiro de 2024 07:32:35
+
+recent years, some people have attempted to expand the definition of an investment to include any asset that has recently—or might soon—appreciate in price: art, rare stamps, or a wine collection. Because these items have no ascertainable fundamental value, generate no present or future cash flow, and depend for their value entirely on buyer whim, they clearly constitute speculations rather than investments
+==========
+﻿security-analysis-benjamin-graham-6th-edition-pdf-february-24-2010-12-08-am-3-0-meg  
+- Seu destaque na página xiv-xiv | Adicionado: terça-feira, 30 de janeiro de 2024 07:32:43
+
+In recent years, some people have attempted to expand the definition of an investment to include any asset that has recently—or might soon—appreciate in price: art, rare stamps, or a wine collection. Because these items have no ascertainable fundamental value, generate no present or future cash flow, and depend for their value entirely on buyer whim, they clearly constitute speculations rather than investments
+==========
+﻿security-analysis-benjamin-graham-6th-edition-pdf-february-24-2010-12-08-am-3-0-meg  
+- Seu destaque na página xvii-xvii | Adicionado: terça-feira, 30 de janeiro de 2024 17:33:35
+
+In 1992, Tweedy, Browne Company LLC, a well-known value investment firm, published a compilation of 44 research studies entitled, “What Has Worked in Investing
+==========
+﻿security-analysis-benjamin-graham-6th-edition-pdf-february-24-2010-12-08-am-3-0-meg  
+- Sua nota na página xvii | Adicionado: terça-feira, 30 de janeiro de 2024 17:33:54
+
+Research on investing
+==========
+﻿security-analysis-benjamin-graham-6th-edition-pdf-february-24-2010-12-08-am-3-0-meg  
+- Seu destaque na página xviii-xviii | Adicionado: terça-feira, 30 de janeiro de 2024 17:37:55
+
+While formulas such as the classic “net working capital” test are necessary to support an investment analysis, value investing is not a paintby-numbers exercise. 6 Skepticism and judgment are always required. For one thing, not all elements affecting value are captured in a company’s financial statements—inventories can grow obsolete and receivables uncollectible; liabilities are sometimes unrecorded and property values over- or understated.Second, valuation is an art, not a science
+==========
+﻿security-analysis-benjamin-graham-6th-edition-pdf-february-24-2010-12-08-am-3-0-meg  
+- Sua nota na página xviii | Adicionado: terça-feira, 30 de janeiro de 2024 17:38:35
+
+Value investing is an art not a science
+==========
+﻿security-analysis-benjamin-graham-6th-edition-pdf-february-24-2010-12-08-am-3-0-meg  
+- Seu destaque na página xxii-xxii | Adicionado: terça-feira, 6 de fevereiro de 2024 07:16:40
+
+Another reason that greater competition may not hinder today’s value investors is the broader and more diverse investment landscape in which they operate. Graham faced a limited lineup of publicly traded U.S. equity and debt securities.Today, there are many thousands of publicly traded stocks in the United States alone, and many tens of thousands worldwide, plus thousands of corporate bonds and asset-backed debt securities. Previously illiquid assets, such as bank loans, now trade regularly. Investors may also choose from an almost limitless number of derivative instruments, including customized contracts designed to meet any need or hunch
+==========
+﻿security-analysis-benjamin-graham-6th-edition-pdf-february-24-2010-12-08-am-3-0-meg  
+- Seu destaque na página xxiv-xxiv | Adicionado: terça-feira, 6 de fevereiro de 2024 07:19:50
+
+For example, the debt of Enron, perhaps the world’s most stigmatized company after an accounting scandal forced it into bankruptcy in 2001, traded as low as 10 cents on the dollar of claim; ultimate recoveries are expected to be six times that amount.Similarly, companies with tobacco or asbestos exposure have in recent years periodically come under severe selling pressure due to the uncertainties surrounding litigation and the resultant risk of corporate financial distress. More generally, companies that disappoint or surprise investors with lower-than-expected results, sudden management changes, accounting problems, or ratings downgrades are more likely than consistently strong performers to be sources of opportunity. When bargains are scarce, value investors must be patient; compromising
+==========
+﻿security-analysis-benjamin-graham-6th-edition-pdf-february-24-2010-12-08-am-3-0-meg  
+- Seu destaque na página xxiv-xxiv | Adicionado: terça-feira, 6 de fevereiro de 2024 07:19:59
+
+For example, the debt of Enron, perhaps the world’s most stigmatized company after an accounting scandal forced it into bankruptcy in 2001, traded as low as 10 cents on the dollar of claim; ultimate recoveries are expected to be six times that amount.Similarly, companies with tobacco or asbestos exposure have in recent years periodically come under severe selling pressure due to the uncertainties surrounding litigation and the resultant risk of corporate financial distress. More generally, companies that disappoint or surprise investors with lower-than-expected results, sudden management changes, accounting problems, or ratings downgrades are more likely
+==========
+﻿security-analysis-benjamin-graham-6th-edition-pdf-february-24-2010-12-08-am-3-0-meg  
+- Seu destaque na página xxiv-xxiv | Adicionado: terça-feira, 6 de fevereiro de 2024 07:20:04
+
+For example, the debt of Enron, perhaps the world’s most stigmatized company after an accounting scandal forced it into bankruptcy in 2001, traded as low as 10 cents on the dollar of claim; ultimate recoveries are expected to be six times that amount.Similarly, companies with tobacco or asbestos exposure have in recent years periodically come under severe selling pressure due to the uncertainties surrounding litigation and the resultant risk of corporate financial distress. More generally, companies that disappoint or surprise investors with lower-than-expected results, sudden management changes, accounting problems, or ratings downgrades are more likely than consistently strong performers to be sources of opportunity.
+==========
+﻿security-analysis-benjamin-graham-6th-edition-pdf-february-24-2010-12-08-am-3-0-meg  
+- Seu destaque na página xxvi-xxvi | Adicionado: terça-feira, 6 de fevereiro de 2024 17:36:31
+
+Similarly, the pair never addressed how to analyze the purchase of an office building or apartment complex. Real estate bargains come about for the same reasons as securities bargains—an urgent need for cash, inability to perform proper analysis, a bearish macro view, or investor disfavor or neglect. In a bad real estate climate, tighter lending standards can cause even healthy properties to sell at distressed prices. Graham and Dodd’s principles—such as the stability of cash flow, sufficiency of return, and analysis of downside risk—allow us to identify real estate investments with a margin of safety in any market environment
+==========
+﻿security-analysis-benjamin-graham-6th-edition-pdf-february-24-2010-12-08-am-3-0-meg  
+- Seu destaque na página xxvi-xxvi | Adicionado: terça-feira, 6 de fevereiro de 2024 17:39:26
+
+Black-Scholes model
+==========
+﻿security-analysis-benjamin-graham-6th-edition-pdf-february-24-2010-12-08-am-3-0-meg  
+- Seu destaque na página xxvii-xxvii | Adicionado: terça-feira, 6 de fevereiro de 2024 17:41:01
+
+Instead, institutional investing has evolved into a short-term performance derby, which makes it difficult for institutional managers to take contrarian or long-term positions.Indeed, rather than standing apart from the crowd and possibly suffering disappointing short-term results that could cause clients to withdraw capital, institutional investors often prefer the safe haven of assured mediocre performance that can be achieved only by closely following the herd.
+==========
+﻿security-analysis-benjamin-graham-6th-edition-pdf-february-24-2010-12-08-am-3-0-meg  
+- Sua nota na página xxvii | Adicionado: terça-feira, 6 de fevereiro de 2024 17:41:29
+
+Institutional investing
+==========
+﻿hibernate_in_action  
+- Seu marcador na página 39 | Adicionado: quarta-feira, 7 de fevereiro de 2024 07:17:20
+
+
+==========
+﻿security-analysis-benjamin-graham-6th-edition-pdf-february-24-2010-12-08-am-3-0-meg  
+- Seu destaque na página xxvii-xxvii | Adicionado: quinta-feira, 8 de fevereiro de 2024 07:15:34
+
+Pioneering Portfolio Management, written in 2000 by David Swensen
+==========
+﻿security-analysis-benjamin-graham-6th-edition-pdf-february-24-2010-12-08-am-3-0-meg  
+- Seu destaque na página xxvii-xxvii | Adicionado: quinta-feira, 8 de fevereiro de 2024 07:15:41
+
+Pioneering Portfolio Management, written in 2000 by David Swensen,
+==========
+﻿security-analysis-benjamin-graham-6th-edition-pdf-february-24-2010-12-08-am-3-0-meg  
+- Sua nota na página xxvii | Adicionado: quinta-feira, 8 de fevereiro de 2024 07:15:55
+
+Swensen book
+==========
+﻿security-analysis-benjamin-graham-6th-edition-pdf-february-24-2010-12-08-am-3-0-meg  
+- Seu destaque na página xxxi-xxxi | Adicionado: quinta-feira, 8 de fevereiro de 2024 17:50:50
+
+Oddly enough, despite 75 years of success achieved by value investors, one group of observers largely ignores or dismisses this discipline: academics. Academics tend to create elegant theories that purport to explain the real world but in fact oversimplify it. One such theory, the Efficient Market Hypothesis (EMH), holds that security prices always and immediately reflect all available information, an idea deeply at odds with Graham and Dodd’s notion that there is great value to fundamental security analysis. The Capital Asset Pricing Model (CAPM) relates risk to return but always mistakes volatility, or beta, for risk. Modern Portfolio Theory (MPT) applauds the benefits of diversification in constructing an
+==========
+﻿security-analysis-benjamin-graham-6th-edition-pdf-february-24-2010-12-08-am-3-0-meg  
+- Sua nota na página xxxi | Adicionado: quinta-feira, 8 de fevereiro de 2024 17:51:03
+
+Common theories
+==========
+﻿security-analysis-benjamin-graham-6th-edition-pdf-february-24-2010-12-08-am-3-0-meg  
+- Seu destaque na página xxxiii-xxxiii | Adicionado: sexta-feira, 9 de fevereiro de 2024 07:18:09
+
+The hysterical tenor is exacerbated at every turn. For example, CNBC frequently uses a formatted screen that constantly updates the level of the major market indexes against a digital clock. Not only is the time displayed in hours, minutes, and seconds but in completely useless hundredths of seconds, the numbers flashing by so rapidly (like tenths of a cent on the gas pump) as to be completely unreadable
+==========
+﻿security-analysis-benjamin-graham-6th-edition-pdf-february-24-2010-12-08-am-3-0-meg  
+- Sua nota na página xxxiii | Adicionado: sexta-feira, 9 de fevereiro de 2024 07:18:23
+
+Stock market culture
+==========
+﻿Javid Jamae, Peter Johnson - JBoss in action_ configuring the JBoss application server-Manning  
+- Seu marcador na página 34 | Adicionado: sexta-feira, 9 de fevereiro de 2024 07:27:15
+
+
+==========
+﻿JSF_in_action  
+- Seu destaque na página 36-36 | Adicionado: terça-feira, 20 de fevereiro de 2024 17:40:56
+
+A popular term in the pre-Web days was Rapid Application Development (RAD). The main goal of RAD was to enable you to build powerful applications with a set of reusable components
+==========
+﻿JSF_in_action  
+- Sua nota na página 36 | Adicionado: terça-feira, 20 de fevereiro de 2024 17:41:11
+
+RAD concept
+==========
+﻿JSF_in_action  
+- Seu destaque na página 43-43 | Adicionado: quarta-feira, 21 de fevereiro de 2024 07:21:14
+
+HTTP is a simple protocol—it’s based on text headers. A client sends a request to a server, and the server sends a response back to the browser with the requested document attached. The server is dumb4—it doesn’t remember anything about the client if another document is requested. This lack of memory means that HTTP is a “stateless” protocol; it maintains no information about the client between requests
+==========
+﻿JSF_in_action  
+- Sua nota na página 43 | Adicionado: quarta-feira, 21 de fevereiro de 2024 07:21:44
+
+Http does not keepi information
+==========
+﻿JSF_in_action  
+- Seu destaque na página 44-44 | Adicionado: quinta-feira, 22 de fevereiro de 2024 13:16:45
+
+That’s what the Java Servlet application programming interface (API) is all about: providing an object-oriented view of the world that makes it easier to develop web applications.5 HTTP requests and responses are encapsulated as objects, and you get access to input and output streams so that you can read a user’s response and write dynamic content. Requests are handled by servlets—objects that handle a particular set of HTTP requests
+==========
+﻿JSF_in_action  
+- Sua nota na página 44 | Adicionado: quinta-feira, 22 de fevereiro de 2024 13:17:02
+
+Java servlet
+==========
+﻿JSF_in_action  
+- Seu destaque na página 59-59 | Adicionado: segunda-feira, 4 de março de 2024 17:35:44
+
+The <h:message> tag is for the HtmlMessage component, which displays validation and conversion errors for a specific component. The for attribute tells it to display errors for the control with the identifier helloInput, which is the identifier for the text box on the page
+==========
+﻿JSF_in_action  
+- Sua nota na página 59 | Adicionado: segunda-feira, 4 de março de 2024 17:35:54
+
+Jsf debugging
+==========
+﻿Javid Jamae, Peter Johnson - JBoss in action_ configuring the JBoss application server-Manning  
+- Seu marcador na página 37 | Adicionado: terça-feira, 5 de março de 2024 07:24:28
+
+
+==========
+﻿Javid Jamae, Peter Johnson - JBoss in action_ configuring the JBoss application server-Manning  
+- Seu destaque na página 42-42 | Adicionado: quarta-feira, 6 de março de 2024 07:31:05
+
+the twiddle utility If you’re anti-WIMP
+==========
+﻿Javid Jamae, Peter Johnson - JBoss in action_ configuring the JBoss application server-Manning  
+- Seu destaque na página 42-42 | Adicionado: quarta-feira, 6 de março de 2024 07:31:13
+
+-WIMP (
+==========
+﻿Javid Jamae, Peter Johnson - JBoss in action_ configuring the JBoss application server-Manning  
+- Seu destaque na página 42-42 | Adicionado: quarta-feira, 6 de março de 2024 07:31:25
+
+anti-WIMP (windows, icons, menus, pointers
+==========
+﻿Javid Jamae, Peter Johnson - JBoss in action_ configuring the JBoss application server-Manning  
+- Sua nota na página 42 | Adicionado: quarta-feira, 6 de março de 2024 07:31:39
+
+I am anti WIMP
+==========
+﻿Javid Jamae, Peter Johnson - JBoss in action_ configuring the JBoss application server-Manning  
+- Seu destaque na página 43-43 | Adicionado: quarta-feira, 6 de março de 2024 07:33:33
+
+One of the best features of twiddle is that it’s open source. Because the source is accessible, you can use it as an example of how to programmatically access MBeans. The main class can be found in the source distribution at console/src/main/org/ jboss/console/twiddle/Twiddle.java, and a class for each command can be found in the console/src/main/org/jboss/console/twiddle/command directory. These classes illustrate how you can write your own programs to manipulate JMX MBeans. Of particular interest is the method Twiddle.createMBeanServerConnection, which shows how to access the MBean server, and the execute method in each of the command classes, such as GetCommand, which illustrates how to manipulate MBeans
+==========
+﻿Javid Jamae, Peter Johnson - JBoss in action_ configuring the JBoss application server-Manning  
+- Sua nota na página 43 | Adicionado: quarta-feira, 6 de março de 2024 07:33:49
+
+Advntages of twiddle
+==========
+﻿Javid Jamae, Peter Johnson - JBoss in action_ configuring the JBoss application server-Manning  
+- Seu destaque na página 48-48 | Adicionado: quarta-feira, 6 de março de 2024 07:41:45
+
+entering the following at a command prompt (all on one line): twiddle invoke "jboss.system:service
+==========
+﻿Javid Jamae, Peter Johnson - JBoss in action_ configuring the JBoss application server-Manning  
+- Seu destaque na página 48-48 | Adicionado: quarta-feira, 6 de março de 2024 07:41:50
+
+twiddle invoke "jboss.system:service=MainDeployer" ➥ deploy /some/path/myapp.ear
+==========
+﻿Javid Jamae, Peter Johnson - JBoss in action_ configuring the JBoss application server-Manning  
+- Sua nota na página 48 | Adicionado: quarta-feira, 6 de março de 2024 07:42:08
+
+Deploy ear with twiddle
+==========
+﻿Javid Jamae, Peter Johnson - JBoss in action_ configuring the JBoss application server-Manning  
+- Seu marcador na página 49 | Adicionado: quarta-feira, 6 de março de 2024 07:45:14
+
+
+==========
+﻿Javid Jamae, Peter Johnson - JBoss in action_ configuring the JBoss application server-Manning  
+- Seu marcador na página 51 | Adicionado: quarta-feira, 13 de março de 2024 07:31:08
+
+
+==========
+﻿Javid Jamae, Peter Johnson - JBoss in action_ configuring the JBoss application server-Manning  
+- Seu destaque na página 52-52 | Adicionado: quarta-feira, 13 de março de 2024 07:31:57
+
+Conveniently, the *. last archive is deployed last. If you have an application that needs to be deployed after everything else is deployed, create a directory named, for example, doit.last in the server/xxx/deploy directory and place your application into that directory. Then
+==========
+﻿Javid Jamae, Peter Johnson - JBoss in action_ configuring the JBoss application server-Manning  
+- Seu destaque na página 52-52 | Adicionado: quarta-feira, 13 de março de 2024 07:32:00
+
+Conveniently, the *. last archive is deployed last. If you have an application that needs to be deployed after everything else is deployed, create a directory named, for example, doit.last in the server/xxx/deploy directory and place your application into that directory. Then
+==========
+﻿Javid Jamae, Peter Johnson - JBoss in action_ configuring the JBoss application server-Manning  
+- Seu destaque na página 52-52 | Adicionado: quarta-feira, 13 de março de 2024 07:32:07
+
+Conveniently, the *. last archive is deployed last. If you have an application that needs to be deployed after everything else is deployed, create a directory named, for example, doit.last in the server/xxx/deploy directory and place your application into that directory. Then you can rest assured that all the other applications are deployed before your application
+==========
+﻿Javid Jamae, Peter Johnson - JBoss in action_ configuring the JBoss application server-Manning  
+- Sua nota na página 52 | Adicionado: quarta-feira, 13 de março de 2024 07:32:25
+
+Deploying last
+==========
+﻿Javid Jamae, Peter Johnson - JBoss in action_ configuring the JBoss application server-Manning  
+- Seu destaque na página 52-52 | Adicionado: quarta-feira, 13 de março de 2024 07:33:02
+
+Russian doll is a set of dolls (usually wooden) of decreasing size that can be nested one inside another. This principle, when used in design, is known as the matryoshka principle. The nesting of packages is similar in concept
+==========
+﻿Javid Jamae, Peter Johnson - JBoss in action_ configuring the JBoss application server-Manning  
+- Seu destaque na página 52-52 | Adicionado: quarta-feira, 13 de março de 2024 07:33:10
+
+A Russian doll is a set of dolls (usually wooden) of decreasing size that can be nested one inside another. This principle, when used in design, is known as the matryoshka principle. The nesting of packages is similar in concept
+==========
+﻿Javid Jamae, Peter Johnson - JBoss in action_ configuring the JBoss application server-Manning  
+- Sua nota na página 52 | Adicionado: quarta-feira, 13 de março de 2024 07:33:26
+
+Russian doll style
+==========
+﻿Javid Jamae, Peter Johnson - JBoss in action_ configuring the JBoss application server-Manning  
+- Seu destaque na página 58-58 | Adicionado: quinta-feira, 14 de março de 2024 07:40:18
+
+three.jar is in the server/xxx/lib directory and contains version 1 of class C, whereas EAR files one.ear and two.ear are in the server/xxx/deploy directory, and contain classes A and B, respectively. In addition, two.ear contains version 2 of class C. To ensure that the classes in two.ear pick up the correct version of class C, a loader repository is declared within two.ear. When class A references class C, it gets the one in three.jar, but when class B references class C, it gets the one in two.ear. Using EAR files is an example; we could have used SAR, JAR
+==========
+﻿Javid Jamae, Peter Johnson - JBoss in action_ configuring the JBoss application server-Manning  
+- Seu destaque na página 58-58 | Adicionado: quinta-feira, 14 de março de 2024 07:40:21
+
+three.jar is in the server/xxx/lib directory and contains version 1 of class C, whereas EAR files one.ear and two.ear are in the server/xxx/deploy directory, and contain classes A and B, respectively. In addition, two.ear contains version 2 of class C. To ensure that the classes in two.ear pick up the correct version of class C, a loader repository is declared within two.ear. When class A references class C, it gets the one in three.jar, but when class B references class C, it gets the one in two.ear. Using EAR files is an example; we could have used SAR, JAR
+==========
+﻿Javid Jamae, Peter Johnson - JBoss in action_ configuring the JBoss application server-Manning  
+- Seu destaque na página 58-58 | Adicionado: quinta-feira, 14 de março de 2024 07:40:30
+
+three.jar is in the server/xxx/lib directory and contains version 1 of class C, whereas EAR files one.ear and two.ear are in the server/xxx/deploy directory, and contain classes A and B, respectively. In addition, two.ear contains version 2 of class C. To ensure that the classes in two.ear pick up the correct version of class C, a loader repository is declared within two.ear. When class A references class C, it gets the one in three.jar, but when class B references class C, it gets the one in two.ear. Using EAR files is an example; we could have used SAR, JAR
+==========
+﻿Javid Jamae, Peter Johnson - JBoss in action_ configuring the JBoss application server-Manning  
+- Seu destaque na página 58-58 | Adicionado: quinta-feira, 14 de março de 2024 07:40:38
+
+Figure 3.4 illustrates class preferences with and without using a loader repository. JAR file three.jar is in the server/xxx/lib directory and contains version 1 of class C, whereas EAR files one.ear and two.ear are in the server/xxx/deploy directory, and contain classes A and B, respectively. In addition, two.ear contains version 2 of class C. To ensure that the classes in two.ear pick up the correct version of class C, a loader repository is declared within two.ear. When class A references class C, it gets the one in three.jar, but when class B references class C, it gets the one in two.ear. Using EAR files is an example; we could have used SAR, JAR
+==========
+﻿Javid Jamae, Peter Johnson - JBoss in action_ configuring the JBoss application server-Manning  
+- Seu destaque na página 58-58 | Adicionado: quinta-feira, 14 de março de 2024 07:40:48
+
+Figure 3.4 illustrates class preferences with and without using a loader repository. JAR file three.jar is in the server/xxx/lib directory and contains version 1 of class C, whereas EAR files one.ear and two.ear are in the server/xxx/deploy directory, and contain classes A and B, respectively. In addition, two.ear contains version 2 of class C. To ensure that the classes in two.ear pick up the correct version of class C, a loader repository is declared within two.ear. When class A references class C, it gets the one in three.jar, but when class B references class C, it gets the one in two.ear. Using EAR files is an example; we could have used SAR, JAR, or any other archive type. And the result would be the same.
+==========
+﻿Javid Jamae, Peter Johnson - JBoss in action_ configuring the JBoss application server-Manning  
+- Sua nota na página 58 | Adicionado: quinta-feira, 14 de março de 2024 07:41:03
+
+Class loading
+==========
+﻿Javid Jamae, Peter Johnson - JBoss in action_ configuring the JBoss application server-Manning  
+- Seu marcador na página 58 | Adicionado: quinta-feira, 14 de março de 2024 07:41:42
+
+
+==========
+﻿Javid Jamae, Peter Johnson - JBoss in action_ configuring the JBoss application server-Manning  
+- Seu destaque na página 59-59 | Adicionado: quinta-feira, 14 de março de 2024 07:42:18
+
+For those of you not inclined to take such drastic measures, the jarFinder utility is for you. You can use it to search through a directory of JAR files (including subdirectories) looking for a class, a property, or any other kind of file, with a given name. You can download the source for jarFinder at http://www.isocra.com/articles/ jarFinder.php
+==========
+﻿Javid Jamae, Peter Johnson - JBoss in action_ configuring the JBoss application server-Manning  
+- Sua nota na página 59 | Adicionado: quinta-feira, 14 de março de 2024 07:42:28
+
+Jar finder
+==========
+Javid Jamae, Peter Johnson - JBoss in action_ configuring the JBoss application server-Manning  
+- Seu marcador na página 94 | Adicionado: segunda-feira, 18 de março de 2024 17:41:28
+
+
+==========
+hibernate_in_action  
+- Seu marcador na página 45 | Adicionado: terça-feira, 19 de março de 2024 07:25:13
+
+
+==========
+Javid Jamae, Peter Johnson - JBoss in action_ configuring the JBoss application server-Manning  
+- Seu destaque na página 63-63 | Adicionado: terça-feira, 19 de março de 2024 12:37:35
+
+XA is an API defined by The Open Group’s Distributed Transaction Processing model. This model provides communications mechanisms between a Transaction Monitor and several resource managers, which perform updates against databases. The Transaction Monitor is responsible for coordinating the individual transactions handled by the resource managers to ensure transactional semantics when multiple resource managers are involved in a single transaction
+==========
+Javid Jamae, Peter Johnson - JBoss in action_ configuring the JBoss application server-Manning  
+- Seu destaque na página 64-64 | Adicionado: terça-feira, 19 de março de 2024 12:39:59
+
+surplus connection isn’t in use for the specified number of minutes, then that connection is closed. Note that the number
+==========
+Javid Jamae, Peter Johnson - JBoss in action_ configuring the JBoss application server-Manning  
+- Seu destaque na página 64-64 | Adicionado: terça-feira, 19 de março de 2024 12:40:04
+
+surplus connection isn’t in use for the specified number of minutes, then that connection is closed. Note that the number
+==========
+Javid Jamae, Peter Johnson - JBoss in action_ configuring the JBoss application server-Manning  
+- Seu destaque na página 64-64 | Adicionado: terça-feira, 19 de março de 2024 12:40:14
+
+surplus connection isn’t in use for the specified number of minutes, then that connection is closed. Note that the number of open connections never goes below the <min-pool-size>
+==========
+Javid Jamae, Peter Johnson - JBoss in action_ configuring the JBoss application server-Manning  
+- Seu destaque na página 64-64 | Adicionado: terça-feira, 19 de março de 2024 12:40:20
+
+surplus connection isn’t in use for the specified number of minutes, then that connection is closed. Note that the number of open connections never goes below the <min-pool-size>
+==========
+Javid Jamae, Peter Johnson - JBoss in action_ configuring the JBoss application server-Manning  
+- Seu destaque na página 64-64 | Adicionado: terça-feira, 19 de março de 2024 12:40:27
+
+surplus connection isn’t in use for the specified number of minutes, then that connection is closed. Note that the number of open connections never goes below the <min-pool-size>
+==========
+Javid Jamae, Peter Johnson - JBoss in action_ configuring the JBoss application server-Manning  
+- Seu destaque na página 64-64 | Adicionado: terça-feira, 19 de março de 2024 12:40:31
+
+surplus connection isn’t in use for the specified number of minutes, then that connection is closed. Note that the number of open connections never goes below the <min-pool-size>
+==========
+Javid Jamae, Peter Johnson - JBoss in action_ configuring the JBoss application server-Manning  
+- Seu destaque na página 64-64 | Adicionado: terça-feira, 19 de março de 2024 12:40:40
+
+a surplus connection isn’t in use for the specified number of minutes, then that connection is closed. Note that the number of open connections never goes below the <min-pool-size>
+==========
+hibernate_in_action  
+- Seu destaque na página 45-45 | Adicionado: terça-feira, 19 de março de 2024 17:38:55
+
+But again, the cost is less than equivalent costs involved in maintaining a hand-coded solution. And even
+==========
+hibernate_in_action  
+- Seu destaque na página 45-45 | Adicionado: terça-feira, 19 de março de 2024 17:39:10
+
+But again, the cost is less than equivalent costs involved in maintaining a hand-coded solution. And even ODMG-compliant object databases require significant classlevel metadata.
+==========
+hibernate_in_action  
+- Sua nota na página 45 | Adicionado: terça-feira, 19 de março de 2024 17:39:17
+
+Doubt
+==========
+hibernate_in_action  
+- Seu marcador na página 46 | Adicionado: terça-feira, 19 de março de 2024 17:41:35
+
+
+==========
+security-analysis-benjamin-graham-6th-edition-pdf-february-24-2010-12-08-am-3-0-meg  
+- Seu destaque na página xxxv-xxxv | Adicionado: quarta-feira, 20 de março de 2024 07:18:55
+
+Good businesses are generally considered those with strong barriers to entry, limited capital requirements, reliable customers, low risk of technological obsolescence, abundant growth possibilities, and thus significant and growing free cash flow
+==========
+security-analysis-benjamin-graham-6th-edition-pdf-february-24-2010-12-08-am-3-0-meg  
+- Seu destaque na página xxxvii-xxxvii | Adicionado: quarta-feira, 20 de março de 2024 07:22:44
+
+analysis is concerned primarily with values which are supported by the facts and not with those which depend largely upon expectations.
+==========
+security-analysis-benjamin-graham-6th-edition-pdf-february-24-2010-12-08-am-3-0-meg  
+- Seu marcador na página xxxviii | Adicionado: quarta-feira, 20 de março de 2024 07:26:22
+
+
+==========
+Effective Java (2017, Addison-Wesley)  
+- Seu marcador na página xi | Adicionado: quarta-feira, 20 de março de 2024 17:29:56
+
+
+==========
+security-analysis-benjamin-graham-6th-edition-pdf-february-24-2010-12-08-am-3-0-meg  
+- Seu destaque na página 2-2 | Adicionado: segunda-feira, 25 de março de 2024 17:29:31
+
+1934, there were laws to institute federal regulation of the securities markets, federal insurance of bank deposits, and federal price controls (not to put a cap on prices, as in later, infationary times, but rather to put a foor under them
+==========
+security-analysis-benjamin-graham-6th-edition-pdf-february-24-2010-12-08-am-3-0-meg  
+- Seu destaque na página 2-2 | Adicionado: segunda-feira, 25 de março de 2024 17:29:34
+
+1934, there were laws to institute federal regulation of the securities markets, federal insurance of bank deposits, and federal price controls (not to put a cap on prices, as in later, infationary times, but rather to put a foor under them
+==========
+security-analysis-benjamin-graham-6th-edition-pdf-february-24-2010-12-08-am-3-0-meg  
+- Seu destaque na página 2-2 | Adicionado: segunda-feira, 25 de março de 2024 17:29:40
+
+1934, there were laws to institute federal regulation of the securities markets, federal insurance of bank deposits, and federal price controls (not to put a cap on prices, as in later, infationary times, but rather to put a foor under them
+==========
+security-analysis-benjamin-graham-6th-edition-pdf-february-24-2010-12-08-am-3-0-meg  
+- Seu destaque na página 2-2 | Adicionado: segunda-feira, 25 de março de 2024 17:29:48
+
+implementing its frst radical forays into macroeconomic management. By 1934, there were laws to institute federal regulation of the securities markets, federal insurance of bank deposits, and federal price controls (not to put a cap on prices, as in later, infationary times, but rather to put a foor under them
+==========
+security-analysis-benjamin-graham-6th-edition-pdf-february-24-2010-12-08-am-3-0-meg  
+- Sua nota na página 2 | Adicionado: segunda-feira, 25 de março de 2024 17:30:13
+
+Government intervention in securities markets
+==========
+security-analysis-benjamin-graham-6th-edition-pdf-february-24-2010-12-08-am-3-0-meg  
+- Seu destaque na página 3-3 | Adicionado: segunda-feira, 25 de março de 2024 17:32:02
+
+Must There Be an End to Progress?” was the inquiring headline over an essay by the Swedish economist Gustav Cassel published around the time of the release
+==========
+security-analysis-benjamin-graham-6th-edition-pdf-february-24-2010-12-08-am-3-0-meg  
+- Seu destaque na página 3-3 | Adicionado: segunda-feira, 25 de março de 2024 17:32:10
+
+Must There Be an End to Progress?” was the inquiring headline over an essay by the Swedish economist Gustav Cassel published around the time of the release of Graham and Dodd’s second edition (the professor thought not)
+==========
+security-analysis-benjamin-graham-6th-edition-pdf-february-24-2010-12-08-am-3-0-meg  
+- Seu destaque na página 3-3 | Adicionado: segunda-feira, 25 de março de 2024 17:32:19
+
+“Must There Be an End to Progress?” was the inquiring headline over an essay by the Swedish economist Gustav Cassel published around the time of the release of Graham and Dodd’s second edition (the professor thought not)
+==========
+security-analysis-benjamin-graham-6th-edition-pdf-february-24-2010-12-08-am-3-0-meg  
+- Seu destaque na página 4-4 | Adicionado: segunda-feira, 25 de março de 2024 17:34:53
+
+Common Stock Theory of Investment
+==========
+security-analysis-benjamin-graham-6th-edition-pdf-february-24-2010-12-08-am-3-0-meg  
+- Seu destaque na página 4-4 | Adicionado: segunda-feira, 25 de março de 2024 17:34:57
+
+Common Stock Theory of Investment
+==========
+security-analysis-benjamin-graham-6th-edition-pdf-february-24-2010-12-08-am-3-0-meg  
+- Seu destaque na página 4-4 | Adicionado: segunda-feira, 25 de março de 2024 17:35:04
+
+The Common Stock Theory of Investment
+==========
+security-analysis-benjamin-graham-6th-edition-pdf-february-24-2010-12-08-am-3-0-meg  
+- Sua nota na página 9 | Adicionado: segunda-feira, 25 de março de 2024 20:13:11
+
+Capital income debenture security
+==========
+security-analysis-benjamin-graham-6th-edition-pdf-february-24-2010-12-08-am-3-0-meg  
+- Seu destaque na página 9-9 | Adicionado: segunda-feira, 25 de março de 2024 20:13:11
+
+‘Capital Income Debentures’
+==========
+security-analysis-benjamin-graham-6th-edition-pdf-february-24-2010-12-08-am-3-0-meg  
+- Seu destaque na página 10-10 | Adicionado: quarta-feira, 27 de março de 2024 17:43:34
+
+Even when the underlying motive of purchase is mere speculative greed, human nature desires to conceal this unlovely impulse behind a screen of apparent logic and good sense. To adapt the aphorism of Voltaire, it may be said that if there were no such thing as common-stock analysis, it would be necessary to counterfeit it
+==========
+security-analysis-benjamin-graham-6th-edition-pdf-february-24-2010-12-08-am-3-0-meg  
+- Seu destaque na página 17-17 | Adicionado: segunda-feira, 1 de abril de 2024 07:11:50
+
+The Common Stock Theory of Investment, by Chelcie C.Bosland,
+==========
+security-analysis-benjamin-graham-6th-edition-pdf-february-24-2010-12-08-am-3-0-meg  
+- Seu destaque na página 17-17 | Adicionado: segunda-feira, 1 de abril de 2024 07:14:06
+
+Edgar Lawrence Smith, however, did receive Bosland’s full and respectful attention. Smith’s Common Stocks as Long Term Investments, published in 1924, had challenged the long-held view that bonds were innately superior to equities. For one thing, Smith argued, the dollar (even the gold-backed 1924 edition) was infation-prone, which meant that creditors were inherently disadvantaged. Not so the owners of common stock. If the companies in which they invested earned a proft, and if the managements of those companies retained a portion of that proft in the business, and if those retained earnings, in turn, produced future earnings, the principal value of an investor’s portfolio would tend “to increase in accordance with the operation of compound interest.”22
+==========
+JSF_in_action  
+- Seu destaque na página 62-62 | Adicionado: terça-feira, 2 de abril de 2024 12:26:25
+
+This is called the client identifier, and it’s what JSF uses to map an input value to a component on the server. Some components also use the name attribute for the client identifier
+==========
+JSF_in_action  
+- Seu destaque na página 66-66 | Adicionado: terça-feira, 2 de abril de 2024 12:35:33
+
+These types of methods are called action methods. The goodbye method is associated with the Goodbye HtmlCommandButton on hello.jsp via its action property. So when a user clicks the Goodbye button, the goodbye method is executed. In this case, goodbye doesn’t do any work to determine the logical outcome; it just returns "success". This outcome is associated with a specific page in a Faces configuration file, which we cover next. Because goodbye doesn’t perform any processing (as it would in a real application), we could have achieved the same effect by hardcoding the text "success" in the button’s action property. This is because the navigation system will either use the literal value of an HtmlCommandButton’s action property or the outcome of an action method (if the property references one
+==========
+JSF_in_action  
+- Seu destaque na página 66-66 | Adicionado: terça-feira, 2 de abril de 2024 12:35:39
+
+. These types of methods are called action methods. The goodbye method is associated with the Goodbye HtmlCommandButton on hello.jsp via its action property. So when a user clicks the Goodbye button, the goodbye method is executed. In this case, goodbye doesn’t do any work to determine the logical outcome; it just returns "success". This outcome is associated with a specific page in a Faces configuration file, which we cover next. Because goodbye doesn’t perform any processing (as it would in a real application), we could have achieved the same effect by hardcoding the text "success" in the button’s action property. This is because the navigation system will either use the literal value of an HtmlCommandButton’s action property or the outcome of an action method (if the property references one
+==========
+JSF_in_action  
+- Seu destaque na página 66-66 | Adicionado: terça-feira, 2 de abril de 2024 12:35:49
+
+The goodbye method is associated with the Goodbye HtmlCommandButton on hello.jsp via its action property. So when a user clicks the Goodbye button, the goodbye method is executed. In this case, goodbye doesn’t do any work to determine the logical outcome; it just returns "success". This outcome is associated with a specific page in a Faces configuration file, which we cover next. Because goodbye doesn’t perform any processing (as it would in a real application), we could have achieved the same effect by hardcoding the text "success" in the button’s action property. This is because the navigation system will either use the literal value of an HtmlCommandButton’s action property or the outcome of an action method (if the property references one
+==========
+JSF_in_action  
+- Sua nota na página 66 | Adicionado: terça-feira, 2 de abril de 2024 12:36:08
+
+JSF navigtion system
+==========
+JSF_in_action  
+- Seu marcador na página 67 | Adicionado: terça-feira, 2 de abril de 2024 12:37:28
+
+
+==========
+Memórias Póstumas de Brás Cubas - Coletânea: Genialidades de Machado de Assis (Machado de Assis)
+- Seu destaque na página 15 | posição 354-355 | Adicionado: quarta-feira, 3 de abril de 2024 17:41:28
+
+A onça mata o novilho porque o raciocínio da onça é que ela deve viver, e se o novilho é tenro tanto melhor: eis o estatuto universal.
+==========
+Javid Jamae, Peter Johnson - JBoss in action_ configuring the JBoss application server-Manning  
+- Seu destaque na página 50-50 | Adicionado: quarta-feira, 10 de abril de 2024 07:22:18
+
+if you deploy an archive file, the deployer unpacks the file into the server/xxx/tmp/deploy directory using a generated name based on the archive filename, such as myapp28562-exp.ear for the previous example. This directory contains the exploded version of the archive, although any JAR files are left as they are and aren’t unpacked.
+==========
+Javid Jamae, Peter Johnson - JBoss in action_ configuring the JBoss application server-Manning  
+- Sua nota na página 50 | Adicionado: quarta-feira, 10 de abril de 2024 07:22:34
+
+Exploded ear
+==========
+JSF_in_action  
+- Seu destaque na página 71-71 | Adicionado: quarta-feira, 10 de abril de 2024 17:57:03
+
+Like most technologies, Faces has its own set of terms that form a conceptual base for the features it provides
+==========
+JSF_in_action  
+- Sua nota na página 71 | Adicionado: quarta-feira, 10 de abril de 2024 17:57:37
+
+Deep notion on how to view technology in a hollistic way
+==========
+JSF_in_action  
+- Seu destaque na página 74-74 | Adicionado: quinta-feira, 11 de abril de 2024 12:30:16
+
+A calendar component represents what the calendar does, not what it looks like. Such behavior is called renderer neutral
+==========
+JSF_in_action  
+- Sua nota na página 74 | Adicionado: quinta-feira, 11 de abril de 2024 12:30:39
+
+Render neutral concept of UIs
+==========

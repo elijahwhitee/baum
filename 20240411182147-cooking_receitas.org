@@ -1,17 +1,7 @@
 :PROPERTIES:
-:ID:       7470a98d-dd5b-40d3-83ff-7ef498746fd5
+:ID:       3ed2a23f-5706-40f2-b9a8-75530b375edf
 :END:
-#+title: cooking🍳
-* Livros
-** Escoffier
-** The professional Chef
-** Le repertoire de la cuisine.
-** Robuchon.
-** The flavor bible
-** Flavor matrix
-** on food and cooking
-** Salt fat acid heat
-** On food and cooking Harold Mcgee
+#+title: cooking🍳/receitas
 * Receitas
 ** Pães
 *** Fermentação natural
@@ -37,9 +27,6 @@ até dobrar o tamanho.
 [[https://www.youtube.com/watch?v=ElJFy8ACwEA][Yeasted preferments explained]]
 ** Ratatoulle
 ** Paella
-** Bolos
-*** Sabiosa
-[[https://www.youtube.com/watch?v=EbgAa1LF-Mg][Sabiosa:PaollaLindaPerfeita:]]
 ** Saladas
 *** Caesar salada
 1. Ovos bem frios
@@ -60,30 +47,42 @@ até dobrar o tamanho.
 *** Pesto.
 *** Hollandaise.
 ** Arroz
-* Menu
-** Finais de semana
-*** Frango kiev
-*** Ratatoulle
-** Comidas de oficio
-*** Ramen bowl.
-*** Guacamole.
-*** Brasileirinho.
- Proteina, arroz, farofa e saladas.
-*** Arroz com cogumelos.
-*** Pão com escabeche.
-*** Omelete.
-*** Pão de fermentação natural.
-*** Yogurte com keffir.
-** Pão toda semana
-*** Pão de fermentação natural
-*** Pão de milho de fermentação natural
-*** Pão de batata.
-* Dicionario
-** Queijos
-*** Parmesão.
-*** Pecorino.
-*** Brie.
-*** Gorgonzola.
-** Ingredientes químicos sintéticos
-*** Xanthan gum
-Espeçante
+** Doces
+*** Bolos
+**** Sabiosa
+[[https://www.youtube.com/watch?v=EbgAa1LF-Mg][Sabiosa:PaollaLindaPerfeita:]]
+** Snacks
+*** Barras de cereal
+[[https://www.youtube.com/watch?v=rtwlRPBrGIM][video da receita]]
+
+*Ingredientes*
+
+1. xícara de granola (pode ser de marcas diferentes e composta de diferentes grãos para maior nutrição)
+3. bananas maduras
+2. colheres de sopa de mel
+
+*Utensílios*
+
+1. forma de 15 cm de largura e 25 cm de comprimento
+
+*Preparo*
+
+ 1. Unte a forma com óleo
+
+ 2. Assar em forno pré aquecido em 200 graus entre 15 e 20 minutos
+
+** Cereais
+*** Granola
+[[https://www.youtube.com/watch?v=OHxOQDGon7Q][Receita da paola]]
+• 2 xícaras (chá) Aveia em floco
+• Açúcar demerara
+• ¼ xic. (chá) de Açúcar de coco
+• 1 xícara (chá) Castanhas de caju torrada sem sal
+• 1 colher (sopa) de Sementes de linhaça
+• 1 colher (chá) de sal marinho
+• 2 colheres (sopa) de gergelim
+• ½ xícara (chá) de Mel
+• ½ xícara (chá) óleo de soja ou coco
+• ½ colher (chá) de essência de baunilha
+• 10 unidades ameixa
+• banana seca

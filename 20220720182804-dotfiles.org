@@ -163,6 +163,10 @@ Python debugger config
 (define-key global-map (kbd "<f1>") #'org-roam-node-find)
 ;; Sync added nodes or existing ones
 (define-key global-map (kbd "<f2>") #'org-roam-db-sync)
+;; Go to dailly
+(define-key global-map (kbd "<f3>") #'org-roam-dailies-goto-date)
+;; Go to today dailly
+(define-key global-map (kbd "<f4>") #'org-roam-dailies-goto-today)
 #+end_src
 *** Packages el
 #+begin_src elisp :tangle ~/.config/doom/packages.el :comments link

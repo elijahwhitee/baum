@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       0d626da5-805e-459b-a3cb-b0b402d0600c
+:END:
+#+title: 2024-04-10
+* TODO [1/1]
+- [X] Manual

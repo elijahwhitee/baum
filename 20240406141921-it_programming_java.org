@@ -1,0 +1,17 @@
+:PROPERTIES:
+:ID:       2f0efb22-dddf-4fa5-bf74-0e2e1e60388f
+:END:
+#+title: it/programming/java
+* Compiling java files
+:PROPERTIES:
+:ID:       9f4c4d45-b9a5-4c85-a185-0a979d6d2e56
+:END:
+** Compiling directory structure
+*Using wild cards*
+#+begin_src bash
+javac -d ./build/ ./src/*
+#+end_src
+*Using wild cars to specify jar src folders*
+#+begin_src bash
+javac -cp ./jarsrc/*
+#+end_src
