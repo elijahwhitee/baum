@@ -3,35 +3,28 @@
 :END:
 #+title: 20230530104156 It_infosec_tooling
 #+title: it/infosec💻/tooling
-* Tools
-** Scripting
-#+begin_src python :results output
-print("teste")
-#+end_src
-
-#+RESULTS:
-: teste
-** Memory analysis
-*** Volatility
-**** Installation
+* Scripting
+* Memory analysis
+** Volatility
+*** Installation
 #+begin_src python
 pip install volatility
 #+end_src
-**** VTypes
+*** VTypes
 Abstract representation of C data structures (operating system DSs),
-** Memory gathering
-** Malware identification
-*** Yara
-** Analysis
-*** Network analysis
-**** Tcpdump :networktools:
-**** Nmap :networktools:
-**** wireshark
-***** Coloring rules
-**** wireshark cli
-**** Aircrack-ng
-** Mail services
-*** Tutanota
+* Memory gathering
+* Malware identification
+** Yara
+* Analysis
+** Network analysis
+*** Tcpdump :networktools:
+*** Nmap :networktools:
+*** wireshark
+**** Coloring rules
+*** wireshark cli
+*** Aircrack-ng
+* Mail services
+** Tutanota
 
 - Domain
 

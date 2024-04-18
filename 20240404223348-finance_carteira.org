@@ -2,10 +2,14 @@
 :ID:       9172969b-5505-47da-8241-6cfc58db25ba
 :END:
 #+title: finance/carteira
-Objetivo da carteira é proporcionar minha aposentadora e uma renda de
+Objetivo da carteira é proporcionar minha aposentadoria e uma renda de
 subsistência depois de 10 anos investindo, para que eu possa trabalhar para
-ganhar mais e não para sobreviver
+ganhar mais e não para sobreviver.
 * Estratégia
 Comprar ações de empresas brasileiras com boa governança corporativa, história sólida
 na bolsa brasileira, e um plano para se adequar as exigências de legislações futuras sobre
 mudanças climáticas e responsabilidade ambiental. "Empresas verdes"
+** Empresas para se evitar para longo prazo
+Empresas de tecnologia em geral, devido a volatilidade e a imprevisibilidade das ações,
+empresas que possuem seu capital e valor atrelado a uma propiedade intelectual podem
+mudar do dia pra noite devido a inovações e mudanças no mercado de tecnologia

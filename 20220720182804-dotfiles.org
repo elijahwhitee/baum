@@ -43,7 +43,6 @@
          lookup              ; navigate your code and its documentation
          magit             ; a git porcelain for Emacs
          :os
-         (:if IS-MAC macos)  ; improve compatibility with macOS
          :lang
          emacs-lisp        ; drown in parentheses
          markdown          ; writing docs for people to ignore
@@ -56,7 +55,6 @@
          :app
          :config
          (default +bindings +smartparens))
-
 ;; (map! :leader
 ;;       :desc "Org roam find node"
 ;;       "`" #'org-roam-node-find)

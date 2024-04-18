@@ -8,6 +8,15 @@ it's nature of running commands in cells
 * Commands
 1. save notebook
    #+begin_src python
-   %notebook -e notebook.ipynb
+   %save notebook.ipynb
+   #+end_src
+2. Show quick reference
+   #+begin_src ipython
+   %quickref
+   #+end_src
+3. Show history
+   #+begin_src ipython
+   %hist
+
    #+end_src
 * Magic tricks

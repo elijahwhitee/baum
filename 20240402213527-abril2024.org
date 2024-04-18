@@ -2,13 +2,13 @@
 :ID:       f5fd1844-605f-42c5-8809-8cbb8034290f
 :END:
 #+title: abril2024
-* TODO Contas [0/7]
-- [ ] Casa      R$ 100.00
-- [ ] Manual    R$ 124.00
-- [ ] Spotify   R$ 21.00
-- [ ] Vivo.     R$ 58.00
+* TODO Contas [5/7]
+- [X] Casa      R$ 100.00
+- [X] Manual    R$ 124.00
+- [X] Spotify   R$ 21.00
+- [X] Vivo.     R$ 58.00
 - [ ] Condução  R$ 200.00
-- [ ] Twitch    R$ 7.40
+- [X] Twitch    R$ 7.40
 - [ ] Dentista  R$ 40.00
 * Metas
 ** Okonomicus
@@ -17,3 +17,6 @@
 1. Iniciar plot no mapa
 ** Studio de idiomas
 1. Entregar projeto
+* Compras
+ - [ ] Guarda roupa novo.
+ - [ ] Roupas novas.
