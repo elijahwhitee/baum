@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       8a01032e-fa95-48b7-97b1-f5225966b67f
+:END:
+#+title: calisthenics/routine
+* Abs sets
+** set 1
+- 1 minute long lever plank
+- 2 sets os 20 of [[https://youtu.be/NMgWyTivrTI?t=544][candle race]]
+- 3 sets of 40 seconds of [[https://youtu.be/NMgWyTivrTI?t=544][russian twists]]

@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       0ee52cc2-eb36-446a-9e67-0ca8a263576e
+:END:
+#+title: statistics/c19early
+
+[[https://c19ivm.org/meta.html][Ivermectin for COVID-19: real-time meta analysis of 102 studies]]

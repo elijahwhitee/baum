@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       a7a5951d-0e80-4530-8a60-594cb6a29327
+:END:
+#+title: investing/platforms
+
+[[https://br.investing.com/pro/][investing pro]]
+* Vendors
+** Neologica
+[[https://www.nelogica.com.br/][Neologica site]]

@@ -2,6 +2,21 @@
 :ID:       cc72da52-61f7-4ddd-9e3f-9273cc94c64c
 :END:
 #+title: estudos
+* Busca por livros de qualidades
+
+** Bibliotecas
+[[http://www.fea.usp.br/biblioteca][Biblioteca usp FEA USP]]
+
+[[https://www.livrosabertos.abcd.usp.br/portaldelivrosUSP][Portal de livros abertos USP]]
+** Lista de livros
+*** Contabilidade
+**** [[https://blog.contaazul.com/parceiros/livros-de-contabilidade/][15 livros de contabilidade que valem a sua leitura - Conta Azul]]
+ 1. Direito e contabilidade: fundamentos do direito contábil
+ 2. Manual de contabilidade societária
+ 3. Contabilidade de custos
+ 4. Contabilidade introdutória
+ 5. Contabilidade empresarial
+**** [[https://descomplica.com.br/blog/livros-de-contabilidade/][Livros de contabilidade: 13 opções para iniciantes!]]
 * Provas/Gabaritos
 ** USP
 ** fontes

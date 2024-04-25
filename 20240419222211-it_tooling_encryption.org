@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       dd908275-29b2-4da0-b9fc-41c3f012c6a2
+:END:
+#+title: it/tooling/encryption
+* Encryption
+** GPG
+[[https://rtcamp.com/tutorials/linux/gpg-keys/][GPG Cheatsheet]]
+*** Generate key without password
+[[https://shawngrover.medium.com/generate-gpg-key-without-passphrase-6dec71caecf8][Tutorial]]
+#+begin_src bash
+gpg --batch --passphrase '' --quick-gen-key USER_ID default default
+#+end_src
+*** Encrypt files
+#+begin_src bash
+gpg -r "keyid or email" -e file
+#+end_src
+
+** Age
+[[https://nixfaq.org/2021/01/age-the-modern-alternative-to-gpg.html][Age:the modern alternative to gpg]]
