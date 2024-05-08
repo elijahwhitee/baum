@@ -1,13 +1,13 @@
 :PROPERTIES:
-:ID:       f5fd1844-605f-42c5-8809-8cbb8034290f
+:ID:       a12edc0a-2df0-4327-b0ef-931285880bda
 :END:
-#+title: abril2024
+#+title: maio2024
 - [X] Casa      R$ 100.00
-- [X] Manual    R$ 124.00
-- [X] Spotify   R$ 21.00
+- [ ] Manual    R$ 124.00
+- [ ] Spotify   R$ 21.00
 - [X] Vivo.     R$ 58.00
 - [ ] Condução  R$ 200.00
-- [X] Twitch    R$ 7.40
+- [ ] Twitch    R$ 7.40
 - [ ] Dentista  R$ 40.00
 * Metas
 ** Okonomicus

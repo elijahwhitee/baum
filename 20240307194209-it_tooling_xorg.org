@@ -13,3 +13,8 @@ xrandr --dpi 144 # replace with any number, may affect the appearance of icons
  #+begin_src bash
 xdpyinfo | grep dots
  #+end_src
+
+* Preventing sleep
+#+begin_src bash
+xset s off
+#+end_src

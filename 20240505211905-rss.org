@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       837dcec0-3c19-401e-b03a-8bb52556fd03
+:END:
+#+title: rss
+* List of RSS feeds
+** Economics
+- investing.com ::
+[[https://br.investing.com/webmaster-tools/rss][RSS feed investing.com]]
+  1. [[https://br.investing.com/rss/market_overview_Fundamental.rss][Analises fundamentalistas]]
+  2. [[https://br.investing.com/rss/news_450.rss][FIIs]]

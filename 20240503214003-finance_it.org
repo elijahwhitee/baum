@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       e3c08063-cdb5-4efd-a1bf-f4ea45c14d8e
+:END:
+#+title: finance/it
+* Dedicated Harware to finance
+[[https://en.wikipedia.org/wiki/Bloomberg_Terminal][Blooberg terminal]] is a terminal that connects to the propietary secure network of
+Bloomberg in order to make buy/sell orders in the securities market.

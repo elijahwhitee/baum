@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       9c23bb84-9bda-4f08-bf0a-bf5d8a6a1cdd
+:END:
+#+title: personal/info
+* Contato
+- Whatsapp ::
+  1. [[https://wa.me/5511930201864?text=Ol%C3%A1][Whatsapp pessoal]]

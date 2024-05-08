@@ -2,5 +2,5 @@
 :ID:       9a6d7415-99f3-4703-8add-0f39d55dd3dd
 :END:
 #+title: economics/financial statement analysis
-* The adversarial nature  of  financial reporting
+* The adversarial nature of financial reporting
 - The purpose of financial reporting is to obtain cheap capital.

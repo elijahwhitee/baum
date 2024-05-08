@@ -1,0 +1,96 @@
+\documentclass[article, 11pt, oneside, a4paper, english, brazil, sumario=tradicional]{abntex2}
+\usepackage{lmodern}
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage{indentfirst}
+\usepackage{nomencl}
+\usepackage{color}
+\usepackage{graphicx}
+\usepackage{microtype}
+\usepackage{lipsum}
+\usepackage[brazilian,hyperpageref]{backref}
+\usepackage[alf]{abntex2cite}
+\renewcommand{\backrefpagesname}{Citado na(s) página(s):~}
+\renewcommand{\backref}{}
+\renewcommand*{\backrefalt}[4]{\ifcase #1 Nenhuma citação no texto. \or Citado na página #2. \else Citado #1 vezes nas páginas #2. \fi}
+\titulo{Knauer}
+\tituloestrangeiro{The importance of the teaching of computation technology in schools}
+\autor{
+Ícaro Onofre Silva
+  %% vinculação corporativa e endereço de contato.''}
+}
+\local{Campo Limpo Paulista}
+\data{24 04 2024}
+\definecolor{blue}{RGB}{41,5,195} % alterando o aspecto da cor azul
+\makeatletter % informações do PDF
+\hypersetup{pdftitle={\@title}, pdfauthor={\@author}, pdfsubject={Modelo de artigo científico com abnTeX2}, pdfcreator={LaTeX with abnTeX2}, pdfkeywords={abnt}{latex}{abntex}{abntex2}{atigo científico}, colorlinks=true, linkcolor=blue, citecolor=blue, filecolor=magenta, urlcolor=blue, bookmarksdepth=4}
+\makeatother
+
+\makeindex
+
+\setlrmarginsandblock{3cm}{3cm}{*}
+\setulmarginsandblock{3cm}{3cm}{*}
+\checkandfixthelayout
+\setlength{\parindent}{1.3cm}
+\setlength{\parskip}{0.2cm}
+\SingleSpacing
+
+\begin{document}
+
+\selectlanguage{brazil}
+
+\frenchspacing
+
+% \twocolumn[    		% Descomente para duas colunas
+\maketitle
+% resumo em português
+\begin{resumoumacoluna}
+  Resumo
+  \vspace{\onelineskip}
+  \noindent
+  \textbf{Palavras-chave}: Resumo.
+\end{resumoumacoluna}
+
+% resumo em inglês
+\renewcommand{\resumoname}{Abstract}
+\begin{resumoumacoluna}
+  \begin{otherlanguage*}{english}
+    Abstract
+    \vspace{\onelineskip}
+
+    \noindent
+    \textbf{Keywords}: abstract.
+  \end{otherlanguage*}
+\end{resumoumacoluna}
+% ]  				% FIM DE ARTIGO EM DUAS COLUNAS
+\begin{center}\smaller
+
+  \textbf{Data de submissão e aprovação}: 24 04 2024.
+
+  %% \textbf{Identificação e disponibilidade}: elemento opcional. Pode ser indicado
+  %% o endereço eletrônico, DOI, suportes e outras informações relativas ao acesso.
+\end{center}
+
+\newpage
+
+\pdfbookmark[0]{\contentsname}{toc}
+\tableofcontents*
+\cleardoublepage
+
+\textual
+
+\section{capitulo 1}
+
+Aqui escrevo a tese em si
+
+\postextual
+
+
+\section*{Agradecimentos}
+
+Nossos mais profundos agradecimentos a todo o corpo docente da Fatec de Jundiaí
+
+\newpage
+\bibliography{references}
+
+\end{document}

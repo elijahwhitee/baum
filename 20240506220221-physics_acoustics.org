@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       b1b90db2-fdbf-4281-a64d-45b1ea67bef2
+:END:
+#+title: physics/acoustics
+* Acoustics engineering
+** Concert halls
+[[https://www.youtube.com/watch?v=tnDAlnyqjzk][Concert Hall Acoustics | A hidden reason some halls are loved & others fail that nobody talks about]]
+
+[[https://www.youtube.com/watch?v=mDCJLbz61fU][Elbphilarmonie]]

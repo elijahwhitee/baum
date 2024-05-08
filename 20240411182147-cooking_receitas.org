@@ -2,10 +2,9 @@
 :ID:       3ed2a23f-5706-40f2-b9a8-75530b375edf
 :END:
 #+title: cooking🍳/receitas
-* Receitas
-** Pães
-*** Fermentação natural
-**** Pão de milho com fermentação natural
+* Pães
+** Fermentação natural
+*** Pão de milho com fermentação natural
 Proporção da receita: 50% de fermentao natuarl em relação a farinha
 
 180g de fermento natural alimentado, é possível alimentar o fermento na *noite*
@@ -21,14 +20,14 @@ Após misturar adicione um ovo batido e 180g de fermento natural alimentado.
 Sove a massa até o ponto de véu e deixe  descansar numa tigela untada com óleo
 até dobrar o tamanho.
 
-**** Pao de fermentacao natural
+*** Pao de fermentacao natural
 [[https://www.youtube.com/watch?v=bbv_P8bpvbg][Pao de fermentacao natural]]
-*** Tipos de pré fermentos
+** Tipos de pré fermentos
 [[https://www.youtube.com/watch?v=ElJFy8ACwEA][Yeasted preferments explained]]
-** Ratatoulle
-** Paella
-** Saladas
-*** Caesar salada
+* Ratatoulle
+* Paella
+* Saladas
+** Caesar salada
 1. Ovos bem frios
 2. Mostarda de Djon
 3. Azeite de Oliva
@@ -39,20 +38,20 @@ até dobrar o tamanho.
 8. Vinagre de vinho
 9. Alface tipo romana
 10. Pão amanhecido
-** Massas
-*** Ramen
-*** Pasta
+* Massas
+** Ramen
+** Pasta
  - 1 etto per egg and one egg per person.
-** Molhos
-*** Pesto.
-*** Hollandaise.
-** Arroz
-** Doces
-*** Bolos
-**** Sabiosa
+* Molhos
+** Pesto.
+** Hollandaise.
+* Arroz
+* Doces
+** Bolos
+*** Sabiosa
 [[https://www.youtube.com/watch?v=EbgAa1LF-Mg][Sabiosa:PaollaLindaPerfeita:]]
-** Snacks
-*** Barras de cereal
+* Snacks
+** Barras de cereal
 [[https://www.youtube.com/watch?v=rtwlRPBrGIM][video da receita]]
 
 *Ingredientes*
@@ -71,10 +70,10 @@ até dobrar o tamanho.
 
  2. Assar em forno pré aquecido em 200 graus entre 15 e 20 minutos
 
-** Cereais
-*** Granola
+* Cereais
+** Granola
 [[https://www.youtube.com/watch?v=OHxOQDGon7Q][Receita da paola]]
-• 2 xícaras (chá) Aveia em floco
+• 2 xícaras (chá) Aveia em flocos
 • Açúcar demerara
 • ¼ xic. (chá) de Açúcar de coco
 • 1 xícara (chá) Castanhas de caju torrada sem sal
@@ -86,3 +85,7 @@ até dobrar o tamanho.
 • ½ colher (chá) de essência de baunilha
 • 10 unidades ameixa
 • banana seca
+
+*Preparo*
+
+- Pré aquecer forno a 160 ou 180 graus
