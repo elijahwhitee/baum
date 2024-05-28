@@ -8,3 +8,7 @@ Reproduce installation
 #+begin_src bash
 pacman -Qqe > pkglist.txt
 #+end_src
+* Baum
+#+begin_src bash
+cd ~/baum/;git commit -am "updating baum"; git push
+#+end_src

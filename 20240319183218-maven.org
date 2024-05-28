@@ -6,3 +6,8 @@
 #+begin_src bash
 mvn archetype:generate -DgroupId=com.mycompany.app -DartifactId=my-app -DarchetypeArtifactId=maven-archetype-quickstart -DarchetypeVersion=1.4 -DinteractiveMode=false
 #+end_src
+* Listing dependencies
+* Quarkus and maven
+#+begin_src bash
+mvn io.quarkus:quarkus-maven-plugin:0.23.2:create
+#+end_src

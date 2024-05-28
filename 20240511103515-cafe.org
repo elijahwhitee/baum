@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       b66c5dd8-ef33-414a-8210-31060e566194
+:END:
+#+title: cafe
+* Pontuação de cafés especiais
+** SCA system
+[[https://sca.coffee/][sca.coffe]]

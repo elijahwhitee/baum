@@ -1,0 +1,30 @@
+:PROPERTIES:
+:ID:       20a41f36-a6c4-42a1-89f6-3df6ae924705
+:END:
+#+title: personal/career
+* 2024
+** Techs to learn
+*** mobile dev
+- [ ] Kotlin
+- [ ] React native
+*** Traditional languages
+- [ ] Java ::
+  - [ ] Quarkus.
+  - [ ] Spring boot
+*** web devlopment
+**** frontend
+- [ ] React ::
+  - [ ] master react development.
+**** backend
+- [ ] graphql
+- [ ] golang
+*** datascience
+- [ ] python  ::
+  1. [ ] master pandas.
+  2. [ ] master webscrapping.
+  3. [ ] master ipython
+*** for fun
+- [ ] osdev ::
+- [ ] nixos ::
+** studies
+1. Começar a praticar para vestibulares

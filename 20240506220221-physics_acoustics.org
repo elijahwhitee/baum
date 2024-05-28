@@ -4,6 +4,15 @@
 #+title: physics/acoustics
 * Acoustics engineering
 ** Concert halls
+
 [[https://www.youtube.com/watch?v=tnDAlnyqjzk][Concert Hall Acoustics | A hidden reason some halls are loved & others fail that nobody talks about]]
 
 [[https://www.youtube.com/watch?v=mDCJLbz61fU][Elbphilarmonie]]
+*** São Paulo
+1. Sala São Paulo.
+** Theaters
+*** São Paulo
+1. Theatro Municipal de São Paulo.
+*** Ribeirão Petro
+1. Theatro Pedro segundo.
+   [[https://www.duprearquitetura.com.br/pedroII/gd/foto_06.jpg][Arquitetura do Theatro.]]

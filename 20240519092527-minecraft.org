@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       eb28c874-a880-48f6-a822-b0b2a75ca464
+:END:
+#+title: minecraft
+* seeds
+- Inclosed moutain spot with cherry blossoms surrounded by ice ::
+  1. 1063292310985219505
+** Videos about seeds
+*** [[https://youtube.com/shorts/QVuws25KQYQ?si=ato489la4t9FJs0L][Minecraft seeds shorts]]

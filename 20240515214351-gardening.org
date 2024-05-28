@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       8148321e-d8b5-4bc7-950f-b0b29cb23319
+:END:
+#+title: gardening
+* Sources
+** Sites
+[[https://ahsgardening.org/gardening-resources/gardening-publications/ahs-gardening-books/][American Horticultural society]]

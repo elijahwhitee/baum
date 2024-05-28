@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       54a7e688-e2f9-4c56-bde5-0ea2a3e728b4
+:END:
+#+title: biologia/melhoramento genético
+* Seleção artificial
+** Institutos
+*** IAC
+* Engenharia genética

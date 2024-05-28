@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       78b60bcc-a9a1-4555-a713-10ee38372eab
+:END:
+#+title: javaEE
+* EAP
+** Jboss 6
+*** built in libraries

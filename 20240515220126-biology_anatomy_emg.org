@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       f5d6fcbc-ae33-427d-8c8b-e9e8a84f379b
+:END:
+#+title: biology/anatomy/EMG
+EMG measures the electrical activity of the muscle during rest, slight contraction and forceful contraction. Muscle tissue does not normally produce electrical signals during rest. When an electrode is inserted, a brief period of activity can be seen on the oscilloscope, but after that, no signal should be present.

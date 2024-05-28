@@ -1,0 +1,17 @@
+:PROPERTIES:
+:ID:       b16110e0-ab8b-4486-aea8-a8da57a837c3
+:END:
+#+title: it/tooling/diffing
+* Diffing dirs
+
+#+begin_src bash
+diff -ru dir1 dir2
+# With colors
+diff -ru --color=auto ./unifrota_jboss ~/opt/jboss-virgem
+#+end_src
+** Real use scenarios
+Diffing for locating inserted jars into a customized jboss application vs a default
+one in order to locate the jars used by the application.
+#+begin_src bash
+diff -qr ./unifrota_jboss ~/opt/jboss-virgem | grep ".jar"
+#+end_src

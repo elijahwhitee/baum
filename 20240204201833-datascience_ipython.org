@@ -8,7 +8,9 @@ it's nature of running commands in cells
 * Commands
 1. save notebook
    #+begin_src python
-   %save notebook.ipynb
+   %notebook -e persistindo-dfs-sqlite.ipynb
+   # Capture code history
+   %history -f output_file.py
    #+end_src
 2. Show quick reference
    #+begin_src ipython
@@ -17,6 +19,16 @@ it's nature of running commands in cells
 3. Show history
    #+begin_src ipython
    %hist
-
+   #+end_src
+4. Edit
+   #+begin_src python
+%edit 5
+# Edit an interval
+%edit 10:13
    #+end_src
 * Magic tricks
+* Jupyter notebook
+Start jupyter notebook without password being set
+#+begin_src bash
+jupyter notebook --ip='*' --NotebookApp.token='' --NotebookApp.password=''
+#+end_src

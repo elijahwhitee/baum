@@ -2,6 +2,15 @@
 :ID:       3ed2a23f-5706-40f2-b9a8-75530b375edf
 :END:
 #+title: cooking🍳/receitas
+* Maioneses
+** Maionese proteica low cal
+1. Cozinhe 3 ovos por 8 ou 9 minutos.
+2. ponha-os num copo de mixer.
+3. coloque uma colher de chá de mostarda amarela ou dijon.
+4. tempere com pimenta do reino e sal
+5. Yogurte dessorado.
+6. Mixi tudo.
+7. coloque manjericão e salsinha.
 * Pães
 ** Fermentação natural
 *** Pão de milho com fermentação natural
@@ -24,6 +33,13 @@ até dobrar o tamanho.
 [[https://www.youtube.com/watch?v=bbv_P8bpvbg][Pao de fermentacao natural]]
 ** Tipos de pré fermentos
 [[https://www.youtube.com/watch?v=ElJFy8ACwEA][Yeasted preferments explained]]
+** Tortillas
+[[https://www.youtube.com/shorts/8J37hf2CLVA][Homemade flour tortillas]]
+3 cups of all purpoese flour
+1 teaspoon of salt
+1 teaspoon of baking powder
+how water.
+butter.
 * Ratatoulle
 * Paella
 * Saladas
